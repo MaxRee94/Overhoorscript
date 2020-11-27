@@ -1,8 +1,5 @@
 import os
 
-fpath = r"D:\Dropbox\Documents\marketing_samenvatting_h4.txt"
-f = open(fpath)
-term_dict = {}
 
 def remove_wrongstarts(rawline):
 	if rawline.startswith('-'):
@@ -45,34 +42,41 @@ def unusable_line(line):
 	if line.endswith(':'):
 		return True
 
-i = 0
-prev_def_seg = None
-for line in f:
-	if unusable_line(line):
-		continue
+def get_content():
+	fpath = r"D:\Dropbox\Documents\marketing_samenvatting_h4.txt"
+	f = open(fpath)
+	term_dict = {}
 
-	c_term, def_seg = get_raw_split(line)
+	i = 0
+	prev_def_seg = None
+	for line in f:
+		if unusable_line(line):
+			continue
 
-	if not c_term:
-		realterm = None
-		if prev_def_seg:
-			prev_def_seg += def_seg
+		c_term, def_seg = get_raw_split(line)
+
+		if not c_term:
+			realterm = None
+			if prev_def_seg:
+				prev_def_seg += def_seg
+			else:
+				prev_def_seg = def_seg
+
+			prev_def_seg = ' '.join(prev_def_seg.splitlines())
 		else:
+			# if no term in this line, that means the previous definition is complete.
+			# therefore, enter it into the dict. 
+			realterm = c_term
+			if prev_def_seg:
+				final_def = prev_def_seg
+				term_dict[realterm] = final_def
+
 			prev_def_seg = def_seg
 
-		prev_def_seg = ' '.join(prev_def_seg.splitlines())
-	else:
-		# if no term in this line, that means the previous definition is complete.
-		# therefore, enter it into the dict. 
-		realterm = c_term
-		if prev_def_seg:
-			final_def = prev_def_seg
-			term_dict[realterm] = final_def
+		i += 1
+		if i > 5:
+			break
 
-		prev_def_seg = def_seg
-
-	i += 1
-	if i > 5:
-		break
-
-print('dict:', term_dict)
+	print('dict:', term_dict)
+	return term_dict
+	
