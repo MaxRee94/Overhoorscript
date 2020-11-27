@@ -1,5 +1,4 @@
-import maya.cmds as mc
-import maya.mel as mel
+
 from PySide2 import QtCore as qc
 from PySide2 import QtWidgets as qg
 from PySide2 import QtGui as qtgui
@@ -211,7 +210,7 @@ class PushButton_custom(qg.QPushButton):
 
 class LineEdit_custom(qg.QLineEdit):
     def __init__(self, contents = '', font = 'SansSerif', size = 12,
-                 rgb = [30, 30, 30]):
+                 rgb = [170, 170, 170]):
         qg.QLineEdit.__init__(self)
 
         r = rgb[0]
