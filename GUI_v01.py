@@ -21,20 +21,16 @@ class GUI(qg.QDialog):
         self.mainLayout = qg.QVBoxLayout()
         self.setLayout(self.mainLayout)
         
-        # browsing layout
-        browse_layout = qg.QHBoxLayout()
-        self.mainLayout.addLayout(browse_layout)
-        
         # browse widgets
-        browse_header = utils.Label_custom('File Name:')
-        self.name_lineEdit = utils.LineEdit_custom()
+        self.question = utils.Label_custom('Wat is dit?')
+        self.txtfield = qg.QTextEdit()
         
         # add to browsing layout
-        browse_layout.addWidget(browse_header)
-        browse_layout.addWidget(self.name_lineEdit)
+        self.mainLayout.addWidget(self.question)
+        self.mainLayout.addWidget(self.txtfield)
         
         # main layout button
-        self.makePlayblast_button = utils.PushButton_custom('Playblast', 'SansSerif', 12, [60, 140, 60])
+        self.makePlayblast_button = utils.PushButton_custom('Check', 'SansSerif', 12, [60, 140, 60])
         
         # add makePlayblast button to main layout
         self.mainLayout.addWidget(self.makePlayblast_button)
@@ -61,7 +57,7 @@ class Controller(qc.QObject):
         self.gui.makePlayblast_button.clicked.connect(self.playblast_button_clicked)
 
     def playblast_button_clicked(self):
-        print('button clicked')
+        print('button clicked. input:', self.gui.txtfield.toPlainText())
         
 
 def main():
