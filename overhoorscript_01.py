@@ -71,9 +71,6 @@ for line in f:
 
 		prev_def_seg = def_seg
 
-	#print('c_term:', c_term)
-	#print('segment:', prev_def_seg)
-
 	i += 1
 	if i > 5:
 		break
