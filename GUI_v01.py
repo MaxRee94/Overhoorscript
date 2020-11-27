@@ -6,6 +6,7 @@ from functools import partial
 import sys
 import gui_utils as utils
 import os.path
+import overhoorscript_v01 as content
         
 
 class GUI(qg.QDialog):
@@ -13,7 +14,6 @@ class GUI(qg.QDialog):
         qg.QDialog.__init__(self)
         
         # window setup
-        self.setWindowTitle('Easy Playblast')
         self.setWindowFlags(qc.Qt.WindowStaysOnTopHint)
         self.setMinimumWidth(500)
         
@@ -23,7 +23,7 @@ class GUI(qg.QDialog):
         
         # browse widgets
         self.question = utils.Label_custom('Wat is dit?')
-        self.txtfield = qg.QTextEdit()
+        self.txtfield = qg.QLineEdit()
         
         # add to browsing layout
         self.mainLayout.addWidget(self.question)
@@ -40,13 +40,14 @@ class GUI(qg.QDialog):
         self.deleteLater()
         del self
 
-        print('easyPlayblast-GUI closed.')
+        print('GUI closed.')
 
 
 class Controller(qc.QObject):
     def __init__(self):
         #window = qg.QWidget()
         qc.QObject.__init__(self)
+        self.model = overhoorscrip
         self.gui = GUI()
 
     def setup(self):
@@ -54,10 +55,11 @@ class Controller(qc.QObject):
         self.gui.show()
 
     def connect_button(self):
-        self.gui.makePlayblast_button.clicked.connect(self.playblast_button_clicked)
+        self.gui.makePlayblast_button.clicked.connect(self.button_click_event)
 
-    def playblast_button_clicked(self):
-        print('button clicked. input:', self.gui.txtfield.toPlainText())
+    def button_click_event(self):
+        answer = self.gui.txtfield.text()
+        print('button clicked. input:', answer)
         
 
 def main():
