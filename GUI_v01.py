@@ -1,18 +1,18 @@
 # Easy Playblast tool
 from PySide2 import QtCore as qc
 from PySide2 import QtWidgets as qg
-from functools import partial
 
 import sys
 import gui_utils as utils
 import os.path
-import overhoorscript_v01 as content
+#import overhoorscript_v01 as content
         
 
 class GUI(qg.QDialog):
     def __init__(self):
         qg.QDialog.__init__(self)
-        
+        self.setWindowTitle('Overhoorscript')    
+
         # window setup
         self.setWindowFlags(qc.Qt.WindowStaysOnTopHint)
         self.setMinimumWidth(500)
@@ -45,9 +45,7 @@ class GUI(qg.QDialog):
 
 class Controller(qc.QObject):
     def __init__(self):
-        #window = qg.QWidget()
         qc.QObject.__init__(self)
-        self.content = content.get_content()
         self.gui = GUI()
 
     def setup(self):
