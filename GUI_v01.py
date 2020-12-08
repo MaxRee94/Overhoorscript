@@ -47,7 +47,7 @@ class Controller(qc.QObject):
     def __init__(self):
         #window = qg.QWidget()
         qc.QObject.__init__(self)
-        self.model = overhoorscrip
+        self.content = content.get_content()
         self.gui = GUI()
 
     def setup(self):
