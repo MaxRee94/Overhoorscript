@@ -1,0 +1,2225 @@
+3D-printen Maakt met behulp van machines laag
+voor laag vaste objecten, uit speciﬁcaties in digitale
+bestanden. Ook bekend als aanvullende fabricage.
+3G-netwerken Cellulaire netwerken gebaseerd op
+packet-switched technologie met snelheden die vari-
+eren van 14f4 Kbps voor gebruikers onderweg, tot meer
+dan 2 Mbps voor gebruikers in rust. Dit is voldoende
+capaciteit voor transmissie van video, graphics en
+andere data-intensieve toepassingen naast spraak.
+4G-netwerken De volgende ontwikkeling in draad-
+loze communicatie is geheel packet-switched en in
+staat snelheden tussen 1 Mbps en 1 Gbps te leveren. Tot
+tien keer sneller dan 3G-netwerken.
+Aanpassing In e-commerce het wijzigen van het gele-
+verde product of de geleverde dienst op basis van de
+voorkeuren of het eerdere gedrag van een gebruiker.
+Aanpassingsmogelijkheden Het veranderen van een
+soﬅwarepakket zodat het tegemoetkomt aan de unieke
+eisen van een organisatie zonder dat de integriteit van
+het pakket verloren gaat.
+Aansprakelijkheid Ingestelde mechanismen die
+bepalen wie er heeﬅ gehandeld en wie verantwoorde-
+lijk is.
+Aanvullende maatregelen Maatregelen die nodig zijn
+om waarde te halen uit een primaire investering.
+Abonnementenmodel Website die blijvend abon-
+nementsgeld vraagt voor toegang tot enige of al zijn
+inhoud of diensten.
+Acceptable use policy (AUP) Deﬁnieert wat een
+acceptabel gebruik is van de gegevensverzamelingen
+en de computerapparatuur van het bedrijf, zoals pc’s
+en laptops, draadloze apparatuur, telefoons en internet
+en legt vast wat acceptabele handelingen zijn.
+Acceptatietest Levert de uiteindelijke goedkeuring
+door gebruikers en management dat het systeem klaar
+is om in een productieomgeving te worden gebruikt.
+Aﬃliate-model Een e-commerce-inkomstenmodel
+waarin websites worden betaald als ‘aﬃliates’ om
+hun bezoekers tegen een verwijzingsvergoeding naar
+andere sites te sturen.
+Agent-based modellering Modelleren van complexe
+fenomenen als systemen van autonome agents die
+betrekkelijk eenvoudige regels voor interactie volgen.
+Agenttheorie Economische theorie die de onderne-
+ming ziet als een web van contracten tussen individuen
+met eigenbelangen, die supervisie en management
+nodig hebben.
+Agile-ontwikkeling Snelle levering van werkende
+soﬅware door het opsplitsen van een groot project in
+een reeks kleine deelprojecten die worden afgerond in
+een kort tijdsbestek door gebruikmaking van iteratie en
+voortdurende feedback.
+Analytisch CRM CRM-toepassingen die klantgege-
+vens analyseren en zo informatie leveren voor het
+verbeteren van de prestatie als geheel bij verkoop en
+marketing.
+Analytisch platform Specialistisch, zeer snel analy-
+tisch platform dat optimaal werkt voor het analyseren
+van grote datasets.
+Android Een mobiel besturingssysteem ontwikkeld
+door Android Inc. (gekocht door Google) en later de
+Open Handset Alliance als een ﬂexibel, upgradeable
+platform voor mobiele apparaten.
+Antivirussoﬅware Soﬅware die speciaal is ontwik-
+keld om computervirussen in informatiesystemen op te
+sporen en te verwijderen.
+Applicatieserver Soﬅware die alle applicatiefuncties
+uitvoert tussen de browsercomputer en de back-endtoe-
+passing of -database van de onderneming.
+Application controls Speciﬁeke maatregelen, uniek
+voor elke gecomputeriseerde applicatie, die ervoor
+zorgen dat uitsluitend geautoriseerde gegevens volledig
+en nauwkeurig door die applicatie worden verwerkt.
+Apps Kleine stukken soﬅware die via internet, je
+computer of je mobiele telefoon lopen en in het alge-
+meen via internet worden afgeleverd.
+Attribuut Informatie die een bepaalde entiteit
+beschrijﬅ.
+Augmented reality (AR) Een technologie voor het
+versterken van visualisatie. Levert een live direct of
+indirect beeld van een fysieke echte-wereldomgeving
+waarvan de elementen door een virtuele computerge-
+genereerde voorstellingswereld worden versterkt.
+Authenticatie Het vermogen van beide partijen in een
+transactie de identiteit van de andere partij te beves-
+tigen.
+Auteursrecht Een wettelijk recht dat makers van
+intellectueel eigendom ertegen beschermt dat hun
+werk tijdens hun leven en tot zeventig jaar na hun dood
+voor enig doel door anderen wordt gekopieerd.
+Automatisering De computer gebruiken om de presta-
+ties van bestaande taken te versnellen.
+Autorisatiebeleid Beleid
+dat
+de
+verschillende
+toegangsniveaus tot informatiesystemen voor de
+verschillende typen gebruikers bepaalt.
+B2B-e-commerce De verkoop van goederen en dien-
+sten tussen bedrijven.
+B2C-e-commerce Elektronische verkoop van
+producten en diensten direct aan individuele klanten.
+Backward chaining Strategie voor het doorzoeken
+van een regelbasis in een expertsysteem die werkt als
+een probleemoplosser door te beginnen met een hypo-
+these en die steeds meer informatie verzamelt totdat de
+hypothese wordt bevestigd of weerlegd.
+Balanced-scorecardmethode Een kader voor het
+operationaliseren van het strategisch plan van een
+bedrijf door te richten op meetbare resultaten met
+betrekking tot vier aspecten van de bedrijfsprestatie:
+ﬁnanciën, bedrijfsprocessen, klanten, en leren en
+groei.
+Bandbreedte De overdrachtscapaciteit van een
+communicatiekanaal zoals gemeten door het verschil
+te nemen tussen de hoogste en laagste frequenties die
+door dat kanaal kunnen worden doorgegeven.
+Beacons Kleine objecten die onzichtbaar zijn inge-
+bouwd in e-mailberichten en webpagina’s, ontworpen
+voor het volgen van het gedrag van de gebruiker die een
+website bezoekt of een e-mail verstuurt.
+Bedrijfscontinuïteitsplanning Planning die is gericht
+op de wijze waarop het bedrijf bedrijfsoperaties kan
+herstellen nadat er zich een ramp heeﬅ voorgedaan.
+Bedrijfsecosysteem Zwak gekoppelde, maar onaf-
+hankelijke netwerken van leveranciers, distributeurs,
+uitzendbureaus, transportdiensten en technologiepro-
+ducenten.
+Bedrijfsfuncties Gespecialiseerde
+taken
+binnen
+organisaties, zoals verkoop en marketing, productie,
+ﬁnanciën, boekhouding en personeelszaken.
+Bedrijfsgeheim Elk intellectueel werkresultaat dat
+voor een zakelijk doel wordt gebruikt, mits het niet is
+gebaseerd op informatie in het publieke domein.
+Bedrijfsinformatiesystemen Informatiesystemen op
+het managementniveau binnen een organisatie die
+de functies van planning, controle en besluitvorming
+ondersteunen door overzichten en rapportages van
+afwijkingen te geven.
+Bedrijfsmodel Een abstractie van wat een onderne-
+ming is en hoe de onderneming een product of dienst
+begrippenlijst
+levert, daarbij tonend hoe de onderneming welvaart
+creëert.
+Bedrijfsprocessen De unieke manier waarop orga-
+nisaties werkactiviteiten, informatie en kennis coör-
+dineren en organiseren om een product of dienst te
+produceren.
+Benchmarking Het opstellen van strikte standaarden
+voor producten, diensten of activiteiten en het verge-
+lijken van de prestaties van de organisatie met deze
+standaarden.
+Beslissingsondersteunend systeem (DSS) Compu-
+tersysteem op het managementniveau van een organi-
+satie die gegevens, analytische middelen en modellen
+gebruikt om semigestructureerde en ongestructureerde
+beslissingen te ondersteunen.
+Beslissingsrol Mintzbergs classiﬁcatie van manage-
+mentrollen waarbij managers activiteiten initiëren,
+problemen oplossen, middelen toewijzen en bemid-
+delen bij conﬂicten.
+Best practices De door een speciﬁeke organisatie of
+branche ontwikkelde, meest succesvolle oplossingen of
+probleemoplossende methoden.
+Bestand Een groep records van hetzelfde type.
+Beurs Soort online forum waar kopers producten
+kunnen kopen van verkopers via een vraag-aanbodsys-
+teem.
+Beveiliging Beleidsmaatregelen, procedures en tech-
+nische maatregelen die worden gebruikt om ongeau-
+toriseerde toegang, wijzigingen, diefstal en fysieke
+schade aan informatiesystemen te voorkomen.
+Beveiligingsbeleid Uitspraken die een rangorde vast-
+stellen voor informatierisico’s en aanvaardbare bevei-
+ligingsdoelen en de manieren waarop deze doelen
+kunnen worden bereikt.
+Beveiligingsplan Een plan voor het herstel van
+computer- en communicatiediensten nadat deze zijn
+verstoord door een ernstige gebeurtenis. Ook bekend
+als calamiteitenplan of bedrijfsnoodplan.
+Big data Gegevensverzamelingen met dermate grote
+volumes dat ze niet in een doorsnee relationele DBMS
+kunnen worden verzameld, opgeslagen en geanaly-
+seerd. De gegevens zijn vaak ongestructureerd of half-
+gestructureerd.
+Biometrische
+authenticatie Authenticatiemethode
+die de unieke kenmerken van een persoon, zoals
+vingerafdrukken, gezicht of netvliesbeeld vergelijkt
+met een opgeslagen proﬁel van deze kenmerken.
+Bit Een binair getal dat de kleinste gegevenseenheid
+in een computersysteem vertegenwoordigt. Het heeﬅ
+slechts twee staten, 0 of 1.
+Blog Populaire term voor weblog, een informele maar
+gestructureerde website waarop mensen verhalen,
+meningen en links naar andere interessante websites
+kunnen publiceren.
+Blogosfeer Het geheel van aan blogs gerelateerde
+websites.
+Bluetooth Netwerkstandaard voor snelle communi-
+catie op basis van radiotechnologie tussen handheld
+apparaten binnen een straal van 300 meter.
+Botnet Een groep computers die buiten medeweten
+van de gebruikers geïnfecteerd is met botmalware,
+waardoor een hacker de verzamelde bronnen van deze
+computers kan inzetten om DDoS- en phishingaan-
+vallen uit te voeren en ongevraagde spam-e-mail te
+versturen.
+Breedband Technologieën voor snelle overdracht.
+Ook gebruikt om overdrachtsmedia weer te geven die
+verschillende kanalen tegelijk over één communicatie-
+medium kunnen transporteren.
+Bugs Defecten of fouten in de programmacode.
+Bullwhip-eﬀect Verstoring van informatie over de
+vraag naar een product als dit langs de supply chain
+van de ene entiteit naar de andere gaat.
+Business intelligence Systemen die bestaan uit
+technologieën en toepassingen die ontworpen zijn om
+gebruikers te helpen betere beslissingen te nemen.
+Business performance management (BPM) Pogingen
+om de strategieën van een onderneming (bijv. diﬀeren-
+tiatie, goedkope producent, groei van marktaandeel
+en draagwijdte van operatie) systematisch te vertalen
+naar operationele doelen.
+Business process management (BPM) Een bedrijfs-
+aanpak gericht op het voortdurend verbeteren en
+managen van bedrijfsprocessen.
+Business process
+re-engineering
+(BPR) Radicale
+reorganisatie van de bedrijfsprocessen, waarbij work-
+ﬂows worden gereconstrueerd, stappen worden gecom-
+bineerd om dubbele en herhalende, papieren taken te
+elimineren om de bedrijfsprocessen sneller te maken,
+de dienstverlening en kwaliteit te verbeteren en de
+voordelen van informatietechnologie te maximali-
+seren.
+Byte Een string bits, gewoonlijk acht, die wordt
+gebruikt om één getal of teken in een computersysteem
+op te slaan.
+C2C-e-commerce Consumenten die goederen en dien-
+sten elektronisch verkopen aan andere consumenten.
+Capital
+Case-based reasoning (CBR) AI-technologie die
+kennis weergeeﬅ als een database met casussen en
+oplossingen.
+Change agent In de context van implementatie,
+de individuele persoon die gedurende het verande-
+ringsproces als katalysator optreedt om succesvolle
+aanpassing aan een nieuw systeem of innovatie te
+garanderen.
+Chatbot Soﬅwareagenten die
+zijn ontworpen om
+een getypte of gesproken conversatie met een of meer
+menselijke gebruikers na te bootsen.
+Chatten Live, interactieve conversatie via een open-
+baar netwerk.
+Chief data
+oﬃcer
+(CDO) Verantwoordelijke
+voor
+ondernemingsbreed beheer en benutten van infor-
+matie voor het maximaliseren van de waarde die de
+organisatie uit zijn gegevens kan realiseren.
+Chief
+information
+oﬃcer
+(CIO) Hogere manager
+verantwoordelijk voor de informatiesystemen binnen
+de onderneming.
+Chief knowledge oﬃcer (CKO) Topmanager die
+verantwoordelijk is voor de kennismanagementpro-
+gramma’s van de organisatie.
+Chief privacy oﬃcer (CPO) Verantwoordelijk voor het
+naleven door het bedrijf van de bestaande privacywet-
+geving.
+Chief security oﬃcer (CSO) Persoon die de formele
+beveiliging van een bedrijf beheert en die verantwoor-
+delijk is voor het uitvoeren van het beveiligingsbeleid
+van het bedrijf.
+Chrome OS Googles
+lichtgewicht
+computerbestu-
+ringssysteem voor gebruikers die het meeste van hun
+computerwerk op internet doen; draait op computers
+variërend van netbooks tot vaste pc’s.
+Churn rate Maat voor het aantal klanten dat stopt met
+het gebruik of het kopen van producten of diensten van
+een bedrijf. Het is een belangrijke indicator van de groei
+of afname van het klantenbestand van een bedrijf.
+Client Inputpunt voor de gebruiker van de functie in
+een client-servernetwerk. Gewoonlijk is dit een desk-
+topcomputer, een werkstation of een laptopcomputer.
+Client-servernetwerk Een computermodel
+dat
+de
+verwerking opsplitst in een deel voor ‘clients’ en een
+deel voor ‘servers’ op het netwerk, waarbij functies
+worden toegewezen aan de machine die hiervoor het
+meest geschikt is.
+Cloud
+budgeting De analyse en selectie van
+verschillende voorstellen voor kapitaalinvesteringen.
+Carpale tunnel-syndroom Vorm van RSI waarbij druk
+op de nervus medianus (de middelste armzenuw) door
+de botstructuur van de pols pijn veroorzaakt.
+begrippenlijst
+bedrijven en particulieren,
+computing Een computingmodel waarbij
+in plaats van hun eigen
+hardware en soﬅware te kopen, via internet de beschik-
+king krijgen over rekenkracht en soﬅwaretoepassingen.
+Commissiemodel Een online e-commerce-inkom-
+stenmodel waarbij de onderneming een vergoeding
+ontvangt voor het mogelijk maken of uitvoeren van
+transacties.
+Communities of practice (COP’s)
+Informele sociale
+netwerken van professionals en werknemers binnen en
+buiten de onderneming die vergelijkbare werkgerela-
+teerde activiteiten en interesses hebben, en hun kennis
+delen.
+Communityprovider Een websitebedrijfsmodel dat
+een digitale online omgeving creëert, waar mensen met
+gelijke interesses kunnen handelen (goederen kopen
+en verkopen); interesses, foto’s en video’s delen; met
+gelijkgestemden communiceren; interessegerelateerde
+informatie ontvangen; en zelfs hun fantasieën tot leven
+brengen door online persoonlijkheden, zogeheten
+avatars te adopteren.
+Component-based development (CBD) Creatie van
+grootschalige bedrijfstoepassingen door combinatie
+van reeds bestaande soﬅwarecomponenten.
+Computer-aided design (CAD)
+Informatiesysteem dat
+de creatie en bewerking van ontwerpen automatiseert
+door middel van geavanceerde graﬁsche soﬅware.
+Computer-aided soﬅware
+engineering
+(CASE) De
+automatisering van stap-voor-stapmethodologieën
+voor soﬅware- en systeemontwikkeling om het aantal
+herhaalde taken voor de ontwikkelaar te reduceren.
+Computercriminaliteit De opdracht tot illegale hande-
+lingen door het gebruik van een computer of tegen een
+computersysteem.
+Computerhardware De fysieke apparatuur die wordt
+gebruikt voor input-, verwerkings- en outputactivi-
+teiten in een informatiesysteem.
+Computerkennis Kennis van informatietechnologie,
+voornamelijk van hoe computergebaseerde technolo-
+gieën werken.
+Computermisbruik Het verrichten van handelingen
+met een computer die misschien niet illegaal zijn, maar
+wel beschouwd worden als onethisch.
+Computersoﬅware De gedetailleerd geprogram-
+meerde instructies die de hardwarecomponenten in
+een informatiesysteem controleren en coördineren.
+Computervirus Soﬅwareprogramma dat van systeem
+naar systeem springt en computergeheugen verbruikt
+of programma’s en gegevens vernietigt.
+Computer vision syndrome (CVS) Spanning op de
+ogen die optreedt na langdurig gebruik van desktop-
+computers, laptops, e-readers, smartphones en draag-
+bare spelcomputers.
+Concurrentiekrachtenmodel Model van Porter dat
+wordt gebruikt om de interactie van een organisatie en
+haar omgeving te beschrijven, vooral de bedreigingen
+en mogelijkheden, die van invloed zijn op de strategie
+en concurrentiepositie van een organisatie.
+begrippenlijst
+Consumentisering van IT Nieuwe informatietech-
+nologie afomstig uit de consumentenmarkt die zich
+verspreidt naar bedrijfsorganisaties.
+Contra-implementatie Een bewuste strategie om de
+implementatie van een informatiesysteem of een inno-
+vatie in een organisatie te dwarsbomen.
+Conversie Het proces van het overstappen van het
+oude op het nieuwe systeem.
+Cookies Kleine tekstbestanden die op de harddrive
+van een computer worden achtergelaten door een
+webserver als een gebruiker websites bezoekt om zo
+surfgedrag te monitoren.
+Coöptatie Het betrekken van de oppositie bij het
+proces van ontwerpen en implementeren van de oplos-
+sing, zonder dat de controle over de richting en aard
+van de verandering uit handen wordt gegeven.
+Cracker Een hacker met criminele bedoelingen.
+Cross-selling De marketing van aanvullende
+producten aan klanten.
+Crowdsourcing Grote internetdoelgroepen voor
+advies, marktfeedback, nieuwe ideeën en oplossingen
+voor bedrijfsproblemen gebruiken. Verwant met de
+‘wijsheid van de massa’-theorie.
+Cultuur De fundamentele set overtuigingen, waarden
+en manieren waarop dingen worden gedaan, die door
+de meeste werknemers wordt geaccepteerd.
+Customer
+lifetime value (CLTV) Representeert de
+verschillen tussen opbrengsten en uitgaven minus
+de kosten van promotiemarketing om een klant te
+behouden; de waarde van dit bedrag wordt uitgedrukt
+in dollars tegen de huidige koers.
+Customer-relationship-managementsysteem
+(CRM)
+Informatiesystemen die alle manieren waarop een
+bedrijf contact onderhoudt met zijn klanten bijhoudt en
+analyseert op winsten, rentabiliteit, klanttevredenheid
+en klantbehoud.
+Cyberoorlogsvoering Door de staat gesponsorde
+activiteit ontworpen voor het verlammen en verslaan
+van een andere staat of natie door diens computers of
+netwerken te beschadigen of te verstoren.
+Cybervandalisme De opzettelijke verstoring, bescha-
+diging of zelfs vernietiging van een website of bedrijfs-
+informatiesysteem.
+Data cleansing Het corrigeren van fouten en inconsis-
+tenties in gegevens om de nauwkeurigheid te verhogen,
+zodat ze in een standaardformaat in de hele organisatie
+kunnen worden gebruikt.
+Data dictionary Een geautomatiseerd of handmatig
+bewerkbaar bestand dat informatie over gegevens in
+een database opslaat en organiseert.
+Data governance Richtlijnen en processen voor het
+managen van de beschikbaarheid, bruikbaarheid,
+integriteit en de beveiliging van de gegevens van een
+bedrijf.
+Data mart Een kleiner datawarehouse dat slechts een
+deel van de gegevens binnen een organisatie bevat
+voor een speciﬁeke functie, afdeling of gebruiker.
+Data quality audit Een gestructureerd onderzoek van
+de juistheid en volledigheid van de gegevens in een
+informatiesysteem.
+Data scrubbing Zie Data cleansing
+Database Een verzameling gegevens die is georga-
+niseerd om te worden gebruikt door veel toepassingen
+tegelijk, waarbij gegevens zo worden opgeslagen en
+beheerd dat het lijkt alsof ze op één locatie zijn opge-
+slagen.
+Databaseadministratie Heeﬅ betrekking op de meer
+technische en operationele aspecten van het beheren
+van gegevens, inclusief het fysieke ontwerp van de
+database en onderhoud.
+Databasemanagementsysteem
+(DBMS) Speciale
+soﬅware om een database te maken en te onderhouden
+en die speciﬁeke bedrijfstoepassingen in staat stelt de
+benodigde gegevens te vinden zonder aparte bestanden
+of gegevensdeﬁnities aan de computerprogramma’s toe
+te moeten voegen.
+Databaseserver Een computer in een client-server-
+omgeving waarop een DBMS draait om SQL-statements
+te verwerken en databasemanagementtaken uit voeren.
+Datadeﬁnitie Een functie van DBMS-systemen die de
+structuur en de content van de database speciﬁceert.
+Dataflowdiagram (DFD) Belangrijkste middel voor
+gestructureerde analyse die op een graﬁsche manier
+de verschillende processen in een systeem en de gege-
+vensstromen tussen de processen weergeeﬅ.
+Data-inconsistentie De aanwezigheid van verschil-
+lende waarden voor hetzelfde attribuut wanneer
+dezelfde data op meerdere locaties zijn opgeslagen.
+Datamanagementtechnologie Soﬅware die de orga-
+nisatie van gegevens op fysieke opslagmedia regelt.
+Datamanipulatietaal Een taal die wordt geassocieerd
+met een databasemanagementsysteem die eindgebrui-
+kers en programmeurs gebruiken om gegevens in de
+database te manipuleren.
+Datamining Analyse van grote hoeveelheden gege-
+vens om patronen en relaties te vinden die kunnen
+worden gebruikt om toekomstig gedrag te voorspellen
+en te helpen bij het nemen van beslissingen.
+Dataredundantie De aanwezigheid van dubbele gege-
+vens in meerdere gegevensbestanden.
+Datavisualisatie Technologie om gebruikers te helpen
+patronen en verbanden in grote aantallen gegevens te
+begrippenlijst
+ontdekken, die moeilijk te onderscheiden zouden zijn
+als de gegevens in de vorm van traditionele regels tekst
+werden gerepresenteerd.
+Datawarehouse Een database met rapportage- en
+querytools, die huidige en historische gegevens
+opslaat die uit verschillende operationele systemen
+zijn gehaald en die worden opgeslagen voor gebruik bij
+rapportage en analyse.
+Deep packet inspection (DPI) Technologie voor het
+managen van netwerkverkeer door het bekijken van
+gegevensbestanden waarbij online materiaal met lage
+prioriteit ertussenuit wordt geﬁlterd en aan bedrijfs-
+kritische bestanden een hogere prioriteit wordt toege-
+kend.
+Demand planning Bepalen van de hoeveelheid
+product die een onderneming nodig heeﬅ om aan de
+vraag van alle klanten te kunnen voldoen.
+Denial-of-Service-aanval
+(DoS-aanval) Het over-
+spoelen van een webserver met verzoeken om gegevens
+met als doel het netwerk te laten crashen.
+DevOps Een organisatiestrategie die op basis van
+agile-ontwikkelmethoden een cultuur en een omge-
+ving creëert die snelle en ‘agile’ (wendbare) ontwikkel-
+praktijken bevorderen.
+Digitaal certiﬁcaat Een bijlage van een elektronisch
+bericht dat de identiteit van de afzender veriﬁeert en de
+ontvanger een manier geeﬅ een reactie te coderen.
+Digitaal dashboard Laat op één scherm alle metingen
+zien die van cruciaal belang zijn voor het besturen van
+een bedrijf.
+Digital Millennium Copyright Act (DMCA) Heeﬅ een
+verdrag ingevoerd dat het illegaal maakt om op tech-
+nologie gebaseerde bescherming van materialen waar
+auteursrecht op rust te omzeilen.
+Digital subscriber line (DSL) Een groep technologieën
+die een hoge overdrachtscapaciteit levert via bestaande
+koperen telefoonlijnen.
+Digitale assetmanagementsystemen Ondersteunen
+bedrijven bij het classiﬁceren, opslaan en verspreiden
+van dergelijke digitale objecten.
+Digitale goederen Goederen die via een digitaal
+netwerk kunnen worden geleverd.
+Digitale kloof Grote verschillen tussen toegang tot
+computers en internet onder mensen uit verschillende
+sociale milieus.
+Digitale onderneming Organisaties die bijna alle
+belangrijke bedrijfsprocessen en relaties met klanten,
+leveranciers en werknemers digitaal
+realiseren en
+belangrijke bedrijfsmiddelen digitaal beheren.
+Directe overstap Riskante conversiebenadering
+waarbij het nieuwe systeem het oude op de geplande
+datum volledig vervangt.
+Disintermediatie De eliminatie van lagen in de orga-
+nisatie of in bedrijfsprocessen die verantwoordelijk zijn
+voor de tussenstappen in een waardeketen.
+Distributed Denial-of-Service-aanval
+(DDoS-aanval)
+Een groot aantal computers die het netwerk vanaf vele
+kanten tegelijk overspoelen en lamleggen.
+Documentatie Beschrijvingen van hoe een informa-
+tiesysteem werkt, vanuit technisch oogpunt of vanuit
+het oogpunt van de eindgebruiker.
+Domain name system (DNS) Een
+hiërarchisch
+systeem van servers die databases bijhouden en die
+domeinnamen omzetten in IP-adressen.
+Domeinnaam De unieke naam van een knooppunt op
+internet.
+Downtime Perioden wanneer een informatiesysteem
+niet werkt.
+Draagwijdte (scope) Deﬁnieert welk werk al dan niet
+tot een project behoort.
+Draaitabel Spreadsheetprogramma voor het reorga-
+niseren en samenvatten van twee of meer gegevensa-
+specten in een tabelformaat.
+Drill down Het vermogen om van overzichtsgegevens
+naar steeds lagere niveaus van detail te gaan.
+Drive-by downloads Malware die meekomt met een
+gedownload bestand dat een gebruiker bewust of onbe-
+wust opvraagt.
+Dynamisch prijzen Prijzen van artikelen gebaseerd
+op realtime interacties tussen kopers en verkopers die
+bepalen wat een artikel op een bepaald moment waard is.
+E-business Het gebruik van internet en andere digi-
+tale technologieën voor communicatie en coördinatie
+binnen de organisatie en het management van de
+onderneming.
+E-commerce Het
+elektronisch kopen en verkopen
+van goederen en diensten in transacties via internet,
+netwerken of andere digitale technologieën.
+Eﬃciënt
+klantresponssysteem Systeem dat direct
+een link legt tussen het gedrag van de klant en distri-
+butie, productie en supply chains.
+E-government De toepassing van internet en
+verwante technologieën op het digitaal mogelijk
+maken van relaties van de overheid en instellingen uit
+de publieke sector met burgers, bedrijven en andere
+takken van de overheid.
+Eindgebruikerontwikkeling De ontwikkeling van
+informatiesystemen door eindgebruikers, met geen of
+weinig formele hulp van technische specialisten.
+Eindgebruikers Vertegenwoordigers van de afde-
+lingen buiten de IT-groep, voor wie de toepassingen
+van het informatiesysteem zijn ontwikkeld.
+begrippenlijst
+Eindgebruikersinterface Dat deel van het systeem
+waarmee de eindgebruikers communiceren, zoals een
+online weergave en opdrachtvensters.
+Elektronische
+gegevensuitwisseling
+uitwisseling
+van
+tussen twee ondernemingen via de computer.
+Elektronische hub (e-hub) Online B2B-forum.
+E-mail Uitwisseling van berichten tussen computers.
+Employee
+relationship management
+(EDI) Directe
+standaardtransactiedocumenten
+(ERM) Soﬅ-
+ware die zich bezighoudt met onderwerpen die nauw
+verband houden met CRM, zoals het stellen van doelen,
+prestatiemanagement, prestatiebeloning en training
+van personeel.
+Encryptie Het coderen van berichten om ongeautori-
+seerde toegang tot of begrip van de gegevens te voor-
+komen.
+Enterprise-contentmanagementsystemen (ECM)
+Bieden databases en programma’s voor het ordenen en
+opslaan van gestructureerde documenten en program-
+ma’s voor het ordenen en opslaan van semigestructu-
+reerde kennis, zoals e-mail en rijke media.
+Enterprisesoﬅware Een
+set
+gerelateerde modules
+voor toepassingen in verkoop en distributie, ﬁnanciën
+en boekhouden,
+investeringsbeheer, materieelbeheer,
+productieplanning, locatiebeheer en personeelszaken,
+waardoor gegevens door verschillende functies en
+bedrijfsprocessen kunnen worden gebruikt en coördi-
+natie en controle nauwkeuriger kunnen worden beheerd.
+Enterprisesystemen
+bedrijfsbrede informatiesystemen die de belangrijkste
+interne processen van de onderneming coördineren.
+Enterprisetoepassingen Systemen die
+activiteiten,
+besluiten en kennis kunnen coördineren over veel
+verschillende functies, niveaus en business units van
+een onderneming. Bestaat uit enterprisesystemen,
+supply-chain-managementsystemen
+en
+kennisma-
+nagementsystemen.
+Entiteit Een persoon, plaats, ding of gebeurtenis
+waarover informatie wordt verzameld.
+Entiteit-relatiediagram Een methode om databases te
+documenteren door de relaties tussen de verschillende
+entiteiten in de database te illustreren.
+Ergonomie De interactie tussen mensen en machines
+in de werkomgeving; omvat de deﬁnitie van taken,
+gezondheid en de eindgebruikersinterface met infor-
+matiesystemen.
+E-tailer Online detailhandels van de reus Amazon
+tot kleine lokale winkels met websites waar goederen
+worden verkocht.
+Ethiek De principes van goed en fout die personen,
+als actoren met een vrije morele wil, hanteren bij het
+maken van gedragskeuzes.
+(ERP-systemen) Geïntegreerde
+Ethische no free lunch-regel (Alles heeﬅ zijn prijs-
+regel) Neem aan dat vrijwel alle materiële en immate-
+riële voorwerpen het eigendom zijn van iemand anders,
+tenzij expliciet anders is aangegeven.
+Evil twins Draadloze netwerken die betrouwbaar
+overkomen om gebruikers over te halen in te loggen en
+wachtwoorden of creditcardgegevens op te geven.
+Exchange Netmarktplaats van derden die voorname-
+lijk transactiegericht is en veel kopers en leveranciers
+voor aankopen met elkaar in contact brengt.
+Executive-supportsystemen
+(ESS)
+Informatiesys-
+temen op het strategisch niveau van de organisatie,
+ontworpen voor het behandelen van ongestructu-
+reerde besluitvorming door geavanceerde graphics en
+communicatie.
+Expertsysteem Kennisintensief computerprogramma
+dat menselijke expertise op speciﬁeke kennisgebieden
+verzamelt.
+Expliciete kennis Kennis die gedocumenteerd is.
+Extern
+integratieprogramma Projectmanagement-
+techniek die het werk van het implementatieteam
+verbindt aan dat van de gebruikers op alle niveaus
+binnen de organisatie.
+Externe
+sleutel Een veld in een databasetabel
+waarmee gebruikers verwante informatie in een andere
+databasetabel kunnen opzoeken.
+Extranet Intranet dat beschikbaar is voor geautori-
+seerde gebruikers buiten de organisatie.
+Fair
+Information Practices (FIP) Een verzameling
+principes die betrekking hebben op het verzamelen en
+gebruiken van informatie over personen.
+Feedback Output die wordt
+teruggegeven aan de
+leden van de organisatie die de input daarna kunnen
+evalueren of corrigeren.
+File transfer protocol (FTP) Tool voor het zoeken en
+ophalen van bestanden van een andere computer.
+Firewall Hardware en soﬅware die tussen het interne
+netwerk van de organisatie en het externe netwerk,
+inclusief internet, wordt geplaatst om te voorkomen dat
+buitenstaanders toegang kunnen krijgen tot het parti-
+culiere netwerk.
+Forensisch computeronderzoek Een wetenschap-
+pelijke manier van verzamelen, onderzoeken, authen-
+ticeren, bewaren en analyseren van gegevens die
+worden bewaard op of worden verkregen uit compu-
+teropslagmedia zodat de informatie in een rechtszaak
+kan worden gebruikt als bewijsmateriaal.
+Formele
+controletool Projectmanagementtechniek
+die helpt bij het controleren van de voortgang van
+taken en het bereiken van doelen.
+begrippenlijst
+Formele
+planningtool Projectmanagementtechniek
+die taken structureert en ordent en tijd, geld en materi-
+alen budgetteert om taken uit te voeren.
+Forward chaining Strategie voor het doorzoeken van
+een regelbasis in een expertsysteem waarbij wordt
+begonnen met de informatie die door de gebruiker
+wordt ingevoerd en de regelbasis wordt doorzocht tot
+een resultaat wordt gevonden.
+Fouttolerant
+computersysteem Systeem dat extra
+hardware, soﬅware en elektriciteitstoevoer bevat, zodat
+van een systeem een back-up kan worden gemaakt en
+het blijﬅ draaien wanneer het hoofdsysteem uitvalt.
+Franchise Onderneming waarin het product wordt
+gemaakt, ontworpen, geﬁnancierd en in het begin ook
+geproduceerd in het thuisland, maar die om product-
+speciﬁeke redenen afankelijk is van buitenlands
+personeel voor verdere productie, marketing en perso-
+neelszaken.
+Fuzzy logic Regelgebaseerde KI die onnauwkeurig-
+heid tolereert en met onnauwkeurig gedeﬁnieerde
+regels, zogenoemde lidfuncties, problemen probeert op
+te lossen.
+Gantt-chart Overzicht van projectactiviteiten en de
+corresponderende start- en einddata.
+Gateway Een communicatieprocessor die verschil-
+lende netwerken kan verbinden door één set proto-
+collen te vertalen naar een andere set.
+Geautomatiseerde
+transactieverwerking Methode
+waarbij transacties online worden ingevoerd en direct
+door de computer worden verwerkt.
+Gebruiker-ontwerpercommunicatiekloof Verschillen
+in achtergronden, interesses en prioriteiten die commu-
+nicatie tussen eindgebruikers en IT-specialisten en het
+oplossen van problemen problematisch kunnen maken.
+Gebruikersinterface Dat deel van het informatiesys-
+teem waarmee de eindgebruiker communiceert; type
+hardware en de reeks opdrachten en reacties die de
+gebruiker moet invoeren om met het systeem te kunnen
+werken.
+Gedragsgerichte marketing Volgt de klikstromen
+(geschiedenis van klikgedrag) van individuele
+personen over meerdere websites met als doel hun
+interesses en bedoelingen te begrijpen, en hen bloot te
+stellen aan advertenties die uniek zijn aangepast aan
+hun interesses.
+Gedragsmodellen Beschrijvingen van management
+op basis van de observaties van gedragswetenschap-
+pers van wat managers eigenlijk doen.
+Gefaseerde benadering Introduceert het nieuwe
+systeem in fasen, per functie of per afdeling.
+Gegevens Stromen onbewerkte feiten die gebeurte-
+nissen vertegenwoordigen die plaatsvinden binnen
+organisaties of in de fysieke omgeving, voordat ze
+worden georganiseerd en geordend in een vorm die
+mensen kunnen begrijpen en gebruiken
+Gegevenselement Een veld.
+Gegevensverwerkers Mensen, bijvoorbeeld secreta-
+resses of boekhouders, die de administratieve taken
+binnen de organisatie uitvoeren.
+General IT controls Algemene maatregelen betref-
+fende het ontwerp, de beveiliging en het gebruik van
+computerprogramma’s en de algemene beveiliging van
+gegevensbestanden van een organisatie.
+Genetische
+algoritmen Probleemoplossingsme-
+thoden die de evolutie van oplossingen voor speci-
+ﬁeke problemen bevorderen door middel van dezelfde
+modellen die levende organismen gebruiken om zich
+aan te passen aan hun omgeving.
+Geo-informatiedienst Informatie over lokale
+plaatsen en dingen gebaseerd op de GPS-positie van de
+gebruiker.
+Georeclame Leveren van advertenties aan gebruikers
+gebaseerd op hun GPS-locatie.
+Geosociale dienst Sociaal netwerk gebaseerd op de
+GPS-locatie van gebruikers.
+Gestructureerde
+beslissingen Beslissingen die
+herhalend en routinematig zijn en een vaststaande
+afandelingsprocedure volgen.
+Gestructureerde kennis Kennis die reeds ergens in
+de onderneming aanwezig is in de vorm van gestruc-
+tureerde tekstdocumenten en rapporten of presentaties
+en het belangrijkste probleem.
+GIS (Geograﬁsch informatiesysteem) Systeem met
+soﬅware die gegevens kan analyseren en weergeven
+als digitale plattegronden om planning en besluitvor-
+ming te ondersteunen.
+Gouden regel Jezelf als het object van een beslissing
+in de plaats van anderen plaatsen.
+Gratis/premiummodel Een e-commerce-inkomsten-
+model waarbij een bedrijf basisdiensten of content
+gratis aanbiedt, terwijl er voor geavanceerdere of hoog-
+waardige functies extra betaald moet worden.
+Green computing Staat voor gebruiken en techno-
+logieën voor het ontwerpen, fabriceren, gebruiken en
+afvoeren van computers, servers en randapparatuur
+zoals monitors, printers, opslagapparaten en netwerk-
+en communicatiesystemen voor het minimaliseren van
+de invloed op de omgeving.
+Group decision-support-system (GDSS) Een interac-
+tief computersysteem dat de oplossing van ongestruc-
+tureerde problemen door een aantal beslissers die als
+groep samenwerken, mogelijk maakt.
+begrippenlijst
+Gsm Een apparaat dat spraak of gegevens verstuurt,
+gebruikmakend van radiogolven die communiceren
+via radioantennes die binnen naast elkaar gelegen
+geograﬁsche gebieden, zogenoemde cellen, liggen.
+Haalbaarheidsstudie Als onderdeel van het systeem-
+analyseproces de manier om te bepalen wanneer een
+oplossing, binnen de middelen en beperkingen van de
+organisatie, realiseerbaar is.
+Hacker Iemand die zonder toestemming toegang
+weet te krijgen tot een computernetwerk, of dit nu is om
+hieruit winst te behalen, een criminele daad te stellen
+of voor het eigen plezier.
+Hadoop Opensourcesoﬅwarekader waarmee enorme
+hoeveelheden gegevens over veel goedkope computers
+gedistribueerd parallel kunnen worden verwerkt.
+Hertz Maat voor de frequentie van elektrische pulsen
+per seconde, waarbij 1 Hertz gelijk is aan 1 cyclus per
+seconde.
+Hoger management Mensen die bovenaan staan in
+de hiërarchie binnen een organisatie en verantwoorde-
+lijk zijn voor langetermijnbeslissingen.
+Hotspot Een speciﬁeke geograﬁsche locatie waar-
+binnen een access point publiek een wiﬁnetwerkdienst
+biedt.
+HTML5 Volgende ontwikkeling van html, die het
+mogelijk maakt afeeldingen, video en audio zonder
+soﬅwaretoevoegingen rechtstreeks in een document in
+te bouwen.
+Hubs Zeer eenvoudige apparaatjes die netwerkcom-
+ponenten met elkaar verbinden en een pakket gegevens
+naar alle andere aangesloten apparaten versturen.
+Hypertext markup language (HTML) Paginabeschrij-
+vingstaal voor het creëren van webpagina’s.
+Hypertext transfer protocol (HTTP) De communica-
+tiestandaard die wordt gebruikt om webpagina’s weer
+te geven; deﬁnieert hoe berichten worden opgemaakt
+en doorgegeven.
+Identiteitsdiefstal Een misdrijf waarbij een bedrieger
+belangrijke stukken persoonlijke informatie in handen
+krijgt, zoals burgerservicenummers, nummers van
+rijbewijzen of creditcards, waarmee hij zich als iemand
+anders kan voordoen.
+Identiteitsmanagement Bedrijfsprocessen
+en
+soﬅ-
+wareprogramma’s voor het herkennen van de geldige
+gebruikers van een systeem en het controleren van hun
+toegang tot systeembronnen.
+Immateriële voordelen Voordelen die niet makkelijk
+kunnen worden gekwantiﬁceerd; bijvoorbeeld een eﬃ-
+ciëntere dienstverlening en betere besluitvorming.
+Implementatie Alle organisatorische activiteiten die
+toewerken naar gebruik, management, en ingeburgerd
+raken van een innovatie, zoals een nieuw informatie-
+systeem.
+Inbraakdetectiesysteem Maatregelen om de meest
+kwetsbare punten in een netwerk te controleren en om
+ongeautoriseerde indringers op te sporen en tegen te
+houden.
+Informatie Gegevens die in een vorm zijn gegoten die
+voor mensen begrijpelijk en bruikbaar is.
+Informatieasymmetrie Situatie waarbij de relatieve
+onderhandelingspositie van twee partijen in een trans-
+actie wordt bepaald door één partij die meer informatie
+heeﬅ die essentieel is voor de transactie dan de andere
+partij.
+Informatiebeleid Formele regels voor het bijhouden,
+distribueren en gebruiken van informatie binnen een
+organisatie.
+Informatiedichtheid De totale kwantiteit en kwaliteit
+aan beschikbare informatie voor alle marktpartijen,
+consumenten en handelaren.
+Informatie-eisen Een
+gedetailleerde
+beschrijving
+van de informatiebehoeﬅen waaraan een nieuw
+systeem moet voldoen; achterhaalt wie welke infor-
+matie wanneer, waar en hoe nodig heeﬅ.
+Informatieplan Een plan dat dient als een routebe-
+schrijving die de richting van de systeemontwikkeling,
+de basisprincipes, de huidige situatie, de manage-
+mentstrategie, het implementatieplan en het budget
+aangeeﬅ.
+Informatierechten De rechten die individuen en orga-
+nisaties hebben met betrekking tot hun eigen infor-
+matie.
+Informatierijkdom Meting van de diepte en gedetail-
+leerdheid van informatie die een bedrijf aan de klant
+kan leveren evenals de informatie die het bedrijf over
+de klant verzamelt.
+Informatierol Mintzbergs classiﬁcatie van manage-
+mentrollen waarbij managers fungeren als de zenuw-
+centra van hun organisatie, die de meest kritische
+informatie ontvangen en verspreiden.
+Informatiesysteem Aan elkaar gerelateerde compo-
+nenten die samenwerken om informatie te verzamelen,
+verwerken, opslaan en verspreiden ter ondersteuning
+van besluitvorming, coördinatie, controle, analyse en
+visualisatie binnen een organisatie.
+Informatietechnologie (IT) Alle hardware en soﬅ-
+ware die een onderneming nodig heeﬅ om zijn bedrijfs-
+doelstellingen te realiseren.
+begrippenlijst
+Informatietechnologie-infrastructuur De techno-
+logie voor de hardware, soﬅware, gegevens en opslag,
+en de netwerken bieden een combinatie van gedeelde
+IT-bronnen binnen de organisatie.
+Informatieverwerking Taken die voornamelijk
+bestaan uit het ontwikkelen of verwerken van infor-
+matie.
+Inkomstenmodel Een beschrijving van hoe een
+bedrijf inkomsten verdient, winsten genereert en een
+return on investment produceert.
+In-memory computing Technologie voor zeer snelle
+analyse en verwerking van grote hoeveelheden gege-
+vens door het opslaan van de gegevens in het hoofd-
+geheugen van de computer in plaats van in secundaire
+opslag.
+Input Het
+verzamelen van onbewerkte
+gegevens
+binnen de organisatie of de externe omgeving voor
+verwerking in een informatiesysteem.
+Installatie Fase in de levenscyclus van een systeem
+waarin wordt getest, getraind en geconverteerd; de
+laatste stappen voor de implementatie van een systeem.
+Instant messaging Chatdienst waarmee deelne-
+mers privé-chatkanalen kunnen opzetten, zodat een
+persoon gewaarschuwd wordt wanneer iemand op zijn
+of haar privé-lijst online is waarna met deze persoon
+gechat kan worden.
+Intellectueel
+eigendom Immateriële
+eigenschap
+gecreëerd door individuele personen of bedrijven die
+zijn onderworpen aan beschermingen onder handels-
+geheim, copyright en patentwet.
+Intelligent agent Soﬅwareprogramma dat een gepro-
+grammeerde of geleerde kennisbasis gebruikt om
+speciﬁeke, herhalende en voorspelbare taken uit te
+voeren voor een gebruiker, bedrijfsproces of soﬅware-
+toepassing.
+Intelligente
+technieken Technologieën die mense-
+lijke besluitvormers helpen door individuele en collec-
+tieve kennis te verzamelen, in grote hoeveelheden
+gegevens patronen en gedragingen te ontdekken, en
+oplossingen voor problemen te genereren die te groot
+en te complex zijn om door mensen alleen te worden
+opgelost.
+Interferentiemachine Strategie die wordt gebruikt
+voor het doorzoeken van de regelbasis in een expert-
+systeem: forward of backward chaining.
+Intern integratieprogramma Techniek bij projectma-
+nagement die verzekert dat het implementatieteam als
+een eenheid opereert.
+Internationale cultuur De ontwikkeling van geza-
+menlijke verwachtingen, kunstvoorwerpen en sociale
+normen in verschillende culturen en volkeren.
+Internationale gegevensstroom De verspreiding van
+informatie, in welke vorm ook, over internationale
+grenzen.
+Internationale
+informatiesysteemarchitectuur De
+basale informatiesystemen die organisaties nodig
+hebben om internationaal zaken te doen en activiteiten
+uit te voeren.
+Internet Internationaal netwerk van netwerken; een
+verzameling van honderdduizenden particuliere en
+publieke netwerken.
+Internet2 Onderzoeksnetwerk met nieuwe proto-
+collen en overdrachtssnelheden dat
+internettoepas-
+singen kan ondersteunen waarvoor een hoge band-
+breedte nodig is.
+Internetmarktplaats Een digitale marktplaats geba-
+seerd op internettechnologie die diverse kopers in
+contact brengt met diverse aanbieders.
+Internetserviceprovider (ISP) Een commerciële orga-
+nisatie met een permanente verbinding met internet,
+die tijdelijke verbindingen verkoopt aan abonnees.
+Interorganisatorische
+systemen Informatiesys-
+temen die de informatiestroom over de grenzen van de
+organisatie heen automatiseren en een onderneming
+koppelen aan de klanten, distributeurs of leveranciers.
+Interpersoonlijke rol Mintzbergs classiﬁcatie van
+managementrollen waarbij managers
+Java Programmeertaal die alleen de soﬅwarefuncti-
+onaliteit biedt die voor een bepaalde taak nodig is als
+een kleine applet die vanaf een netwerk wordt gedown-
+load; kan op elke willekeurige computer en op elk
+besturingssysteem draaien.
+Joint application design (JAD) Proces om de generatie
+van informatie-eisen te versnellen door eindgebruikers
+en IT-specialisten samen te brengen in een interactieve
+ontwerpsessie.
+Just-in-timestrategie Planningssysteem waarbij de
+voorraad wordt geminimaliseerd doordat componenten
+binnenkomen precies op het moment dat ze nodig zijn
+en eindproducten worden verzonden op het moment
+dat ze de assemblagelijn verlaten.
+Kabelinternetverbindingen Verbindingen
+die
+fungeren als
+boegbeelden en leiders van de organisatie.
+Intranet Een intern netwerk gebaseerd op internet- en
+www-technologie en -standaarden.
+iOS Besturingssysteem voor de Apple iPad, iPhone en
+iPod Touch.
+IP-adres (Internet Protocol) Vierdelig numeriek adres
+dat een unieke computerlocatie op internet aangeeﬅ.
+ISO 27000 Een internationale standaard voor bevei-
+liging.
+Iteratief Proces waarbij de stappen voor het bouwen
+van een systeem steeds worden herhaald.
+IT-afdeling De formele organisatorische eenheid die
+verantwoordelijk is voor diensten op het gebied van
+informatietechnologie en voor het onderhoud van de
+hardware, soﬅware, gegevensopslag en de netwerken
+die samen de IT-infrastructuur van de onderneming
+vormen.
+IT-governance Strategie en beleid voor het gebruik
+van informatietechnologie binnen een organisatie met
+speciﬁcering van beslissingsrechten en verantwoorde-
+lijkheden om ervoor te zorgen dat de informatietechno-
+logie de strategieën en doelstellingen van de organi-
+satie ondersteunt.
+IT-managers Leiders van de verschillende specia-
+listen op de IT-afdeling.
+begrippenlijst
+gebruikmaken van digitale coaxkabellijnen voor
+het leveren van hogesnelheidsinternettoegang aan
+woningen en bedrijven.
+Kennis Concepten, ervaring en inzichten die een
+raamwerk bieden voor het creëren, evalueren en
+gebruiken van informatie.
+Kennis van informatiesystemen Breed begrip van
+informatiesystemen,
+inclusief gedragsmatige kennis
+van de organisaties en individuen die de informatie-
+systemen gebruiken, naast de technische kennis van
+computers.
+Kennisbank Kennismodel dat wordt gebruikt door
+expertsystemen.
+Kennismanagement Processen die binnen een orga-
+nisatie zijn ontwikkeld om kennis te ontwikkelen, te
+verzamelen, op te slaan, bij te houden en te verspreiden.
+Kennismanagementsystemen (KMS) Systemen die
+alle relevante kennis en ervaring binnen de onderne-
+ming verzamelen en deze beschikbaar maken waar en
+wanneer ze nodig is om bedrijfsprocessen en manage-
+mentbeslissingen te ondersteunen.
+Kennisontdekking Ontdekking van onderliggende
+patronen, categorieën en gedrag in grote verzame-
+lingen gegevens.
+Kennissystemen Informatiesystemen die kennis- en
+gegevensverwerkers in een organisatie ondersteunen.
+Kenniswerkers Mensen,
+zoals
+technici,
+weten-
+schappers en architecten, die producten of diensten
+ontwerpen of kennis voor de organisatie ontwikkelen.
+Kenniswerkstations (KWS)
+Informatiesystemen die
+kennisverwerkers ondersteunen bij de creatie en inte-
+gratie van nieuwe kennis in de organisatie.
+Kerncompetentie Activiteit waarin een onderneming
+uitmunt.
+Kernprestatie-indicatoren
+(KPI’s) Door het hoger
+management voorgestelde maatstaven voor het
+begrijpen hoe goed het bedrijf in bepaalde opzichten
+presteert.
+Kernsystemen Systemen die functies ondersteunen
+die cruciaal zijn voor de organisatie.
+Keuze De derde fase in Simons besluitvormings-
+proces, waarbij het individu een keuze maakt uit de
+verschillende alternatieve oplossingen.
+Key logger Spyware die iedere toetsaanslag op
+een computer vastlegt om zo persoonlijke informatie
+of wachtwoorden te stelen of internetaanvallen te
+lanceren.
+Klantcontactpunt Een mogelijkheid voor een onder-
+neming om in contact te treden met een klant, zoals de
+telefoon, e-mail, klantenservicebalie, conventionele
+post, website of winkel.
+Klassiek managementmodel Traditionele beschrij-
+ving van management die geconcentreerd is op de
+formele functies van plannen, organiseren, coördi-
+neren, beslissen en controleren.
+Klikfraude Het frauduleus klikken op een online
+advertentie zonder de intentie om meer te weten te
+komen van de adverteerder of een aankoop te doen.
+Kostentransparantie De mogelijkheid van consu-
+menten om de feitelijke kosten te ontdekken die hande-
+laren voor hun producten betalen.
+Kunstmatige intelligentie (AI) De ontwikkeling van
+computersystemen (hardware en soﬅware) die zich
+gedragen als mensen en die talen kunnen leren, fysieke
+taken kunnen uitvoeren, een zintuiglijk stelsel kunnen
+gebruiken en menselijke expertise en besluitvorming
+kunnen nabootsen.
+Kwantumcomputing Gebruikt principes uit de kwan-
+tumfysica voor het representeren van gegevens en
+uitvoeren van bewerkingen op de gegevens, met de
+mogelijkheid om tegelijkertijd in veel verschillende
+toestanden te zijn en veel verschillende berekeningen
+gelijktijdig uit te voeren.
+L
+Learning Management System (LMS) Een applicatie
+die programma’s biedt voor het beheer, het aanbieden
+en leveren, het volgen en de beoordeling van verschil-
+lende vormen van scholing en training voor het perso-
+neel.
+Legacysysteem Een systeem dat al lange tijd bestaat
+en nog steeds wordt gebruikt om de hoge kosten voor
+het vervangen of herontwerpen van dit systeem te voor-
+komen.
+Legitimiteit De mate waarin je autoriteit wordt geac-
+cepteerd op basis van competentie, visie of andere
+kwaliteiten.
+Linux Betrouwbaar en compact besturingssysteem
+dat is voortgekomen uit Unix en dat op veel verschil-
+lende hardwareplatformen kan draaien; het is gratis of
+tegen een lage vergoeding verkrijgbaar.
+Local area network (LAN) Een telecommunicatie-
+netwerk waarvoor aparte kanalen nodig zijn en dat
+een klein gebied bedient, gewoonlijk één of een paar
+gebouwen bij elkaar in de buurt.
+Locatieanalyse Het vermogen om inzicht uit de
+locatie- (geograﬁsche) component van de gegevens te
+verkrijgen, waaronder locatiegegevens van mobiele
+telefoons, output van sensoren of scanapparaten en
+gegevens uit kaarten.
+Long-tailmarketing Staat voor de mogelijkheid van
+bedrijven om goederen aan zeer kleine online doel-
+groepen op de markt te brengen, grotendeels vanwege
+de kosten van zeer kleine marktsegmenten (mensen die
+in de lange staarten van een Bell-kromme vallen).
+M
+Machinaal leren Bestuderen hoe computerprogram-
+ma’s hun prestatie zonder expliciete programmering
+kunnen verbeteren.
+Mainframecomputers Grootste categorie computers,
+gebruikt voor grote bewerkingstaken.
+Malware Kwaadaardige soﬅware zoals computervi-
+russen, wormen en trojaanse paarden.
+Managed security service provider (MSSP) Onderne-
+ming die netwerkactiviteit controleert en kwetsbaar-
+heidstests en inbraakdetectie uitvoert.
+Managementinformatiesystemen
+(MIS) Speciﬁeke
+categorie van informatiesystemen die rapporten over
+organisatorische prestatie leveren en zo het middenma-
+nagement helpen het bedrijf te bewaken en te besturen.
+Managementsystemen Informatiesystemen die de
+controle, besluitvorming en administratie van het
+middenmanagement ondersteunen.
+Managerrollen Verwachtingen van de activiteiten die
+managers in een organisatie zouden moeten uitvoeren.
+Marktplaatsprovider Een e-commercebedrijfsmodel
+waarin bedrijven een digitale online omgeving leveren
+waarin kopers en verkopers elkaar kunnen ontmoeten,
+producten kunnen zoeken en aan transacties kunnen
+deelnemen.
+Marktruimte Een marktplaats die zich uitstrekt
+voorbij de traditionele grenzen en is weggehaald uit
+een tijdelijke en geograﬁsche locatie.
+Mashup Combinatie van soﬅwarecomponenten die
+afangt
+van
+hogesnelheidsnetwerken,
+universele
+communicatiestandaarden en open-source code.
+Mass customization Het vermogen om individueel
+op maat gemaakte producten of diensten aan te bieden
+met dezelfde middelen als massaproductie.
+Massive open online course (MOOC) Online cursus
+die via het web voor een zeer groot aantal deelnemers
+beschikbaar is.
+Materiële voordelen Voordelen die kunnen worden
+gekwantiﬁceerd en in geld kunnen worden uitgedrukt;
+bijvoorbeeld lagere bedrijfskosten en hogere omzet.
+M-commerce Het gebruik van draadloze apparatuur,
+zoals mobiel telefoons of digitale handcomputers om
+e-commercetransacties via internet af te sluiten.
+Meerlagen (N-laags) client-serverarchitectuur Client/
+server-netwerk waarin, afankelijk van de soort dienst
+die gevraagd wordt, het werk van het gehele netwerk
+gelijk wordt verdeeld.
+Menukosten Kosten voor de handelaar voor het
+veranderen van prijzen.
+Metropolitan area network (MAN) Een netwerk dat
+een grootstedelijk gebied omspant, zoals een stad met
+al zijn belangrijke voorsteden. De geograﬁsche reik-
+wijdte zit tussen een WAN en een LAN.
+Microbetaling Betaling van een zeer klein geldbe-
+drag, vaak 1 euro of minder.
+Microbloggen Bloggen met zeer kleine posts, zoals
+het gebruik van Twitter.
+Middenmanagement Mensen in het midden van de
+organisatorische hiërarchie, die verantwoordelijk zijn
+voor het uitvoeren van de programma’s en plannen van
+het hoger management.
+Middleware Soﬅware die twee verschillende toepas-
+singen verbindt, waardoor ze met elkaar kunnen
+communiceren en gegevens kunnen uitwisselen.
+Minicomputer Middelgrote computer die in systemen
+voor universiteiten, fabrieken of onderzoekslaboratoria
+wordt gebruikt.
+Mobiele web-app Internet-app met speciﬁeke functi-
+onaliteit voor mobiele apparaten die wordt geopend in
+de webbrowser van het mobiele apparaat.
+Modelverschuiving Radicale herziening van de aard
+van de onderneming en de aard van de organisatie.
+Modem Een apparaat dat digitale signalen omzet in
+analoge signalen en omgekeerd.
+Multi-core-processor Microprocessor waaraan twee
+of meer processors zijn gekoppeld om tot een hogere
+snelheid,
+lager energieverbruik en een eﬃciëntere
+simultane verwerking van meerdere taken te komen.
+Multinational
+[562]
+begrippenlijst
+Internationale strategie waarbij ﬁnan-
+cieel management en beheer vanuit een centrale thuis-
+basis worden geconcentreerd, terwijl de productie,
+verkoop en marketing door afdelingen in het buiten-
+land worden georganiseerd.
+Multi-touch Interface waarmee met een of meer
+vingergebaren lijsten of objecten op het scherm kunnen
+worden gemanipuleerd zonder een muis of een toetsen-
+bord te gebruiken.
+N
+Nanotechnologie Technologie die gebruikmaakt van
+individuele atomen en moleculen om computerchips
+en andere onderdelen te maken die duizenden malen
+kleiner zijn dan wat huidige technologieën toestaan.
+Nationale exporteur Strategie die wordt gekenmerkt
+door strakke centralisatie van ondernemingsactivi-
+teiten in het thuisland.
+Native
+app
+(platformspeciﬁeke
+app) Standalone
+applicatie ontworpen om op een speciﬁek platform
+te worden uitgevoerd die rechtstreeks op het mobiele
+apparaat geïnstalleerd is.
+Near-ﬁeld
+communication
+(NFC) Een draadloze
+connectiviteit op korte afstand die gebruikmaakt van
+elektromagnetische velden waarmee twee compatibele
+apparaten data kunnen uitwisselen als ze zich binnen
+enkele centimeters van elkaar bevinden.
+Netbook Goedkope lichtgewicht subnotebook, geop-
+timaliseerd voor draadloze communicatie en internet-
+toegang.
+Netwerk Het koppelen van twee of meer computers
+om data of bronnen, zoals een printer, te delen.
+Netwerk- en telecommunicatietechnologie Fysieke
+apparatuur en soﬅware die de verschillende hardware-
+elementen aan elkaar koppelen en gegevens van de ene
+fysieke locatie naar de andere versturen.
+Netwerkbesturingssysteem
+(NOS) Speciale soﬅ-
+ware die de communicatie op het netwerk verstuurt en
+beheert en de netwerkbronnen coördineert.
+Netwerkeconomie Model van strategische systemen
+op bedrijfstakniveau dat gebaseerd is op het concept
+van een netwerk waar het toevoegen van een nieuwe
+deelnemer geen marginale kosten meebrengt, maar
+wel in grotere marginale winsten kan resulteren.
+Netwerken van de organisatie Combinatie van de
+hardware, de soﬅware, het netwerk en de gegevens-
+bronnen waardoor er meer computerkracht bij de
+desktopcomputer komt te liggen en er een onderne-
+mingsbreed netwerk wordt gebouwd door veel kleine
+netwerken aan elkaar te koppelen.
+Network interface card (NIC)
+Ingebouwde kaart in
+een computer die toegang tot internet mogelijk maakt.
+Neuraal netwerk Hardware of soﬅware die de verwer-
+kingspatronen in het biologische brein probeert te
+imiteren.
+Niet-relationele
+databasemanagementsystemen
+Maken gebruik van een ﬂexibeler gegevensmodel en
+zijn ontworpen om grote datasets te beheren op vele
+verspreide machines en om makkelijker met meer of
+juist minder gegevens te werken.
+Non-obvious relationship awareness (NORA) Tech-
+nologie die obscure verborgen verbanden tussen
+mensen en andere entiteiten kan bepalen door infor-
+matie uit veel verschillende bronnen te analyseren om
+verbanden te leggen.
+Normalisatie Het proces van het maken van kleine,
+stabiele gegevensstructuren uit complexe groepen
+gegevens bij het ontwerpen van een relationele data-
+base.
+O
+Object Soﬅwareblok dat gegevens en de speciﬁeke
+processen die op die gegevens werken combineert.
+Objectgeoriënteerde
+ontwikkeling Benadering
+van systeemontwikkeling die het object gebruikt als
+elementaire eenheid van systeemanalyse en -ontwerp.
+Het systeem wordt gemodelleerd als een verzameling
+van objecten en de relaties tussen deze objecten.
+Objectgeoriënteerde soﬅware Een benadering voor
+soﬅwareontwikkeling waarbij de aandacht wordt
+verschoven van het apart modelleren van bedrijfspro-
+cessen en gegevens naar het combineren van gegevens
+en procedures tot objecten.
+Octrooi Verleent de eigenaar gedurende twintig jaar
+een exclusief monopolie op de ideeën achter een uitvin-
+ding.
+Omvang Maateenheid voor diepte en detail van infor-
+matie die een onderneming de klant kan bieden en de
+informatie die de onderneming over de klant verzamelt.
+On-demand
+computing Computingmodel waarbij
+ondernemingen computerdiensten inkopen bij externe
+diensten en alleen betalen voor de hoeveelheid
+rekenkracht die zij werkelijk gebruiken, net zoals zij
+voor elektriciteit betalen. Ook wel utility computing
+genoemd.
+Onderhoud Veranderingen in de hardware, soﬅware,
+documentatie of procedures van een productiesysteem
+om fouten te corrigeren, aan nieuwe eisen te voldoen of
+processen eﬃciënter te maken.
+Ondernemingsbrede
+temen Bedrijfsbrede
+systemen
+kennismanagementsys-
+voor algemene
+doeleinden, gebruikt voor het verzamelen, opslaan,
+verspreiden en toepassen van digitale content en
+kennis.
+[563]
+begrippenlijst
+Ondernemingsmodel Een abstractie van hoe de
+onderneming een product of dienst
+aangeeﬅ hoe de onderneming winst genereert.
+Ondersteunende
+levert en dat
+activiteiten Activiteiten die de
+uitvoering van primaire activiteiten mogelijk maken.
+Bestaan uit de organisatorische infrastructuur, perso-
+neelszaken, technologie en acquisitie.
+Onderzoek De eerste fase in Simons besluitvormings-
+proces, waarin het individu informatie verzamelt
+om vast te stellen waar in de organisatie problemen
+ontstaan.
+Ongestructureerde beslissingen Niet-routinematige
+beslissingen waarbij de beslisser een oordeel, evaluatie
+en inzichten moet bieden bij de probleemdeﬁnitie. Er is
+geen vastgelegde procedure voor het nemen van deze
+beslissingen.
+Online analytical processing (OLAP) Mogelijkheid
+om grote hoeveelheden gegevens vanuit verschillende
+perspectieven te manipuleren en analyseren.
+Ontwerp De tweede fase in Simons besluitvormings-
+proces, waarbij het individu mogelijke alternatieven
+voor een probleem zoekt.
+Open systeem Soﬅwaresysteem dat op verschil-
+lende hardwareplatforms draait, omdat het bestaat
+uit commerciële besturingssystemen, gebruikersinter-
+faces, toepassingsstandaarden en netwerkprotocollen.
+Opensourcesoﬅware Soﬅware die
+gratis
+toegang
+biedt tot de programmacode, waardoor gebruikers de
+code kunnen aanpassen om bugs te repareren of verbe-
+teringen aan te brengen.
+Operationeel CRM Klantgerichte toepassingen, zoals
+verkoopteamautomatisering, callcenter- en klantenser-
+viceondersteuning en marketingautomatisering.
+Operationeel management Mensen die de dagelijkse
+activiteiten binnen de onderneming controleren.
+Operationele intelligentie Bedrijfsanalyse die inzicht
+levert in gegevens, lopende gebeurtenissen en bedrijfs-
+organisaties.
+Opt-in Verbiedt
+persoonsgegevens
+te
+verzamelen
+tenzij de consument expliciet toestemming verleent
+voor het verzamelen en gebruiken van die gegevens.
+Opt-out Staat het verzamelen van persoonlijke gege-
+vens toe totdat de consument speciﬁek vraagt de gege-
+vens niet te verzamelen.
+Organisatie
+(gedragsdeﬁnitie) Een verzameling
+rechten, privileges, plichten en verantwoordelijkheden
+die elkaar langdurig in balans houden tijdens perioden
+van conﬂict en conﬂictoplossing.
+Organisatie
+(technische
+deﬁnitie) Een
+stabiele,
+formele, sociale structuur die middelen uit de omge-
+ving verwerkt en hiervan output produceert.
+Organisatie-impactanalyse Onderzoek naar de
+eﬀecten die een systeem heeﬅ op de organisatiestruc-
+tuur, gedragingen, besluitvorming en bedrijfsvoering.
+Organisatorisch
+en
+bestuurlijk
+kapitaal
+Investe-
+ringen in organisatie en management, zoals nieuwe
+bedrijfsprocessen, managementgedrag, organisatie-
+cultuur en training.
+Organizational
+learning Creatie van nieuwe stan-
+daardprocedures en bedrijfsprocessen die de ervaring
+van de organisatie weerspiegelen.
+Output Het distribueren van de verwerkte informatie
+aan mensen die deze informatie zullen gebruiken of
+aan de activiteiten waarvoor de informatie nodig is.
+Outsourcing Het uitbesteden van het beheer van
+computercentra of telecommunicatienetwerken of de
+ontwikkeling van toepassingen aan externe leveran-
+ciers.
+Outsourcing naar het buitenland Uitbesteding van
+een deel van het ontwikkelwerk aan nieuwe systemen
+of van het onderhoud aan bestaande systemen uit aan
+externe leveranciers in een ander land.
+Overstapkosten De kosten voor de klant of onderne-
+ming, in verloren tijd, geld of middelen, wanneer ze
+overstappen van de ene leverancier of het ene systeem
+naar een concurrent.
+P
+Packet switching Technologie die blokken tekst
+verdeelt in kleine bundeltjes gegevens van een vaste
+afmeting en deze op de meest eﬃciënte manier over
+beschikbare communicatiekanalen verstuurt.
+Parallelle strategie Een veilige en conservatieve
+conversiebenadering waarbij zowel het oude als het
+mogelijke vervangende systeem naast elkaar worden
+gebruikt, totdat iedereen er zeker van is het dat nieuwe
+systeem goed functioneert.
+Particularisme Het nemen van beslissingen en
+acties op basis van een beperkt aantal of persoonlijke
+kenmerken.
+Partner relationship management (PRM) Automati-
+sering van de relaties tussen de onderneming en haar
+verkopende partners, waarbij klantgegevens en analy-
+tische instrumenten worden gebruikt voor de verbete-
+ring van de samenwerking en verkopen.
+Patches Kleine stukken soﬅware die de fout repa-
+reren zonder de goede werking van de soﬅware te
+verstoren.
+Patent Zie octrooi
+Peer-to-peerarchitectuur Netwerkarchitectuur die
+alle computers op het netwerk gelijk behandelt; wordt
+veel gebruikt in kleine netwerken.
+[564]
+begrippenlijst
+Personal area network (PAN) Een computernetwerk
+dat wordt gebruikt voor communicatie tussen digitale
+apparaten (waaronder telefoons en PDA’s) binnen een
+gebied van tien meter.
+Personalisatie Mogelijkheid voor handelaren om
+marktberichten te richten aan speciﬁeke personen door
+het bericht aan te passen aan de naam, interesses en
+eerdere aankopen van die persoon.
+PERT-chart Graﬁsche afeelding van projecttaken en
+de onderlinge verbanden.
+Pharming Phishing-techniek die gebruikers door-
+stuurt naar een vervalste webpagina, ook als de
+persoon in kwestie het juiste adres van de webpagina
+in zijn of haar browser heeﬅ opgegeven.
+Phishing Een in toenemende mate populaire vorm
+van spooﬁng waarbij nepwebsites worden opgezet of
+zeer geloofwaardig uitziende zakelijke e-mailberichten
+worden verstuurd om bij de gebruikers vertrouwelijke
+informatie los te krijgen.
+Pilot study Strategie om een nieuw systeem eerst
+in een klein deel van de organisatie te introduceren
+totdat het systeem functioneel is; slechts dan wordt de
+conversie van het systeem ook in de rest van de organi-
+satie uitgevoerd.
+Podcasting Een manier om audio-uitzendingen via
+internet te publiceren, die gebruikers de mogelijkheid
+biedt om audiobestanden op hun pc’s of draagbare
+muziekspelers te downloaden.
+Portal Website of een andere dienst die fungeert als
+beginpunt op het web of op een intern bedrijfssysteem.
+Portfolioanalyse Analyse van de portfolio met moge-
+lijke projecten binnen een onderneming om de risico’s
+en baten te bepalen en een informatiesysteem te kiezen.
+Prestatie-indicator Een standaardmaat voor pres-
+tatie.
+Prijsdiﬀerentiatie Voor dezelfde of vrijwel dezelfde
+goederen bij verschillende doelgroepen andere prijzen
+hanteren.
+Prijstransparantie Het gemak waarmee consu-
+menten de verschillende prijzen in een markt kunnen
+onderzoeken.
+Primair
+geheugen Deel van de computer dat
+programma-instructies en de gegevens die door de
+instructies worden gebruikt, tijdelijk opslaat.
+Primaire
+activiteiten Activiteiten die direct te
+maken hebben met de productie en distributie van de
+producten en diensten van de onderneming.
+Primaire sleutel Unieke identiﬁer voor alle informatie
+in elke rij van een databasetabel.
+Private cloud Een bedrijfseigen netwerk of een data-
+centrum dat een verbinding vormt tussen servers,
+opslag, netwerken, gegevens en toepassingen als een
+reeks gevirtualiseerde diensten die door gebruikers
+binnen een bedrijf worden gedeeld.
+Private exchange Andere benaming voor een privaat
+industrieel netwerk.
+Private industriële netwerken B2B-extranetten die
+zijn gericht op continue bedrijfsprocescoördinatie
+tussen bedrijven voor samenwerking en supply chain
+management. Een privaat industrieel netwerk bestaat
+standaard uit een grote onderneming die een extranet
+gebruikt voor de contacten met haar leveranciers en
+andere belangrijke zakenpartners.
+Privacy De eis van personen om met rust gelaten te
+worden, vrij van toezicht door of inmenging van andere
+personen of organisaties, waaronder de staat.
+Privacy by design Wanneer soﬅware en IT-diensten
+worden ontwikkeld die privacybescherming al structu-
+reel in het ontwerp hebben opgenomen.
+Processpeciﬁcaties Beschrijven de logica van de
+processen op de laagste niveaus van een gegevens-
+stroomdiagram.
+Productdiﬀerentiatie Concurrentiestrategie om
+merkloyaliteit op te bouwen door nieuwe en unieke
+producten en diensten te ontwikkelen die niet
+eenvoudig door concurrenten gekopieerd kunnen
+worden.
+Productiefase Fase nadat het nieuwe systeem is geïn-
+stalleerd en geconverteerd; het systeem wordt door de
+gebruikers en technische specialisten gebruikt om te
+bepalen hoe goed het aan de oorspronkelijke doelen
+beantwoordt.
+Productie-
+en
+servicewerkers Mensen die de
+producten en diensten van de organisatie produceren.
+Proﬁling Het gebruik van computers om data uit
+meerdere bronnen te combineren en digitale dossiers
+met gedetailleerde informatie over personen aan te
+maken
+Prognoseanalyse Een analyse van de portfolio van
+potentiële toepassingen binnen een bedrijf voor het
+bepalen van de risico’s en baten, en voor het selecteren
+uit alternatieven voor informatiesystemen.
+Programmadata-afankelijkheid De nauwe relatie
+tussen gegevens die in bestanden zijn opgeslagen
+en de speciﬁeke programma’s die nodig zijn om deze
+bestanden te updaten en bij te houden. Veranderingen
+in de organisatie of het formaat van de gegevens
+vereisen veranderingen in alle programma’s die deze
+gegevens gebruiken.
+Programmeerfase Het proces van het vertalen van
+de systeemspeciﬁcaties die tijdens de ontwerpfase zijn
+opgesteld in programmacode.
+Programmeren Fase in de levenscyclus van een
+systeem waarin de ontwerpspeciﬁcaties die tijdens de
+[565] begrippenlijst
+ontwerpfase zijn geproduceerd, worden vertaald in
+programmacode voor soﬅware.
+Programmeurs Hoogopgeleide
+technische
+specia-
+listen die de soﬅware-instructies schrijven voor de
+computer.
+Project Geplande reeks van verwante activiteiten
+voor het bereiken van een speciﬁek bedrijfsdoel.
+Projectmanagement Toepassing van kennis, vaardig-
+heden en technieken voor het bereiken van speciﬁeke
+doelen binnen het opgegeven budget en de tijdslimiet.
+Projectportfoliomanagementsoﬅware Helpt orga-
+nisaties portfolio’s van projecten en hun onderlinge
+verbanden te evalueren en te beheren.
+Protocol Een set regels en procedures die de over-
+dracht tussen onderdelen in een netwerk regelt.
+Prototype Voorlopige werkende versie van een infor-
+matiesysteem, voor demonstratie- en evaluatiedoel-
+einden.
+Prototyping Het snel en goedkoop bouwen van
+een experimenteel systeem dat gebruikers kunnen
+gebruiken en evalueren, om zo een beter idee te krijgen
+van hun informatie-eisen.
+Public cloud Een cloud onderhouden door een
+externe serviceprovider, toegankelijk via internet en
+beschikbaar voor het algemene publiek.
+Public key infrastructure (PKI) De inzet van public
+key cryptograﬁe die gebruikmaakt van eenn certiﬁ-
+caatautoriteit (CA) en digitaal certiﬁcaat.
+Publieke-sleutelincriptien Gebruikt twee sleutels:
+één gedeeld (of publiek) en één private.
+Pull-based model Supply chain waarin de gebeurte-
+nissen in gang worden gezet door feitelijke bestellingen
+van klanten.
+Push-based model Supply chain waarin mastersche-
+ma’s voor productie zijn gebaseerd op voorspellingen
+of beste schattingen van de vraag naar producten, en
+worden producten ‘gepusht’ naar klanten.
+Q
+Querytaal Hogere taal voor het ophalen van gegevens
+die in bestanden of databases zijn opgeslagen.
+R
+Radio
+frequency identiﬁcation (RFID) Technologie
+die het volgen van de verplaatsing van goederen door
+een keten ondersteunt. RFID-systemen maken gebruik
+van kleine labels, tags genoemd, met ingebouwde
+microchips die gegevens bevatten over een item en de
+plaats ervan.
+Ransomware Malware die probeert geld af te persen
+van gebruikers door het beheer van hun computers over
+te nemen of irritante pop-upberichten weer te geven.
+Rapid application development (RAD) Het ontwik-
+kelen van systemen in zeer korte tijd, gebruikmaken
+van prototypering, vierdegeneratietools en samenwer-
+king tussen gebruikers en systeemspecialisten.
+Rationalisering van procedures Het stroomlijnen
+van de standaardprocedures, waarbij duidelijke knel-
+punten worden weggehaald, zodat automatisering
+deze procedures eﬃciënter kan maken.
+Reclamemodel Website die inkomsten genereert door
+een grote doelgroep aan te trekken.
+Record Een groep gerelateerde velden.
+Referentiële
+integriteitsregels Regels die ervoor
+zorgen dat de relaties tussen gekoppelde tabellen
+consistent blijven.
+Reguliere rechtsgang Een proces waarin wetten
+bekend zijn en begrepen worden en de mogelijkheid
+bestaat om een beroep te doen op hogere instanties om
+ervoor te zorgen dat de wetten correct worden toege-
+past.
+Reikwijdte Maateenheid voor het aantal mensen
+waarmee een onderneming kan communiceren en het
+aantal producten dat de onderneming die mensen kan
+bieden.
+Relationeel DBMS Een logisch databasemodel dat
+gegevens vertegenwoordigt als tweedimensionale
+tabellen. Het kan gegevens in één tabel koppelen aan
+gegevens in een andere tabel zolang de twee tabellen
+een gezamenlijk gegevenselement hebben.
+Repetitive Stress Injury (RSI) Beroepsziekte die
+optreedt als spiergroepen herhaaldelijk blootstaan aan
+hoge schokbelasting (zoals bij tennis) of tienduizenden
+keren blootstaan aan lage schokbelasting (zoals bij
+werkzaamheden op het toetsenbord van een computer).
+Request for proposal (RFP) Gedetailleerde
+lijst
+vragen die wordt voorgelegd aan soﬅwareleveranciers
+of andere diensten om te bepalen hoe goed het product
+van de leverancier kan voldoen aan de speciﬁeke eisen
+van de organisatie.
+Responsive webdesign Vermogen van een website
+om wanneer een gebruiker overschakelt naar appa-
+raten van verschillende grootte, zoals een laptop, tablet
+of smartphone, automatisch schermresolutie en afeel-
+dingsgrootte aan te passen. Hierdoor hoeﬅ er niet voor
+elk nieuw apparaat afzonderlijk ontwerp- en ontwik-
+kelwerk gedaan te worden.
+Risicoanalyse Bepalen hoe vaak een probleem voor-
+komt en wat de potentiële schade is. Wordt gebruikt
+om de kosten en baten van een controlemiddel vast te
+stellen.
+Risicomijdend principe Verricht die handeling die de
+minste schade of potentieel de minste kosten met zich
+meebrengt.
+[566]
+begrippenlijst
+S
+Samenwerking Werken met anderen om gedeelde en
+expliciete doelen te bereiken.
+Schaalbaarheid Het vermogen van een computer,
+product of systeem om het aantal gebruikers uit te
+breiden zonder dat dit leidt tot problemen in het
+systeem.
+Scoringmodel Snelle methode om een keuze te
+maken tussen alternatieve systemen op basis van de
+mate waarin ze voldoen aan geselecteerde doelen.
+Secure hypertext transfer protocol (S-HTTP) Protocol
+voor het versleutelen van over internet verstuurde gege-
+vens, dat zich beperkt tot individuele berichten.
+Secure sockets layer (SSL) Biedt client- en server-
+computers de mogelijkheid om de codering en decode-
+ring te regelen terwijl zij met elkaar communiceren in
+een beveiligde websessie.
+Semigestructureerde
+beslissingen Beslissingen
+waarbij slechts een deel van het probleem een duide-
+lijke oplossing via een geaccepteerde procedure heeﬅ.
+Sensitiviteitsanalyse Model dat herhaaldelijk ‘wat
+als’-vragen stelt om te bepalen wat de impact is op het
+resultaat als een of meer factoren worden veranderd.
+Sensoren Apparaten die gegevens uit de omgeving
+verzamelen die door een computersysteem kunnen
+worden gebruikt.
+Sentimentanalyse Het minen van tekstcommentaar
+in een e-mailbericht, blog, sociale-mediaconversatie,
+of enquêteformulier voor het opsporen van gunstige
+en ongunstige meningen over speciﬁeke onder-
+werpen.
+Server Computer die is geoptimaliseerd voor het
+bieden van soﬅware en andere bronnen aan andere
+computers in een netwerk.
+Service level agreement (SLA) Formeel contract
+tussen klanten en hun dienstverleners dat de speci-
+ﬁeke verantwoordelijkheden van de dienstverlener en
+de door de klant verwachte servicegraad vastlegt.
+Servicegerichte architectuur (service-oriented archi-
+tecture, SOA) Soﬅwarearchitectuur die is opge-
+Router Een speciale communicatieserver die gebruikt
+wordt om gegevenspakketten langs
+verschillende
+netwerken te sturen en er zo voor te zorgen dat het
+bericht op het juiste adres aankomt.
+Routines Nauwkeurige regels, procedures en
+gebruiken die zijn ontwikkeld om vrijwel alle mogelijke
+situaties aan te kunnen.
+RSS (Rich Site Summary of Really Simple Syndica-
+tion) Technologie waarbij websitecontent in een
+zodanige vorm wordt gegoten dat deze in een ander
+kader gebruikt kan worden.
+bouwd uit op zichzelf staande diensten die met elkaar
+communiceren om een werkende soﬅwaretoepassing te
+vormen.
+Shopping bot Soﬅware met een bepaald niveau van
+ingebouwde intelligentie die e-commerceklanten kan
+helpen bij het vinden en vergelijken van producten of
+diensten die ze willen kopen.
+Six sigma Methode voor kwaliteitsmeting en het
+stellen van kwaliteitsdoelen. Een speciﬁeke kwali-
+teitsmaatstaf van 3,4 fouten per miljoen kansen,
+gebruikt om een set methodologieën toe te wijzen voor
+het verbeteren van kwaliteit en het terugbrengen van
+kosten.
+Sleutelveld Een uniek veld dat de record identiﬁceert,
+zodat de record kan worden gevonden, bijgewerkt of
+gesorteerd.
+Smartcard Een kaartje ter grootte van een creditcard
+waarop digitale informatie kan worden opgeslagen en
+die kan worden gebruikt om elektronisch te betalen.
+Smartphone Draadloze telefoon met spraak-, tekst-
+en internetfuncties.
+Sniﬀer Soort aﬂuisterprogramma dat meekijkt met de
+informatie die verstuurd wordt over een netwerk.
+Sociaal CRM Instrumenten die een bedrijf in staat
+stellen conversaties, gegevens en relaties van klanten
+van socialenetwerksites aan CRM-processen te
+koppelen.
+Sociaal ondernemen Gebruik van socialenetwerk-
+platforms, waaronder Facebook, Twitter en interne
+sociale bedrijfsinstrumenten voor het inschakelen van
+werknemers, klanten en leveranciers.
+Sociaal winkelen Gebruik van websites met door de
+gebruiker gecreëerde webpagina’s voor het delen van
+kennis over punten die van belang kunnen zijn voor
+andere klanten.
+Sociaal zoeken Poging om relevantere en betrouw-
+baarder zoekresultaten gebaseerd op iemands netwerk
+of sociale contacten te leveren.
+Social engineering Verleiden van medewerkers om
+hun wachtwoorden te onthullen door zich voor te doen
+als legitieme medewerkers van het bedrijf die infor-
+matie nodig hebben.
+Sociale kaart Kaart van alle signiﬁcante online
+sociale relaties, vergelijkbaar met een sociaal netwerk
+dat oﬄine relaties beschrijﬅ.
+Socialenetwerksite Online gemeenschap voor het
+uitbreiden van het aantal sociale contacten door het
+leggen van contacten via zakelijke of privéconnecties.
+Sociotechnisch gezichtspunt Bij dit gezichtspunt
+wordt optimale organisatorische prestatie bereikt door
+zowel de sociale als de technische systemen die in
+productie worden gebruikt, te optimaliseren.
+[567]
+begrippenlijst
+Sociotechnisch ontwerp Ontwerp voor het produ-
+ceren van informatiesystemen die technische eﬃci-
+entie combineren met gevoeligheid voor organisatori-
+sche en menselijke behoeﬅen.
+Soﬅware as a Service (SaaS) Diensten voor het
+leveren van en het toegang verlenen tot soﬅware als
+externe webservice.
+Soﬅware-deﬁned networking (SDN) Gebruik van
+een centraal besturingsprogramma, onafankelijk van
+netwerkapparaten, voor het beheren van de gegevens-
+stroom op een netwerk.
+Soﬅware-deﬁned storage (SDS) Koppelt de soﬅware
+van dataopslag los van de onderliggende opslaghard-
+ware, door een scheiding aan te brengen tussen soﬅ-
+ware voor het beheren van dataopslag en soﬅware voor
+de aansturing van de hardware.
+Soﬅwarelokalisatie Proces van het zodanig omzetten
+van soﬅware dat deze in een tweede taal kan werken.
+Soﬅwarepakket Een reeds eerder geschreven
+commercieel verkrijgbare verzameling van soﬅware-
+programma’s, zorgt ervoor dat een onderneming voor
+bepaalde taken niet meer haar eigen soﬅwareprogram-
+ma’s hoeﬅ te schrijven.
+Spam Ongewenste commerciële e-mail.
+Spooﬁng Het misleiden
+van
+computersystemen
+of computergebruikers door de eigen identiteit te
+verbergen of door zich te verschuilen achter de identi-
+teit van een ander.
+Spreadsheet Tabel die twee of meer aspecten van
+gegevens in een geschikt formaat weergeeﬅ.
+Spyware Technologie die helpt bij het buiten zijn
+medeweten verzamelen van informatie over een
+persoon of een organisatie.
+SQL-injectie Aanval op een website die gebruikmaakt
+van kwetsbaarheden in slecht gecodeerd SQL-toepas-
+singen (een standaard en veelvoorkomende database-
+soﬅwaretoepassing) om zo kwaadaardige programma-
+code in de systemen en netwerken van een bedrijf te
+introduceren.
+Stilzwijgende kennis Expertise en ervaring
+van
+leden van een organisatie die niet formeel is gedocu-
+menteerd.
+Strategische
+informatiesystemen Informatiesys-
+teem dat de doelen, operaties, producten, diensten of
+omgevingsrelaties van een organisatie verandert om
+een concurrentievoordeel te bereiken.
+Strategische overgangen Een beweging van het ene
+niveau van een sociotechnisch systeem naar een ander
+niveau. Deze overgangen zijn vaak nodig wanneer stra-
+tegische systemen worden toegepast waarbij de sociale
+en technische
+elementen binnen een organisatie
+moeten worden veranderd.
+Streaming Een publicatiemethode voor muziek- en
+videobestanden die een continue contentstroom naar
+het apparaat van een gebruiker stuurt zonder dat deze
+lokaal op het apparaat wordt opgeslagen.
+Structured Query Language (SQL) De standaard-
+datamanipulatietaal voor relationele databasemanage-
+mentsystemen.
+Structuurschema Systeemdocumentatie die elk
+ontwerpniveau, de relaties tussen de niveaus en de
+locatie in de ontwerpstructuur aangeeﬅ; kan één
+programma, één systeem of een onderdeel van een
+programma weergeven.
+Supply
+chain Netwerk van faciliteiten voor het
+inkopen van materialen, het transformeren van grond-
+stoﬀen in producten en het distribueren van eindpro-
+ducten naar de klanten.
+Supply-chain-managementsystemen
+(SCM)
+Infor-
+matiesystemen die zijn gericht op het ondersteunen
+van de onderneming bij het beheren van haar relatie
+met leveranciers voor het optimaliseren van de plan-
+ning, de bevoorrading, de productie en de levering van
+goederen en diensten.
+Supply-chain-planningssystemen Systemen die het
+bedrijf de mogelijkheid bieden vraagvoorspellingen
+voor een product te genereren en inkoop- en fabricage-
+plannen voor dat product te ontwikkelen.
+Switch Een apparaatje dat netwerkcomponenten kan
+verbinden, het heeﬅ meer intelligentie dan een hub en
+kan gegevens ﬁlteren en doorsturen naar een gespeciﬁ-
+ceerde bestemming.
+Systeemanalisten Specialisten die
+ondernemings-
+problemen en -eisen vertalen in informatie-eisen en
+-systemen, fungeren als tussenpersoon tussen de infor-
+matiesysteemgroep en de rest van de organisatie.
+Systeemanalyse De analyse van een probleem dat de
+organisatie met een informatiesysteem wil oplossen.
+Systeemlevenscyclus Traditionele methode voor
+het ontwikkelen van een informatiesysteem dat het
+systeemontwikkelingsproces opdeelt in formele fasen
+die sequentieel moeten worden doorlopen en waarbij er
+een formele taakverdeling is tussen eindgebruikers en
+IT-specialisten.
+Systeemontwerp Gegevens over hoe een systeem zal
+voldoen aan de informatie-eisen die door de systeem-
+analyse zijn aangegeven.
+Systeemontwikkeling De activiteiten die samen een
+oplossing voor een organisatorisch probleem of voor
+het benutten van een mogelijkheid produceren in de
+vorm van een informatiesysteem.
+Systeemtest Test het functioneren van het informa-
+tiesysteem als geheel om te bepalen of de verschillende
+modules samenwerken zoals was voorzien.
+[568]
+begrippenlijst
+T
+T1-lijn Een toegewijde telefoonverbinding bestaande
+uit 24 kanalen die een overdrachtssnelheid van 1,544
+megabit per seconde kan ondersteunen. Elk kanaal kan
+worden geconﬁgureerd om spraak- en gegevensverkeer
+te transporteren.
+Tablet Mobiele handcomputer, groter dan een mobiele
+telefoon en voornamelijk bediend door het aanraken
+van een vlak scherm.
+Taxonomie Een schema voor het zodanig classiﬁ-
+ceren van informatie en kennis dat deze gemakkelijk
+toegankelijk is.
+Teams Formele groepen waarvan de leden samen-
+werken om speciﬁeke doelen te bereiken.
+Technologiestandaarden Speciﬁcaties die de compa-
+tibiliteit van producten en de mogelijkheid om in een
+netwerk te communiceren bewerkstelligen.
+Telecommunicatie De elektronische overdracht van
+informatie, gewoonlijk over grote afstand.
+Telepresence Een technologie die iemand de moge-
+lijkheid biedt om op een locatie anders dan zijn of haar
+werkelijke fysieke locatie aanwezig te zijn.
+Telnet Netwerktool waarmee iemand via het ene
+computersysteem op een ander systeem kan werken.
+Testen Uitvoerig en zorgvuldig proces dat bepaalt of
+het systeem de gewenste resultaten produceert onder
+bekende condities.
+Testen
+van
+onderdelen Het proces waarbij elk
+programma in het systeem apart wordt getest. Soms
+wordt dit ook wel het testen van programma’s genoemd.
+Testplan Voorbereid door het ontwikkelingsteam in
+samenwerking met gebruikers; bevat alle voorberei-
+dingen voor de reeks tests die op het systeem worden
+uitgevoerd.
+Textmining Ontdekken van patronen en verbanden in
+grote verzamelingen ongestructureerde gegevens.
+Token Fysiek apparaatje, vergelijkbaar met een iden-
+titeitskaart die ontworpen is om de identiteit van een
+afzonderlijke gebruiker vast te stellen.
+Total cost of ownership (TCO) Geeﬅ de totale kosten
+aan voor het bezitten van technologie, inclusief de
+oorspronkelijke aanschafosten, kosten voor upgrades
+van hardware en soﬅware, onderhoud,
+technische
+ondersteuning en training.
+Total Quality Management (TQM) Een concept dat
+alle mensen in een organisatie de verantwoordelijk-
+heid geeﬅ over de kwaliteitscontrole.
+Traditionele
+bestandsomgeving Een manier om
+gegevens te verzamelen en te onderhouden in een orga-
+nisatie, waarbij elk functioneel gebied of elke afdeling
+eigen gegevensbestanden en programma’s maakt en
+beheert.
+Transactiekosten Kosten van deelname in een markt.
+Transactiekostentheorie Economische theorie die
+zegt dat ondernemingen groter worden omdat ze dan
+intern goedkoper markttransacties kunnen uitvoeren
+dan mogelijk zou zijn met externe ondernemingen op
+de markt.
+Transactieverwerkingssystemen
+(TPS) Gecompute-
+riseerde systemen die de dagelijkse routinetransacties
+die nodig zijn voor de bedrijfsvoering uitvoeren en
+registreren; ze dienen het operationele niveau van de
+organisatie.
+Transmission Control Protocol/Internet Protocol (TCP/
+IP) Referentiemodel ontwikkeld door het Ameri-
+kaanse ministerie van Defensie voor het koppelen van
+verschillende typen computers en netwerken; wordt
+gebruikt voor internet.
+Transnationale
+organisatie Werkelijk wereldwijd
+beheerde onderneming zonder nationaal hoofdkan-
+toor; de waardetoevoegende activiteiten worden
+vanuit een internationaal perspectief beheerd, zonder
+dat hierbij wordt gelet op nationale grenzen, om waar
+dan ook vraag en aanbod op elkaar af te stemmen en
+om te proﬁteren van de plaatselijk concurrentievoor-
+delen.
+Trojaans paard Een soﬅwareprogramma dat goed-
+aardig lijkt, maar dan iets anders doet dan verwacht.
+Tupel Een rij of record in een relationele database.
+Two-factor authentication (2FA) Het valideren van de
+gebruikersidentiteit met
+twee identiﬁcatiemiddelen,
+waarvan een gewoonlijk een fysiek bewijs is en de
+ander gewoonlijk bestaat uit gegevens.
+U
+Uniﬁed threat management (UTM) Allesomvattend
+beveiligingssysteem dat meerdere beveiligingspro-
+gramma’s, zoals ﬁrewalls, virtual private networks,
+inbraakdetectiesystemen, soﬅware voor het ﬁlteren
+van webcontent en antispamsoﬅware, combineert tot
+één programma.
+Uniform resource locator (URL) Het adres van een
+speciﬁeke informatiebron op internet.
+Unix Besturingssysteem voor alle typen computers
+dat machineonafankelijk is en verschillende gebrui-
+kers, multitasking en netwerken ondersteunt. Wordt
+gebruikt op krachtige werkstations en op servers.
+V
+Veld Een groep tekens een woord, zin of cijfer, zoals
+iemands naam of leeﬅijd.
+Veranderingsagent In de context van implementatie
+is dit de persoon die fungeert als katalysator voor het
+hele veranderingsproces en die ervoor moet zorgen dat
+[569] begrippenlijst
+alle betrokken partijen de wijzigingen die het nieuwe
+systeem produceert accepteren.
+Veranderingsmanagement Het managen van de
+gevolgen van veranderingen in de organisatie vanwege
+een innovatie zoals een nieuw informatiesysteem.
+Verantwoordelijkheid Het accepteren van de poten-
+tiële kosten, taken en verplichtingen die voortvloeien
+uit de besluiten die je neemt.
+Verkoopmodel Verkopen van goederen, informatie of
+diensten aan klanten als de voornaamste inkomsten-
+bron voor een bedrijf.
+Verstorende technologieën Technologieën met een
+verstorende invloed op sectoren en bedrijven, omdat
+hierdoor bestaande producten, diensten en bedrijfsmo-
+dellen verouderd raken.
+Verwerking Het omzetten, manipuleren en analy-
+seren van onbewerkte input in een vorm die meer bete-
+kent voor mensen.
+Verwerven
+(procurement) Het aankopen van
+goederen en materialen, bevoorrading, onderhandelen
+met leveranciers, betalen van goederen en het maken
+van leveringsafspraken.
+Virtual private network (VPN) Een beveiligde verbin-
+ding via internet tussen twee locaties om onderne-
+mingsgegevens te versturen. Biedt een goedkoop alter-
+natief voor een particulier netwerk.
+Virtual Reality Modeling Language (VRML) Set speci-
+ﬁcaties voor interactieve, 3D-modellen op het world
+wide web.
+Virtualisatie Zodanige
+presentatie van een reeks
+computermiddelen dat ze alle toegankelijk zijn zonder
+beperkingen door fysieke conﬁguratie of geograﬁsche
+locatie.
+Virtual-realitysystemen Interactieve graﬁsche soﬅ-
+ware en hardware die computersimulaties maakt die
+zeer realistisch aandoen.
+Virtueel bedrijf Organisatie die netwerken gebruikt
+om mensen, middelen en ideeën aan elkaar te koppelen
+om producten en diensten te maken en distribueren
+zonder te worden tegengehouden door de traditionele
+grenzen van de organisatie of fysieke locatie.
+Visueel internet Staat voor linken door het web naar
+visuele sites zoals Pinterest waar tekstdocumenten
+vervangen zijn door foto’s en gebruikers op foto’s en
+visuele kenmerken zoeken.
+Voice over IP (VoIP) Faciliteiten voor het verzenden
+van gesproken informatie via het internetprotocol (IP).
+Voorspellend zoeken Onderdeel van een zoekalgo-
+ritme dat bij het invoeren op basis van populaire zoek-
+opdrachten voorspelt hoe een zoekopdracht van een
+gebruiker eruit gaat zien. Levert een verv
+Voorspellende analyse Het gebruik van data-mining-
+technieken, historische gegevens en aannames over
+toekomstige omstandigheden voor het voorspellen van
+de uitkomsten van gebeurtenissen, zoals de kans dat
+een klant op een aanbod zal reageren of een speciﬁek
+product zal kopen.
+W
+Waardeketenmodel Model dat benadrukt bij welke
+primaire of ondersteunende activiteiten die een marge
+of waarde toevoegen aan de producten of diensten van
+een onderneming informatiesystemen het best kunnen
+worden toegepast om het concurrentievoordeel te
+vergroten.
+Waardeweb Klantgestuurd netwerk van onafhanke-
+lijke bedrijven die informatietechnologie gebruiken
+voor het coördineren van hun waardeketens om geza-
+menlijk een product of dienst voor een markt te produ-
+ceren.
+War driving Techniek waarbij meegluurders langs
+gebouwen rijden of buiten parkeren en proberen draad-
+loos netwerkverkeer te onderscheppen.
+Web 2.0 Tweede generatie, interactieve internetdien-
+sten waarmee mensen kunnen samenwerken,
+infor-
+matie kunnen delen en nieuwe online diensten kunnen
+creëren, zoals mashups, blogs, RSS en wiki’s.
+Webbakens Kleine soﬅwareprogramma’s in een
+e-mail of webpagina die de klikstroom van internetge-
+bruikers bijhouden.
+Web der dingen Alomtegenwoordig web waarbij elk
+object of elke machine een unieke identiteit heeﬅ en
+in staat is internet met andere machines te koppelen of
+gegevens te versturen. Ook bekend als het industriële
+internet.
+Webbrowser Eenvoudig te gebruiken soﬅware voor
+het verkrijgen van toegang tot het World Wide Web en
+internet.
+Webhostingdienst Onderneming met grote webser-
+vercomputers die websites van abonnees beheert.
+Webmining Ontdekking en analyse van nuttige
+patronen en informatie van het world wide web.
+Webserver Soﬅware die de verzoeken van gebrui-
+kers om webpagina’s beheert op de computer waar de
+pagina’s zijn opgeslagen en die de pagina’s naar de
+computer van de gebruiker stuurt.
+Webservices Een verzameling zwak gekoppelde soﬅ-
+warecomponenten die gebruikmaken van normale stan-
+daarden en talen voor webcommunicatie om onderling
+informatie uit te wisselen. Zij maken het mogelijk dat
+twee verschillende systemen, ongeacht de besturings-
+systemen of programmeertalen waarop de systemen
+zijn gebaseerd, informatie uit kunnen wisselen.
+[570]
+begrippenlijst
+Website Alle world wide web-pagina’s die door een
+organisatie of een persoon worden onderhouden.
+Werkprocedures Methoden voor het oplossen van
+problemen en andere oplossingen die door een speci-
+ﬁeke organisatie of industrie zijn ontwikkeld.
+Werkstation Desktopcomputer met krachtige graﬁ-
+sche en wiskundige capaciteiten en met de moge-
+lijkheid verschillende complexe taken tegelijk uit te
+voeren.
+Wet van Moore Stelling dat het aantal componenten
+op een chip elk jaar verdubbelt.
+Wettelijke aansprakelijkheid Een kenmerk van poli-
+tieke systemen waarin een stelsel van wetten personen
+in staat stelt om de schade op andere personen,
+systemen of organisaties te verhalen.
+Wide area network (WAN) Telecommunicatienetwerk
+dat een groot geograﬁsch gebied bedient. Veel WAN’s
+bestaan uit een combinatie van bekabelde, satelliet- en
+microgolﬅechnologieën.
+Wiﬁ De IEEE-verzameling standaarden voor draad-
+loze LAN’s is de 802.11-familie.
+Wijsheid De gezamenlijke en individuele ervaring
+van het toepassen van kennis op de oplossing van
+problemen.
+Wijsheid van de massa Het geloof dat grote aantallen
+mensen betere beslissingen over een breed scala aan
+onderwerpen of producten kunnen nemen dan één
+iemand of een kleine groep deskundigen (voor het eerst
+voorgesteld in een boek van James Surowiecki).
+Wiki Collaboratieve websites waar bezoekers sitecon-
+tent kunnen toevoegen, verwijderen of aanpassen,
+waaronder het werk van eerdere auteurs.
+WiMax (Worldwide Interoperability for Microwave
+Access) De populaire term voor IEEE-standaard
+802.16, bekend als de ‘interface door de lucht voor
+vaste draadloze breedbandtoegangssystemen’. Het
+heeﬅ een draadloos toegangsbereik tot 50 en een snel-
+heid voor gegevensoverdracht tot 75 Mbps.
+Windows 10 Meest recente Microsoﬅ Windows-bestu-
+ringssysteem, dat zowel op tablets als pc’s draait, en
+voorzien is van multitouchfuncties.
+Windows Microsoﬅ-familie van besturingssystemen
+voor zowel netwerkservers als clientcomputers.
+Wintel-pc Elke computer met een Intel-micropro-
+cessor (of compatibele processors) en een Windows-
+besturingssysteem.
+Wireless sensor network (WSN) Netwerk van onder-
+ling verbonden draadloze apparaten die zijn ingebouwd
+in de fysieke omgeving om veel punten op onderling
+grote afstanden te kunnen meten. Gebaseerd op appa-
+raten met ingebouwde gegevensverwerking, opslag en
+radiofrequente sensoren en antennes.
+World wide web Een systeem met universeel geaccep-
+teerde standaarden voor het opslaan, vinden, format-
+teren en weergeven van informatie in een netwerkom-
+geving.
+Wormen Onafankelijke computerprogramma’s die
+zichzelf via een netwerk van een computer naar andere
+computers kopiëren.
+X
+XML (Extensible Markup Language) Algemene taal
+die de structuur van een document beschrijﬅ en koppe-
+lingen naar verschillende documenten ondersteunt,
+waardoor de gegevens door de computer kunnen
+worden bewerkt. Wordt gebruikt voor web- en andere
+toepassingen.
+Z
+Zakelijke drijfveer Een kracht in de omgeving waarop
+ondernemingen moeten reageren en die de richting van
+de onderneming beïnvloedt.
+Zero-day vulnerabilities Lekken in soﬅware die de
+ontwikkelaar niet kent.
+Zoekkosten De kosten voor het zoeken naar geschikte
+producten en voor het opsporen van leveranciers,
+prijzen en leveringsvoorwaarden voor een speciﬁek
+product overal ter wereld.
+Zoekmachine Een tool om speciﬁeke sites of infor-
+matie op internet te vinden.
+Zoekmachinemarketing Gebruik van zoekmachines
+om in hun resultaten door adverteerders betaalde links
+af te leveren.
+Zoekmachineoptimalisatie (SEO) Het proces van het
+zodanig aanpassen van de content, opmaak en inde-
+ling van een website, dat de site hoger in de ranking
+van populaire zoekmachines komt en meer sitebezoe-
+kers genereert.
