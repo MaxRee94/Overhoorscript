@@ -1,0 +1,4568 @@
+M. Noordhoff Uitgevers
+
+ 
+
+Bronis Verhage
+
+Marjolein Visser
+
+ge druk
+
+ 
+Grondslagen van de marketing
+Aan de honderdduizenden studenten die met behulp van dit boek hebben geleerd
+de grondslagen van de marketing in de praktijk toe te passen
+GRONDSLAGEN
+VAN DE
+
+MARKETING
+Prof. dr. Bronis Verhage
+
+Professor of Marketing Georgia State University
+Robinson College of Business Atlanta, Georgia, USA
+
+Met medewerking van Marjolein Visser RM
+
+Negende druk, 2018
+
+Noordhoff Uitgevers Groningen | Utrecht
+Vormgeving binnenwerk: Ebel Kuipers, Sappemeer
+Ontwerp omslag: G2K Designers, Groningen/Amsterdam
+Omslagillustratie: Copyright PublicisFergo, Panamá
+
+Eventuele op- en aanmerkingen over deze of andere uitgaven kunt u richten aan:
+Noordhoff Uitgevers bv, Afdeling Hoger Onderwijs, Antwoordnummer 13,
+9700 VB Groningen of via het contactformulier op www.mijnnoordhoff.nl.
+
+Aan de totstandkoming van deze uitgave is de uiterste zorg besteed. Voor informatie die
+desondanks onvolledig of onjuist is opgenomen, aanvaarden auteur(s), redactie en uitgever geen
+aansprakelijkheid. Voor eventuele verbeteringen van de opgenomen gegevens houden zij zich
+aanbevolen.
+
+MIX
+
+Papier van
+verantwoorde herkomst
+
+ESC FSC* C118189
+
+ 
+
+0/18
+@ 2018 Noordhoff Uitgevers bv Groningen/Utrecht, The Netherlands.
+
+Behoudens de in of krachtens de Auteurswet van 1912 gestelde uitzonderingen mag niets uit deze
+uitgave worden verveelvoudigd, opgeslagen in een geautomatiseerd gegevensbestand of openbaar
+gemaakt, in enige vorm of op enige wijze, hetzij elektronisch, mechanisch, door fotokopieën,
+opnamen of enige andere manier, zonder voorafgaande schriftelijke toestemming van de uitgever. Voor
+zover het maken van reprografische verveelvoudigingen uit deze uitgave is toegestaan op grond
+
+van artikel 16h Auteurswet 1912 dient men de daarvoor verschuldigde vergoedingen te voldoen aan
+Stichting Reprorecht (postbus 3060, 2130 KB Hoofddorp, www.reprorecht.nl}. Voor het overnemen
+van gedeelte({n) uit deze uitgave in bloemlezingen, readers en andere compilatiewerken (artikel 16
+Auteurswet 1912) kan men zich wenden tot Stichting PRO (Stichting Publicatie- en Reproductie-
+rechten Organisatie, postbus 3060, 2130 KB Hoofddorp, www.stichting-pro.nl).
+
+All rights reserved. No part of thís publication may be reproduced, stored in a retrieval system,
+or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording, or
+otherwise, without the prior written permission of the publisher.
+
+ISBN 978-90-01-85317-4
+NUR 802
+
+© Noordhoff Uitgevers bv
+Verkorte inhoud
+
+DEEL 1 INZICHT IN DE MARKETING 27
+
+1 __ WAT IS MARKETING? 29
+
+2 _MARKETINGPLANNING EN
+STRATEGIEBEPALING 71
+
+3 _MARKETINGOMGEVING 125
+
+DEEL 2 ANALYSEREN VAN DE MARKT 165
+
+4 KOOPGEDRAG 167
+
+5 MARKTONDERZOEK EN
+MARKETINGINFORMATIE 205
+
+6 _MARKTSEGMENTATIE EN POSITIONERING 237
+
+DEEL 3 PRODUCTBESLISSINGEN 275
+
+7 __PRODUCTMANAGEMENT EN MERKBELEID 277
+
+8 _PRODUCTONTWIKKELING EN
+DIENSTENMARKETING 327
+
+DEEL 4 PROMOTIEBESLISSINGEN 367
+
+9 __ MARKETINGCOMMUNICATIESTRATEGIEËN 369
+10 RECLAME 417
+
+11 _SALESMANAGEMENT 467
+
+ 
+
+DEEL 5 PRIJSBESLISSINGEN 517
+12 PRIJSBELEID 519
+
+DEEL 6 DISTRIBUTIEBESLISSINGEN 559
+13 DISTRIBUTIEBELEID 591
+
+14 DETAILHANDEL 641
+
+15 INTERNATIONALE MARKETING 693
+
+ 
+
+© Noordhoff Uitgevers bv
+ 
+
+Inhoud
+
+Woord vooraf bij de negende druk 18
+
+Over de auteur 25
+
+1.1
+
+1.2
+
+1.3
+
+14
+
+1.5
+
+1.6
+
+DEEL 1
+INZICHT IN DE MARKETING 27
+
+WAT IS MARKETING? 25
+Marketing in actie: Innocent smoothies: een marketinghit 30
+Betekenis van marketing 33
+
+1.1.1 Verschil tussen verkoop en marketing 33
+1.1.2 Definitie van marketing 34
+
+1.1.3 Marketingmix 34
+
+1.1.4 Doelgroepkeuze en het ruilproces 36
+Commerciële economie of marketing 37
+
+1.2.1 Rol van de economische wetenschap 37
+1.2.2 Bijdragen van andere wetenschappen 38
+Invalshoeken van marketing 39
+
+1.3.1 Macromarketing 39
+
+1.3.2 Mesomarketing 39
+
+1.3.3 Micromarketing 41
+
+Marketingmisser: Heineken Mini 42
+Ontwikkeling van de marketinggedachte 42
+1.4.1 Productie- en productgerichte bedrijven 43
+1.4.2 Verkoopgerichte bedrijven 44
+
+1.4.3 Marketinggerichte bedrijven 44
+
+1.4.4 Relatiemarketing 47
+
+1.4.5 Digitale duurzame marketing 48
+Marketingtopper: Gat in de markt voor Magnet.me 49
+Het marketingconcept 50
+
+1.5.1 Tevreden klanten 50
+
+1.5.2 Geïntegreerde aanpak 51
+
+1.5.3 Breed omschreven werkterrein 53
+
+1.5.4 Coneurrentieanalyse 54
+
+1.5.5 Marktonderzoek en doelgroepkeuze 54
+1.5.6 Winstbijdrage 54
+
+Visie vanuit de praktijk: Coca-Cola zoekt marketingtalent 55
+Sleuteltaken van marketing 56
+
+1.6.1 Eerste taak van marketing 56
+
+1.6.2 Tweede taak van marketing 58
+
+1.6.3 Dedrie R's 59
+
+© Noordhoff Uitgevers bv
+1.7
+
+2.1
+
+2.3
+
+24
+
+2.7
+
+1.6.4 Life time value en customer equity 60
+Marketingmemo: Klantvriendelijke klachtenbehandeling 61
+Marketingtoepassingen en vooruitblik 62
+
+1.71 Toepassingsgebieden van marketing 62
+
+1.72 Non-profitmarketing 63
+
+1.73 Belang van inzicht in marketing 64
+
+1.74 Vooruitblik op de inhoud 65
+
+Samenvatting 67
+
+Discussievragen 69
+
+MARKETINGPLANNING EN
+STRATEGIEBEPALING 7:
+Marketing in actie: TomTom's overlevingsstrategie 72
+Marketingplanning 74
+
+2.1.1 Strategische en tactische planning 75
+
+2.1.2 Bouwstenen voor succes 76
+
+2.1.3 Stappen in marketingplanning: een model 78
+Visie vanuit de wetenschap: Michael Porter (Harvard Business
+School) 80
+
+Ondernemingsmissie en visie 80
+
+2.2.1 Missieomschrijving 80
+
+2.2.2Visie 82
+
+Marketingmemo: De missie en visie van Philips 83
+Situatieanalyse 83
+
+2.3.1 Interne analyse 83
+
+2.3.2 Externe analyse 84
+
+2.3.3 SWOT-analyse 84
+
+2.3.4 Confrontatiematrix 85
+
+Visie vanuit de praktijk: Johan Aurik (A.T. Kearny) 86
+Marketingdoelstellingen 87
+
+2.4.1 Eisen aan doelstellingen 88
+
+2.4.2 Doelstellingenhiërarchie 88
+Strategiebepaling 89
+
+2.5.1 Portfolioanalyse 90
+
+2.5.2 Concurrentiestrategieën 94
+
+2.5.3 Groeistrategieën 96
+
+Marketingmisser: Retailers in het middensegment 98
+Marketingorganisatie 98
+
+2.6.1 Integratie van de marketingfunctie 99
+
+2.6.2 Organisatiestructuur 100
+
+Het marketingplan 103
+
+2.71 Functies van het plan 103
+
+2.7.2 Indeling van een marketingplan 104
+
+2.7.3 Accenten in het marketingplan 110
+Uitvoering, controle en bijsturing 111
+
+2.8.1 Implementatie 112
+
+2.8.2 Marketingcontrole en bijsturing 112
+
+2.8.3 Operationele marketingcontrole 113
+
+2.8.4 Strategische marketingcontrole 116
+
+2.8.5 Geïntegreerde marketing 117
+
+Samenvatting 120
+
+Discussievragen 122
+
+© Noordhoff Uitgevers bv
+
+ 
+ 
+
+ 
+
+3.1
+
+3.2
+
+3.3
+
+3.4
+
+4.1
+
+4.2
+
+4.3
+
+MARKETINGOMGEVING 25
+Marketing in actie: De marketingstrategie van de SNS Bank 126
+De marketingomgeving 129
+
+3.1.1 Interne omgeving 130
+
+3.1.2 Externe omgeving 131
+
+Marketingmemo: Het draait om de feiten 132
+
+3.1.3 Ontwikkelingen en marketinguitdagingen 132
+Marketingtopper: Greenwheels ontdekt klantenservice 136
+Meso-omgeving 137
+
+3.2.1 Bedrijfskolom 137
+
+3.2.2 Klanten 138
+
+3.2.3 Toeleveranciers 139
+
+3.2.4 Intermediairs 140
+
+3.2.5 Concurrenten 141
+
+3.2.6 Belangengroepen 143
+
+Marketingmisser: Functionele voeding 144
+Macro-omgeving 145
+
+3.3.1 Demografische factoren 147
+
+3.3.2 Economische factoren 148
+
+3.3.3 Sociaal-culturele factoren 149
+
+3.3.4 Technologische factoren 150
+
+3.3.5 Ecologische factoren 152
+
+3.3.6 Politiek-juridische factoren 153
+
+Visie vanuit de praktijk: Connie Braams (Unilever) 155
+Marketingethiek en sociale verantwoordelijkheid 155
+3.4.1 Wetgeving versus ethiek 156
+
+3.4.2 Ethiek en marketing 156
+
+3.4.3 Inzicht in ethisch gedrag 157
+
+3.4.4 Maatschappelijke verantwoordelijkheid 159
+Samenvatting 162
+
+Discussievragen 163
+
+DEEL 2
+ANALYSEREN VAN DE MARKT 65
+
+KOOPGEDRAG ‘67
+Marketing in actie: Vegetarisch vlees: een voedselrevolutie? 168
+Koopbeslissingsproces 171
+
+4.1.1 Behoefte beseffen 172
+
+4.1.2 Informatie zoeken 172
+
+4.1.3 Alternatieven evalueren 172
+4.1.4 Aankoopbeslissing 173
+
+4.1.5 Evaluatie na de koop 174
+Oriëntatie- en koopgedrag 175
+
+4.2.1 Uitgebreide besluitvorming 176
+4.2.2 Beperkte besluitvorming 176
+4.2.3 Routinekoopgedrag 176
+Persoonlijke omstandigheden 177
+4.3.1 Demografische kenmerken 177
+4.3.2 Lifestyle 178
+
+© Noordhoff Uitgevers bv
+4.4
+
+4.5
+
+4.6
+
+5.1
+
+5.3
+
+5.4
+
+4.3.3 Situationele invloeden 179
+
+Visie vanuit de wetenschap: Sluiproute naar de consument 179
+Psychologische factoren 180
+
+4.4.1 Behoeften 180
+
+44.2 Perceptie 182
+
+44.3 Leerprocessen 183
+
+4.4.4 Persoonlijkheid 185
+
+44.5 Attitudes 185
+
+Marketingmisser: Volmaakte online reviews 188
+Sociale invloeden op het consumentengedrag 189
+4.5.1 Cultuur 189
+
+4.5.2 Sociale klasse 190
+
+4.5.3 Referentiegroepen 191
+
+4.5.4 Gezinsinvloeden 192
+
+Visie vanuit de praktijk: Wilco van Schaik (FC Utrecht) 194
+B2b-marketing 194
+
+4,6.1 Kenmerken van de zakelijke markt 195
+
+4.6.2 Koopgedrag van organisaties 196
+
+4.6.3 Rollen in de DMU 197
+
+4.6.4 Typen koopsituaties 198
+
+4.6.5. B2b e-commerce 200
+
+Samenvatting 201
+
+Discussievragen 202
+
+MARKTONDERZOEK EN
+MARKETINGINFORMATIE 205
+Marketing in actie: Digitale platforms: de ‘Big Five’ 206
+Doel van marktonderzoek 208
+
+5.1.1 Wat is marktonderzoek? 208
+
+B.1.2 Redenen voor marktonderzoek 209
+
+Visie vanuit de praktijk: Ronald Velton (IBM) 210
+
+Het marktonderzoeksproces 211
+
+5.2.1 Probleemstelling en onderzoeksdoelstellingen 212
+5.2.2 Onderzoeksopzet bepalen 214
+
+5.2.3 Secundaire gegevens verzamelen 215
+
+5.2.4 Verkennend onderzoek 216
+
+5.2.5 Onderzoeksmethode uitwerken 216
+
+5.2.6 Primaire gegevens: de enquête 217
+
+5.2.7 Motivatieonderzoek 220
+
+5.2.8 Observatie 221
+
+5.2.9 Experimenten 222
+
+5.2.10 Analyse, interpretatie en communicatie 224
+Marketingmisser: Meet Vincent van Gogh Experience 225
+Marketinginformatiesysteem 225
+
+5.3.1 Informatiebronnen 226
+
+5.3.2 Verwerking van de gegevens 229
+
+Testmarketing 230
+
+5.4.1 Selectie van testmarkten 231
+
+5.4.2 Grondbeginselen van testmarketing 232
+
+5.4.3 Duur van de testmarketing 232
+
+Samenvatting 234
+
+Discussievragen 235
+
+© Noordhoff Uitgevers bv
+
+ 
+ 
+
+ 
+
+6.1
+
+6.3
+
+6.4
+
+7.2
+
+MARKTSEGMENTATIE EN
+POSITIONERING 237
+
+Marketing in actie: De Biet: Nederlands beste café 238
+Analyseren van de markt 241
+
+6.1.1 Wat is een markt? 241
+
+6.1.2 Afbakenen van de markt 242
+
+6.1.3 Marktpotentieel 243
+
+6.1.4 Deelmarkten en marktbewerking 243
+
+6.1.5 De c2c-markt 244
+
+Visie vanuit de wetenschap: V. Kumar (Georgia State University) 247
+Wat is marktsegmentatie? 247
+
+6.2.1 Ontwikkeling van marktsegmentatie 247
+6.2.2 Redenen voor marktsegmentatie 249
+
+6.2.3 Voorwaarden voor segmentatie 250
+Marketingmemo: Motorrijders worden grijzer 253
+Segmentatiecriteria 253
+
+6.3.1 Demografische segmentatie 254
+
+6.3.2 Geografische segmentatie 255
+
+6.3.3 Psychografische segmentatie 256
+
+6.3.4 Gedragssegmentatie 259
+
+Visie vanuit de praktijk: Febo's herpositionering 260
+Doelgroepbepaling 260
+
+6.4.1 Marktbewerkingsstrategieën 261
+
+6.4.2 Kiezen van doelgroepen 263
+Marketingtopper: Skoda Superb: de zaterdagauto 264
+Positionering 264
+
+6.5.1 De strijd om het brein 265
+
+6.5.2 Positioneringsgrafiek 266
+
+6.5.3 De kunst van het positioneren 267
+
+6.5.4 Herpositionering 268
+
+Samenvatting 270
+
+Discussievragen 272
+
+DEEL 3
+PRODUCTBESLISSINGEN 275
+
+PRODUCTMANAGEMENT EN
+MERKBELEID 277
+
+Marketing in actie: De Dames van Hurkmans 278
+Wat is een product? 281
+
+71.1 Een pakket pluspunten 281
+
+7.1.2 Productniveaus 282
+
+71.3 Marketingimplicaties 283
+Marketingtopper: La Trappe: Proef de stilte 284
+Typen consumentenproducten 284
+
+7.2.1 Convenience products 285
+
+7.2.2 Shopping products 286
+
+7.2.3 Specialty products 286
+
+7.2.4 Unsought products 287
+
+7.2.5 Andere productindelingen 288
+
+© Noordhoff Uitgevers bv
+7.3
+
+74
+
+7.5
+
+7.6
+
+7.7
+
+8.1
+
+8.3
+
+Assortimentsbeleid 289
+
+73.1 Wat is een assortiment? 289
+
+73.2 Dimensies van het assortiment 290
+73.3 Assortimentssanering 291
+
+73.4 Assortimentsuitbreiding 293
+
+Visie vanuit de praktijk: Julian Stevense 296
+Productlevenscyclus 297
+
+74.1 Fasen in de levenscyclus 298
+
+74.2 Volwassenheid 301
+
+74.3 Bruikbaarheid van de PLC 301
+
+74.4 Verlenging van de levenscyclus 302
+Kwaliteit en klantenservice 304
+
+75.1 Kwaliteitsbeleid 304
+
+75.2 Garantiebeleid 305
+
+75.3 Servicebeleid 306
+
+Visie vanuit de wetenschap: Marnik Dekimpe (Universiteit van Tilburg, KU
+Leuven) 308
+
+Design en verpakking 309
+
+7.6.1 Productontwerp 309
+
+76.2 Functies van de verpakking 310
+Marketingmisser: Misleidende informatie 313
+Merkenstrategie 314
+
+77.1 Voordelen van een sterk merk 314
+
+77.2 Battle of the brands 315
+
+77.3 Familiemerk of individuele merken? 318
+774 Een goede merknaam kiezen 319
+
+77.5 Merkenrecht 320
+
+Samenvatting 322
+
+Discussievragen 324
+
+PRODUCTONTWIKKELING EN NE
+DIENSTENMARKETING 327
+
+Marketing in actie: Philips SceneSwitch: slimme sfeerlamp 328
+Wat is een nieuw product? 330
+
+8.1.1 Typen nieuwe producten 330
+
+8.1.2 Innovaties en consumentengedrag 332
+
+Redenen voor productontwikkeling 333
+
+Visie vanuit de wetenschap: Jan-Benedict Steenkamp (University of
+North Carolina) 334
+
+8.2.1 Waarom bedrijven nieuwe producten lanceren 334
+
+8.2.2 Make or buy? 337
+
+Ontwikkelen van nieuwe producten 339
+
+8.3.1 Strategie voor nieuwe producten 340
+
+8.3.2 Ideeontwikkeling 340
+
+8.3.3 Schifting en evaluatie 340
+
+8.3.4 Bedrijfseconomische analyse 341
+
+8.3.5 Ontwikkeling van een prototype 342
+
+8.3.6 Testmarketing 342
+
+8.3.7 Cocreatie 343
+
+Marketingtopperer: Coca-Cola life: een specialty product 344
+8.3.8 Productintroductie 345
+
+ 
+
+© Noordhoff Uitgevers bv
+Cds
+Lhee
+
+ 
+
+8.4
+
+9.1
+
+9.4
+
+Waarom producten aanslaan of mislukken 345
+
+8.4.1 Geslaagde introducties 345
+
+8.4.2 Mislukte lanceringen 346
+
+Diffusie van innovaties 348
+
+8.5.1 Het adoptieproces 349
+
+8.5.2 Adoptiecategorieën 349
+
+8.5.3 Producteigenschappen en adoptiesnelheid 352
+Visie vanuit de praktijk: Tom de Bruyne (Sue Amsterdam) 354
+Marketing van diensten 355
+
+8.6.1 Kenmerken van een dienst 355
+
+8.6.2 Belang van de dienstensector 359
+
+8.6.3 Verhogen van de productiviteit 360
+Samenvatting 362
+
+Discussievragen 364
+
+DEEL 4
+PROMOTIEBESLISSINGEN 357
+
+MARKETING- _
+COMMUNICATIESTRATEGIEEN 2co
+Marketing in actie: Bedrijfslogo's: verborgen boodschap? 370
+Wat is marketingcommunicatie? 373
+
+9.1.1 Marketingcommunicatie- en promotie-instrumenten 373
+9.1.2 Vergelijking van persoonlijke en massacommunicatie 376
+9.1.3 Hoe werkt communicatie? 378
+
+Communicatiebeleid: doelgroepkeuze 380
+
+9.2.1 Pull- en pushstrategieën 381
+
+9.2.2 Het tweestapsmodel van het communicatieproces 382
+Communicatiedoelstellingen formuleren 384
+
+9.3.1 Klassiek hiërarchische modellen 386
+
+9.3.2 Implicaties voor het promotiebeleid 389
+
+9.3.3 Niet-klassiek hiërarchische modellen 391
+
+Visie vanuit de wetenschap: Roland van der Vorst 392
+
+Het communicatiebudget vaststellen 393
+
+9.4.1 Omzetpercentagemethode 393
+
+9.4.2 Sluitpostmethode 394
+
+9.4.3 Concurrentiemethode 395
+
+9.4.4 Taakstellende methode 396
+
+9.4.5 Anticyclisch budgetteren 397
+
+Marketingmisser: Reclame: goedbedoeld is geen excuus 398
+De communicatiemix bepalen 399
+
+9.5.1 Richtlijnen voor de samenstelling van een ideale mix 399
+9.5.2 Beoogde respons 402
+
+Public relations 403
+
+9.6.1 Taken van public relations 408
+
+9.6.2 Planning van de prstrategie 410
+
+Samenvatting 413
+
+Discussievragen 415
+
+© Noordhoff Uitgevers bv
+10.1
+
+10.2
+
+10.3
+
+10.4
+
+10.5
+
+10.6
+
+10.7
+
+10.8
+
+10.9
+
+11.1
+
+RECLAME 417
+
+Marketing in actie: Hoe Zalando mode en media combineert 418
+Rol van reclame 421
+
+10.1.1 Invloed op de maatschappij 421
+
+10.1.2 Plaats in de organisatiestructuur 422
+10.1.3 Reclamebestedingen 423
+
+Soorten reclame 423
+
+10.2.1 Indeling naar zender 424
+
+10.2.2 Indeling naar ontvanger 426
+
+10.2.3 Indeling naar boodschap 427
+
+10.2.4 Indeling naar medium 429
+Reclameplanning 429
+
+10.3.1 Doelstellingen formuleren 430
+
+10.3.2 Het DAGMAR-model 432
+
+10.3.3 Reclamebudgettering in Nederland 433
+Reclamestrategieën 434
+
+10.4.1 Introductiefase 435
+
+10.4.2 Groeifase van de markt 435
+
+10.4.3 Volwassenheidsfase van de markt 436
+10.4.4 Neergangsfase van de markt 436
+Marketingmemo: Socialmediagebruik in b2b 437
+Ontwikkelen van de reclamecampagne 438
+10.5.1 Briefing 438
+
+10.5.2 Creatief concept 441
+
+10.5.3 Uitwerking 442
+
+Mediaselectie 443
+
+10.6.1 Het mediaplan 443
+
+10.6.2 Online reclame 444
+
+10.6.3 Criteria voor het selecteren van media 447
+Visie vanuit de wetenschap: Craig Smith (Insead) 450
+Meten van reclame-effecten 451
+
+10.71 Pretest 452
+
+10.72 Posttest 453
+
+10.73 Mediaonderzoek 454
+
+Reclamebureaus en de reclamewereld 455
+10.8.1 Typen reclamebureaus 455
+
+10.8.2 Het inschakelen van een bureau 456
+10.8.3 Organisaties in de reclamewereld 457
+Sponsoring 458
+
+10.9.1 Doelstellingen 459
+
+10.9.2 Sponsoringstrategieën 460
+Samenvatting 462
+
+Discussievragen 464
+
+SALESMANAGEMENT 457
+
+Marketing in actie: Hunkemöller: lingerie- en lifestylemerk 468
+Belang van persoonlijke verkoop 471
+
+11.11 Typen verkoopfuncties 472
+
+11.1.2 Taken van accountmanagers 473
+
+© Noordhoff Uitgevers bv
+
+ 
+
+ 
+ 
+
+11.2
+
+11.3
+
+11.4
+
+11.5
+
+11.6
+
+11.7
+
+12.1
+
+12.2
+
+12.3
+
+Het creatieve verkoopproces 4/75
+11.2.1 Voorbereiding 475
+
+11.2.2 Overreding 476
+
+11.2.3 Transactie 479
+
+480
+Salesmanagement en doelstellingen
+11.3.1 Leiderschap en planning 482
+
+481
+
+11.3.2 Management by objectives 483
+
+Organisatie van de verkoopafdeling
+11.4.1 Structuur van de buitendienst
+11.4.2 Omvang van de buitendienst
+11.4.3 Bepalen van de rayongrootte
+
+Management van het verkoopteam
+11.5.1 Werving, selectie en training
+11.5.2 Motivatie en beloning 495
+Direct marketing 496
+
+11.6.1 Wat is direct marketing? 496
+
+485
+485
+490
+491
+492
+493
+494
+
+11.6.2 Traditionele vormen van direct marketing 498
+11.6.3 Ontwikkeling van direct marketing 500
+
+Sales promotion 504
+
+11.71 Doel van promotieacties 504
+11.72 Consumentenpromoties 505
+11.73 Handelspromoties 509
+11.74 Trends in sales promotion 511
+Samenvatting 513
+Discussievragen 515
+
+PRIJSBESLISSINGEN
+
+PRIJSBELEID 510
+De prijsbeslissing 524
+12.1.1 Waardeperceptie 525
+12.1.2 Kostprijs 526
+
+517
+
+521
+
+12.1.3 Ondernemings- en marketingstrategie 526
+
+12.1.4 Concurrentie 527
+12.1.5 Assortiment 527
+
+12.1.6 Tussenhandel 527
+12.1.7 Wetgeving en ethiek 528
+Vraagcurve 528
+
+12.2.1 Prijsmechanisme 529
+
+12.2.2 Beweging langs de vraagcurve 529
+12.2.3 Verschuiving van de vraagcurve 530
+
+Prijsbepaling van nieuwe producten
+12.3.1 Afroomprijsstrategie 532
+12.3.2 Penetratieprijsstrategie 533
+
+531
+
+© Noordhoff Uitgevers bv
+12.4
+
+12.5
+
+12.6
+
+12.7
+
+12.8
+
+13.1
+
+Prijsdoelstellingen 535
+12.4.1 Een model voor prijsbeslissingen 535
+12.4.2 Algemene prijsdoelstellingen 537
+12.4.3 Zuivere prijsdoelstellingen 537
+12.4.4 Doelstellingen in de praktijk 538
+
+540
+Prijstactiek 541
+12.5.1 Prijsafspraken en de nieuwe wetgeving 542
+12.5.2 Prestatiekortingen 544
+12.5.3 Verkapte kortingen 545
+12.5.4 Interne verrekenprijzen 546
+Kostengeoriënteerde prijsbepaling 547
+12.6.1 Kostprijs-plusmethode 548
+12.6.2 Variabelekostprijsmethode 551
+12.6.3 Break-evenanalyse 553
+12.6.4 Rendementsmethode 555
+Vraaggeoriënteerde prijszetting 557
+12.71 Prijselasticiteit van de vraag 557
+12.72 Inkomenselasticiteit 562
+12.73 Kruiselingse prijselasticiteit 564
+12.74 Price lining 564
+12.75 Prijsdiscriminatie 567
+12.76 Psychologische prijszetting 568
+
+570
+
+Concurrentiegeoriënteerde prijszetting 571
+12.8.1 Concurrentie en marktvormen 573
+12.8.2 Monopolie 575
+12.8.3 Oligopolie 575
+12.8.4 Monopolistische concurrentie 578
+12.8.5 Volledige mededinging 578
+12.8.6 Prijsvorming bij inschrijving en aanbesteding 580
+Samenvatting 583
+Discussievragen 586
+
+DEEL 6
+DISTRIBUTIEBESLISSINGEN 592
+
+DISTRIBUTIEBELEID 5e:
+
+Marketing in actie: Verhage Restaurants: de herpositionering 592
+Belang van marketingkanalen 595
+
+13.1.1 Wat is een distributiekanaal? 595
+
+13.1.2 Typen distributiekanalen 597
+
+13.1.3 Distributiekanalen creëren nut 600
+
+13.1.4 Distributiekanalen verhogen de efficiency 601
+
+13.1.5 Distributiekanalen geven vorm aan de bedrijfskolom 602
+13.1.6 Waardeketen en value delivery network 603
+
+© Noordhoff Uitgevers bv
+
+ 
+zr zl
+z
+à
+—
+=
+1d
+<
+4
+
+|
+
+ 
+
+13.2
+
+13.3
+
+13.4
+
+13.5
+
+14.1
+
+14.2
+
+14.3
+
+14.4
+
+14.5
+
+14.6
+
+Distributieanalyse 604
+
+13.2.1 Distributie-intensiteit 605
+
+13.2.2 Distributiekengetallen 608
+
+Visie vanuit de wetenschap: Mark Ritson (Melbourne Business
+School) 610
+
+Kanaalleiderschap en -management 611
+
+13.3.1 Wie leidt het marketingkanaal? 612
+
+13.3.2 Selectie van wederverkopers 616
+
+13.3.3 Conflicten in het kanaal 619
+
+13.3.4 Evaluatie en controle van distribuanten 621
+Groothandel 623
+
+13.4.1 Wat is een groothandel? 624
+
+13.4.2 Typen groothandelaren 625
+
+13.4.3 De toekomst van de groothandel 626
+Marketingtopper: Horizon: marketing van games 628
+Marketinglogistiek 629
+
+13.5.1 Management van fysieke distributie 630
+13.5.2 Integrale logistieke benadering 634
+Samenvatting 636
+
+Discussievragen 639
+
+DETAILHANDEL 4:
+
+Marketing in actie: Omoda's omnichannelstrategie 642
+De rol van de detailhandel 645
+
+14.1.1 Belang van retailing 645
+
+14.1.2 Het wheel of retailing 647
+
+Detailhandelsvormen 648
+
+14.2.1 Winkeltypen 649
+
+14.2.2 Niet-winkelverkoop 653
+
+14.2.3 Winkelcentra 655
+
+E-commerce 659
+
+14.3.1 De voordelen van online retailing 659
+
+14.3.2 E-commerce met behulp van de online marketing funnel 662
+14.3.3 E-loyaliteit 665
+
+14.3.4 E-fulfilment 668
+
+Marketingmemo: Zalando verzorgt nu ook e-fulfilment voor derden 668
+Franchising 669
+
+14.4.1 Samenwerkingsverbanden 669
+
+14.4.2 Franchisesysteem 671
+
+Marketingmisser: P&G Benelux brand management 674
+Trade marketing 675
+
+14.5.1 Accountmanagement 675
+
+14.5.2 Prijs- en servicedistributie 677
+Detailhandelsmarketing 677
+
+14.6.1 Winkelformule 678
+
+14.6.2 Detailhandelsmix 680
+
+14.6.3 Trends in retailing 684
+
+Samenvatting 688
+
+Discussievragen 690
+
+© Noordhoff Uitgevers bv
+15 INTERNATIONALE MARKETING co3
+
+Marketing in actie: Ahold Delhaize: mondiale retailreus 694
+15.1 Internationale marketingplanning 697
+
+15.1.1 Wat is internationale marketing? 698
+
+15.1.2 Strategische planning voor internationale expansie 698
+15.2 Mondiale marketingomgeving 701
+
+15.2.1 Economische omgeving 701
+
+15.2.2 Politiek-juridische omgeving 702
+
+15.2.3 Culturele omgeving 704
+
+Marketingmemo: Unilever's internationale concurrentiestrijd 708
+15.3 Entreestrategieën 709
+
+15.3.1 Export 710
+
+15.3.2 Licentieverlening 711
+
+15.3.3 Joint venture 712
+
+15.3.4 Directe investering 712
+
+Visie vanuit de praktijk: Patrick Stal (Head of Marketing van Uber
+
+EMEA) 713
+15.4 Standaardiseren of aanpassen? 714
+
+15.4.1 Voor en nadelen van standaardisatie 715
+
+15.4.2 Think globally, act locally… 715
+
+15.4.3 Bestaat de universele consument? 717
+
+Samenvatting 721
+
+Discussievragen 723
+
+ 
+
+Noten 724
+
+Illustratieverantwoording 732
+
+Register 733
+
+© Noordhoff Uitgevers bv
+Woord vooraf bij de
+negende druk
+
+We leven in een boeiende tijd van ingrijpende veranderingen en grote uitdagingen.
+Om met succes te concurreren moeten bedrijven voortdurend betere producten
+en diensten op de markt brengen. Marketingstrategieën die een paar jaar geleden
+nog voldeden, zijn vandaag wellicht niet goed genoeg. Een bedrijf moet zich met
+zijn merken duidelijk onderscheiden en een doeltreffende strategie volgen om in de
+dynamische markt te blijven groeien.
+
+Nooit eerder in de geschiedenis van de marketing hebben de veranderingen in de
+marketingomgeving elkaar zo snel opgevolgd. Bedrijven zijn erin geslaagd de tijd die
+het kost om een nieuw product te ontwikkelen en te lanceren, te halveren. Hun pro-
+ducten en diensten zijn niet alleen van hoge kwaliteit, maar ook nauwkeurig op de
+wensen en behoeften van de doelgroep afgestemd. Dankzij allerlei innovaties zijn de
+distributiekosten sterk gedaald, terwijl de dienstverlening steeds beter wordt.
+
+Deze vooruitgang in de marketing van producten en diensten is bereikt door
+achterhaalde praktijken in het bedrijfsleven te vervangen door actuele marketing-
+inzichten en -technieken. Steeds meer managers vertrouwen bij het uitvoeren van
+hun strategieën op social media, guerrillamarketing, virale marketing en andere
+communicatiemethoden die gebruikmaken van internet. Dankzij internet hebben
+ook start-up bedrijven nu toegang tot de internationale markt. Door in deze com-
+plexe omgeving de marketinggrondslagen en -technieken slagvaardig toe te pas-
+sen, kan elke organisatie haar concurrentiepositie verbeteren.
+
+Redenen voor het schrijven van dit boek
+
+Een belangrijk doel van docenten in het hoger onderwijs is om studenten bruikbare
+kennis, inzichten en vaardigheden bij te brengen voor een leidinggevende functie in
+Nederland, of waar ook ter wereld. Dat is geen gemakkelijke taak. Veel van de tra-
+ditionele concepten en rechtstreeks uit de VS overgenomen denkbeelden die je in
+sommige marketingboeken aantreft, zijn op de mondiale markt niet toereikend.
+
+Om studenten — als toekomstige managers — optimaal voor te bereiden op een
+succesvolle carrière met veel uitdagingen, moeten zij niet alleen bekend zijn met
+de principes van marketing, maar ook effectieve marketingstrategieën kunnen uit-
+stippelen en uitvoeren. Om hen te helpen bij het ontwikkelen van de juiste visie en
+hen vertrouwd te maken met de voor Nederland meest relevante inzichten, is deze
+negende editie van Grondslagen van de Marketing — al vele jaren marktleider in
+Nederland — grotendeels herzien.
+
+Bedrijven zijn geïnteresseerd in een nieuwe generatie studenten en (aan-
+komende) managers die niet alleen over de nodige marketingkennis beschikken,
+maar zich ook de juiste beroepshouding hebben eigen gemaakt. Zij moeten ambiti-
+eus maar realistisch zijn, zich resultaatgericht maar flexibel opstellen en zelfstandig,
+klantgeoriënteerd en innovatief te werk gaan. Zij moeten hun inzichten en vaardig-
+heden creatief kunnen gebruiken, zowel in eigen land als in andere culturen. De
+studenten van nu zijn de marketeers en leiders van morgen die dankzij een analyti-
+sche en multidisciplinaire denkwijze in staat zijn om alert op relevante trends in de
+maatschappij te anticiperen. De negende druk van Grondslagen van de marketing
+levert een belangrijke bijdrage aan het ontwikkelen van de gewenste mindset en
+vaardigheden van marktgerichte managers en marketeers.
+
+© Noordhoff Uitgevers bv
+Pedagogische aanpak
+
+Het doel van dit boek is de lezer vertrouwd te maken met de grondslagen en tech-
+nieken van de marketing en met de wijze waarop deze op de snel veranderende
+markt het best kunnen worden toegepast. Door een aantrekkelijke presentatie van
+het materiaal — met actuele cases en voorbeelden — wordt bereikt dat de lezer zich
+niet opstelt als passieve toehoorder of buitenstaander, maar zich inleeft in de rol
+van de manager die beslissingen neemt. De ervaring hiermee is dat veel studenten
+marketing niet alleen leren waarderen als een interessant onderwerp, maar er zo
+door geboeid raken dat zij besluiten er een carrière in te zoeken.
+
+In dit boek staan twee invalshoeken centraal: een managementoptiek en de
+strategische rol van het vakgebied. De managementoptiek houdt in dat alle marke-
+tingonderwerpen worden benaderd vanuit de optiek van de manager die wordt
+betaald om te beslissen. Hoewel we ons zowel verdiepen in wetenschappelijke
+methoden als in technieken die uit de praktijk van het marketingmanagement zijn
+voortgekomen, ligt het accent op mogelijkheden om ze bij de besluitvorming toe te
+passen.
+
+De tweede invalshoek benadrukt de strategische rol van marketing in de organi-
+satie, met veel aandacht voor hoe we succesvolle strategieën ontwikkelen en ver
+talen in marketingplannen en concrete beleidsbeslissingen. Het resultaat is een
+evenwichtige behandeling van de marketingproblematiek op concern-, bedrijfs- en
+productniveau.
+
+Positionering van het boek
+
+Waarin onderscheidt dit boek zich nu van andere boeken die de principes van de
+marketing behandelen? Allereerst heeft dit boek betrekking op de Nederlandse
+marketingomgeving, die in veel opzichten afwijkt van de Amerikaanse situatie. Bij
+Grondslagen wordt het leerproces van studenten niet belemmerd door het gebruik
+van de Engelse taal of minder herkenbare buitenlandse voorbeelden. Overigens is
+voor universiteiten en hogescholen met Engelstalige onderwijsprogramma's een
+internationale editie van Grondslagen van de Marketing verkrijgbaar, met als titel
+Marketing Fundamentals: An International Perspective.
+
+Grondslagen van de Marketing, waarvan meer dan een kwart miljoen exempla-
+ren zijn verkocht, is door het alledaags taalgebruik prettig leesbaar. Het is boven-
+dien duidelijk ingedeeld en beslissingsgericht. Het reikt zinvolle handvatten aan om
+het analytisch denken van de manager te scherpen en verschaft het raamwerk voor
+het ontwikkelen van een doortimmerd marketingplan. Tientallen actuele visies van
+Nederlandse topmanagers en professoren en fascinerende praktijkvoorbeelden
+brengen de tekst tot leven en laten zien hoe bedrijven de marketingtheorie met
+succes toepassen. Met een goede balans tussen theorie en praktijk slaagt
+Grondslagen erin om de lezer enthousiasme voor het marketingvak bij te brengen.
+
+Indeling van het boek
+
+Grondslagen van de Marketing omvat vijftien hoofdstukken die een state-of-the-
+artoverzicht geven van de nieuwe prioriteiten op marketinggebied. Ze zijn — vanuit
+een managementbenadering — in zes delen gegroepeerd. Deze indeling geeft een
+logische structuur aan de theorie.
+
+Het boek begint met een bespreking van wat marketing inhoudt en hoe het vak
+zich heeft ontwikkeld. Omdat marketingplanning en strategieontwikkeling aan de
+meeste andere activiteiten voorafgaan, komt het schrijven van een goed onder
+bouwd marketingplan hier al vroeg aan bod. Deel 1 gaat ook in op de omgeving
+waarin de marketeer werkt bij het analyseren van de markt en het — op maatschap-
+pelijk verantwoorde wijze — inspelen op de wensen van de klant en behoeften van
+de samenleving.
+
+© Noordhoff Uitgevers bv
+Deel 2 omschrijft het marketinginformatiesysteem en de meest gebruikte vormen
+van marktanalyse. Hier analyseren we het koopgedrag — zowel van klanten op de
+consumentenmarkt als op de business-to-businessmarkt — en vergelijken we de
+voornaamste methoden van marktonderzoek. Bovendien biedt dit deel richtlijnen
+voor het uitstippelen van een marktsegmentatiestrategie, de keuze van doelgroe-
+pen en een doeltreffende positionering.
+
+De resterende delen gaan over de vier elementen van de marketingmix: pro-
+duct, promotie, prijs en distributie. De hoofdstukken in deze delen geven inzicht in
+de beslissingen die marketingmanagers nemen. Het laatste onderdeel van het
+boek, hoofdstuk 15 (Internationale marketing), biedt inzicht in mondiale marketing-
+planning, de beste entreestrategieën en de voor en nadelen van standaardisatie.
+
+Nieuw in de negende druk
+
+Hoewel de structuur van de hoofdstukken in de negende druk zo veel mogelijk is
+gehandhaafd, is Grondslagen van de marketing grotendeels herschreven om de
+veranderingen in de maatschappij en in het bedrijfsleven — vooral door het toe-
+nemend gebruik van internet — weer te geven. Dankzij de vele updates en andere
+verbeteringen — ook in het ondersteunend materiaal op de website www.verhage.
+noordhoff.nl — speelt het boek optimaal in op de behoeften van het hoger onder
+wijs en biedt het een succesvolle methode die inhoudelijk en didactisch is afge-
+stemd op de student van vandaag.
+
+Een opvallende verandering in de negende editie is de toevoeging van actuele
+(online) marketingonderwerpen in diverse hoofdstukken. Voor haar bijdragen op
+online marketinggebied dank ik Marjolein Visser RM, marketingconsultant, eige-
+naar van een internetbureau, lid van het NIMA-Examencollege en auteur/hoofd-
+redacteur van het Basisboek Online Marketing. Dit door meer dan 25 Nederlandse
+topspecialisten geschreven boek is uitgegroeid tot het standaardwerk in digitale
+marketing voor hbo- en professionele marketingopleidingen. Het is ook verplichte
+stof voor verschillende NIMA-examens.
+
+Een overzicht van een groot deel van de actuele (online) marketingbegrippen die
+in de negende druk worden besproken:
+
+e Hoofdstuk 1: 4C-model, digitale marketing, Marketing 4.0
+
+e Hoofdstuk 3: customer insights, digital analytics, mobile marketing
+
+e Hoofdstuk 4: customer reviews, social listening
+
+e Hoofdstuk 5: A/B-test, big data, dynamic targeting, marketing automation, mar-
+keting dashboard, online enquête, online focusgroep, pixeltechniek, sentiment-
+analyse
+
+e Hoofdstuk 7: cost to serve, webcare
+
+e Hoofdstuk 8: cocreatie, crowdsourcing, mass collaboration
+
+e Hoofdstuk 9: branding sites, communicatiesites, contentmarketing, influencers,
+multi step flow, social branding
+
+e Hoofdstuk 10: affiliate marketing, bought/earned/owned media, display
+advertising, social media marketing, zoekmachinemarketing (SEO en SEA)
+
+e Hoofdstuk 11: e-mailmarketing, online & social CRM
+
+e Hoofdstuk 14: 6 B's (stappen online marketing funnel), customer journey,
+e-fulfilment, social proofing, touchpoints
+
+Andere verbeteringen in de negende editie
+
+De meeste onderwerpen in Grondslagen van de marketing zijn compacter
+omschreven dan voorheen. De meer directe schrijfstijl maakt de beknopte hoofd-
+stukken beter leesbaar en toegankelijk. Hierdoor kunnen studenten het materiaal in
+minder tijd doornemen.
+
+© Noordhoff Uitgevers bv
+Ook zijn de meeste marketingcases en praktijkvoorbeelden vervangen of geheel
+geactualiseerd. Zij illustreren de meest recente ontwikkelingen in de marketing,
+met de nadruk op de Nederlandse markt. leder hoofdstuk omvat vier of vijf com-
+pacte cases en praktijkvoorbeelden. Die verduidelijken onder meer hoe bedrijven
+online marketingtechnieken toepassen en social media inzetten om hun doelstel
+lingen te bereiken. Deze herkenbare voorbeelden van succesvolle strategieën van
+marketinggerichte bedrijven motiveren studenten om zich te verplaatsen in de rol
+van manager bij de besluitvorming. Vanuit die optiek bieden praktijkvoorbeelden en
+marketingcasussen een praktisch inzicht in bruikbare marketingtechnieken en -prio-
+riteiten.
+
+Een andere verbetering in de negende editie is dat aan de meeste Marketing-in-
+actie-verhalen discussievragen — in de online docentenhandleiding — zijn toege-
+voegd die zowel op de case als op het hoofdstuk betrekking hebben. Zo kunnen
+docenten de vragen bij een openingscasus gebruiken om discussies onder studen-
+ten te stimuleren of hun kennis en interpretatie van de besproken marketingcon-
+cepten en -technieken te testen.
+
+Deze vragen zijn grotendeels ontwikkeld door Paul Oostveen, bevlogen hoge-
+schooldocent bij InHolland Rotterdam. Als sparringpartner voor dit project speelde
+hij ook een constructieve rol bij de ontwikkeling van marketingcases als De Biet:
+Nederlands beste café en Omoda's omnichannelstrategie. Zijn professionele hulp
+bij de herziening van het boek en bij het proeflezen van het manuscript stel ik zeer
+
+op prijs.
+
+Kenmerken van Grondslagen
+
+De elementen die de leerstof zo toegankelijk maken en die door de gebruikers het
+meest worden gewaardeerd zijn ook in deze druk gehandhaafd. Dat zijn onder
+meer de leerdoelen aan het begin van elk hoofdstuk, de margewoorden en de vele
+overzichtelijke figuren en tabellen.
+
+Ook nu beginnen alle hoofdstukken met een Marketing-in-actie-verhaal. Deze
+minicases zijn gebaseerd op succesvolle marketingstrategieën van bedrijven —
+zoals van Philips, De Vegetarische Slager en Omoda.nl — en illustreren de relatie
+tussen de marketingtheorie en -praktijk. Omdat deze inspirerende voorbeelden de
+belangstelling van studenten voor marketing opwekken, lenen ze zich bij uitstek
+voor discussies tijdens de lessen. Bij alle marketing-in-actie-cases zijn dan ook dis-
+cussievragen beschikbaar op de website. leder hoofdstuk wordt afgesloten met
+een puntsgewijze samenvatting en tien discussievragen over de behandelde
+onderwerpen.
+
+Vrijwel alle hoofdstukken bevatten weer een actuele marketingtopper en marke-
+tingmisser om studenten het nodige inzicht te geven in succesvolle en minder suc-
+cesvolle marketingstrategieën. Er is ook een visie vanuit de praktijk, waarin een
+manager aan het woord komt en een visie vanuit de wetenschap, waarin een hoog-
+leraar of andere wetenschapper een actuele marketingkwestie becommentarieert.
+Deze praktijkonderdelen zorgen voor extra verdieping van de stof.
+
+De in de kantlijn en in de tekst vetgedrukte marketingbegrippen zijn op de web-
+site terug te vinden als begrippentrainer in Verhages Lijst van Marketingbegrippen.
+Alleen al dit alfabetisch overzicht van meer dan duizend marketingbegrippen maakt
+het Grondslagen van de marketing pakket tot een onmisbaar naslagwerk. Juist in
+een vakgebied dat regelmatig nieuwe trends en begrippen voortbrengt, vormen
+deze goed leesbare omschrijvingen waardevolle aanknopingspunten voor het — ook
+in de toekomst — schrijven of beoordelen van een marketingplan.
+
+© Noordhoff Uitgevers bv
+Werkboek en website
+
+Naast het studieboek omvat het Grondslagen-studiepakket een door Eric Boot en
+Paul Riegen herzien Werkboek bij Grondslagen van de marketing met een uitge-
+kiende selectie van praktijkgerichte vragen, opdrachten en cases om inzicht en
+vaardigheden in de besluitvorming te verwerven. Gebruikt in combinatie met dit
+boek vormen ze een effectief hulpmiddel om het analytisch, commercieel en pro-
+bleemoplossend denken van de student te stimuleren. Velen gebruiken het Grond-
+slagen-pakket dan ook om zich beter voor te bereiden op de examens van het
+Nederlands Instituut voor Marketing (NIMA).
+
+Ten slotte is er een nieuwe, actief onderhouden website voor docenten en stu-
+denten (www.verhage.noordhoff.nl) die aansluit bij het boek en werkboek, en in elk
+onderwijsprogramma online ondersteuning biedt. Zo zijn veel van de figuren uit het
+boek via de website ook beschikbaar als PowerPoint. Voor docenten zijn er ver-
+nieuwde PowerPoint-presentaties en didactische suggesties voor de casemethode
+van onderwijs. Voorts vindt de gebruiker op de site collegesheets, multiple-choice-
+vragen met feedback, flitscolleges en marketingcases met vragen en uitwerkingen.
+Kortom, Grondslagen van de marketing is een complete en boeiende kennisma-
+king met het vakgebied marketing die geschikt is voor diverse vormen van hoger
+onderwijs en zelfstudie.
+
+Dankwoord
+
+Veel talentvolle collega's en marketeers hebben aan Grondslagen van de marketing
+bijdragen geleverd. Allereerst dank ik Marjolein Visser (Register Marketeer en
+oprichter MarketWise} en Paul Oostveen (Seniordocent Hogeschool InHolland
+Rotterdam) voor hun — eerder vermelde — waardevolle bijdragen aan het ontwikkelen
+van de negende editie van het boek. Eric Boot (een van m'n oud-studenten op de
+Interfaculteit Bedrijfskunde in Delft) en Paul Riegen van de Hogeschool van
+Amsterdam hebben het Werkboek bij Grondslagen van de Marketing voor de
+negende druk bewerkt om het beter te laten aansluiten bij de huidige eisen van het
+hoger onderwijs.
+
+Ook de vele hogeschooldocenten en -studenten die hebben deelgenomen aan
+een van de marktonderzoeken of docentenbijeenkomsten van de uitgeverij en met
+hun opbouwende kritiek de herziening van het boek hebben beïnvloed, wil ik graag
+bedanken. Hun commentaar en suggesties zijn zo veel mogelijk in het boek ver
+werkt. De docenten die daarbij een belangrijke rol hebben gespeeld zijn:
+
+J.PH. Aarts, Fontys Hogescholen, Eindhoven
+
+S.A.M. Berkhout-Blankenstein, Hogeschool Rotterdam
+E. de Boer, Hogeschool van Amsterdam
+
+A. Bronnenberg, Hogeschool van Amsterdam
+
+Erik van den Dobbelsteen, Hogeschool Zeeland, Vlissingen
+P Disco, Hogeschool van Amsterdam
+
+E‚J.W. Goedemans, Hogeschool Inholland, Diemen
+M.PM. Harlaar-Bot, Hogeschool Inholland, Alkmaar
+
+A. Hofstede, Hogeschool Rotterdam
+
+Martin Hummelink, Fontys Hogescholen, Eindhoven
+S. Janssens, Hogeschool Windesheim, Zwolle
+
+A.J.M. de Jong, Hogeschool FRotterdam
+
+H.J. Kevelham, Saxion Hogeschool, Enschede
+
+T. Kemmeren, Fontys Hogescholen, Tilburg
+
+Maarten Klapwijk, Hogeschool Rotterdam
+
+R.G. Kok, Fontys Hogescholen, Tilburg
+
+E.J. Kostelijk, Hogeschool van Amsterdam
+
+© Noordhoff Uitgevers bv
+E.J. de Leau, Hogeschool Windesheim, Zwolle
+
+H.H. Lier, NHTV Internationale Hogeschool, Breda
+G.FM. van Lier, Avans Hogeschool, Breda
+
+A. van der Mark, Hogeschool van Amsterdam
+
+H. Mannak, NHTV internationale Hogeschool, Breda
+R. Mulder, Hogeschool van Amsterdam
+
+H.H. van Nieuwenhuijze, Fontys Hogescholen, Tilburg
+M. Nutzel, Hogeschool Utrecht
+
+R.S.A. Oudejans, Hogeschool Rotterdam
+
+Martine Overdijk, HAN Business School, Arnhem
+J.J. van Popta, Hogeschool Windesheim, Zwolle
+
+G. Peterson, Hogeschool Windesheim, Zwolle
+R.E.G. Salters, Fontys Hogescholen, Eindhoven
+
+G. van Seeters, Fontys Hogescholen, Eindhoven
+Jaap van der Sluis, Hogeschool Rotterdam
+
+Rob Spaans, Hogeschool Rotterdam
+
+A. Tertoolen, Hogeschool Windesheim, Zwolle
+
+E van Wieringen, Hogeschool Rotterdam
+
+L.T. Vink, Hogeschool Utrecht
+
+S. Wijnia, Hogeschool Rotterdam
+
+Verder dank ik mijn voormalige studenten en collega’s van de University of Texas at
+Austin, de Faculteit Bedrijfskunde en Rotterdam School of Management van de
+Erasmus Universiteit Rotterdam en Georgia State University in Atlanta die het boek —
+of de Engelstalige versie — hebben gebruikt en beoordeeld.
+
+Omdat er altijd ruimte blijft voor verbeteringen hoop ik dat je — als docent of stu-
+dent — mij je kritiek of suggesties voor verbeteringen wilt mailen. Ik stel dat bijzon-
+der op prijs, en uiteraard krijg je hierop direct een reactie. Mijn contactgegevens
+vind je hierna.
+
+Voor de inzet van de deskundige managers en medewerkers van Noordhoff
+Uitgevers die bij de ontwikkeling en marketing van het product betrokken waren,
+ben ik zeer erkentelijk. Met name mijn uitgever, Bert Deen, motiveerde mij om een
+nieuwe editie te schrijven en ondersteunde dit project. Ook dank ik de account-
+managers van Noordhoff Uitgevers voor hun enthousiasme en de belangrijke rol
+die zij speelden bij het organiseren van docentenbijeenkomsten.
+
+Aan mijn zaakwaarnemer, advocaat-generaal mr. Hans van der Neut, wil ik pos-
+tuum mijn waardering tot uitdrukking brengen voor zijn waardevolle adviezen. Ook
+dank ik mijn collega's en oud-studenten van Georgia State University in Atlanta,
+Erasmus Universiteit Rotterdam en The University of Texas at Austin voor hun bij-
+dragen. Met name Ken Bernhardt, Bill Cunningham en mijn — helaas overleden —
+mentor Ed Cundiff waren bij het schrijven van Grondslagen van de marketing een
+bron van inspiratie. Ik ben dankbaar voor hun vriendschap en adviezen.
+
+© Noordhoff Uitgevers bv
+Ten slotte dank ik Eveline, Tiffany, Georgianna en Emily voor hun liefdevolle steun
+bij het ontwikkelen van het manuscript aan beide zijden van de Atlantische oceaan.
+Zonder hun begripvolle en stimulerende houding had ik dit boek niet kunnen schrij-
+ven.
+
+Atlanta/Haamstede, 2018
+Bronis J. Verhage
+
+Office:
+
+Georgia State University
+Robinson College of Business
+Department of Marketing
+
+35 Broad Street, Suite 1300
+Atlanta, GA 30303
+
+USA
+
+E-mail: bverhage@gsu.edu
+Telefoon: +1.404.413.7678
+
+© Noordhoff Uitgevers bv
+Over de auteur
+
+Met meer dan honderd publicaties op zijn naam is Bronis Verhage een van de
+bekendste Nederlandse schrijvers op het gebied van de marketing. Zijn boeken
+hebben voor honderdduizenden studenten een uitdagend werkterrein ontsloten.
+Hoewel hij al jaren aan de Noordzeekust woont, brengt hij — als Amerikaans ingeze-
+tene — veel tijd door in de Verenigde Staten. Daar ontwikkelde hij al vroeg een pas-
+sie voor marketing. Na het behalen van een MBA in Texas was zijn eerste job dan
+ook in marketingmanagement, bij een multinationale onderneming. Sindsdien con-
+centreert hij zich op internationale en strategische marketing.
+
+Verhage heeft lesgegeven op de University of Texas at Austin, de Interfaculteit
+Bedrijfskunde (Delft) en de Rotterdam School of Management van de Erasmus
+Universiteit. Hij was ook verbonden aan de Nyenrode Business Universiteit en United
+Arab Emirates University in Abu Dhabi, Nu is hij Professor of Marketing aan
+Georgia State University in Atlanta. Zijn researchpublicaties verschenen onder meer
+in het Journal of Consumer Research en Journal of the Academy of Marketing
+Science.
+
+Hij is auteur van Grondslagen van de marketing (de marktleider in het hoger
+onderwijs), het Engelstalige Marketing Fundamentals: An International Perspective,
+het internationaal uitgegeven Marketing. A Global Perspective en het populaire
+boek Inleiding tot de marketing. Met een uitgekiende balans tussen theorie en
+praktijk slaagt Verhage er met zijn boeken in om studenten voor het marketingvak
+enthousiast te maken.
+
+Verhage reist regelmatig tussen Amerika en Europa. Hij volgt de ontwikkelingen
+in het bedrijfsleven op beide continenten op de voet en toetst er de grondslagen
+van de marketing voortdurend aan, zowel in het onderwijs als in de praktijk.
+
+© Noordhoff Uitgevers bv
+
+ 
+ 
+
+© Noordhoff Uitgevers bv
+ACE
+RN CAE
+
+3 Marketingomgeving 125
+
+ES Noordhoff Uitgevers bv
+es
+
+ne. nen
+en.
+
+ 
+ 
+
+ 
+
+65
+ech
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+NRE
+MARKETING?
+
+Inhoud Na het bestuderen van dit hoofdstuk:
+1.1 Betekenis van marketing 1 kun je duidelijk maken wat marketing inhoudt;
+1.2 Commerciële economie of marketing? 2 begrijp je het verschil tussen (Commerciële)
+1.3 Invalshoeken van marketing economie en marketing;
+1.4 Ontwikkeling van de marketinggedachte ken je het onderscheid tussen macro-, meso-
+1.5 Het marketingconcept en micromarketing;
+1.6 Sleuteltaken van marketing ben je bekend met verschillende management
+1.7 Marketingtoepassingen en vooruitblik mindsets ten aanzien van de productie, verkoop
+en marketing in een bedrijf;
+heb je inzicht in het marketingconcept en het
+belang ervan voor een organisatie;
+onderken je de strategische rol van een goede
+reputatie en relatie met de klant;
+weet je hoe we de grondslagen van de
+marketing in de praktijk kunnen toepassen.
+
+ 
+ANAAL RLN
+
+ 
+
+INNOCENT SMOOTHIES:
+EEN MARKET INGHIT
+
+Innocent Drinks werd opgericht
+kort nadat Rick, Adam en Jon, drie
+studenten met een goed idee,
+besloten om op een muziekfestival
+in Londen hun zelfgemaakte
+smoothies te verkopen. Inmiddels
+is Innocent — bekend om zijn frisse
+smaken in kleine flesjes — uitge-
+groeid tot het grootste smoothie-
+merk van Europa. Deze internati-
+onale speler — met een omzet van
+meer dan 250 miljoen euro — heeft
+het team van drie man uitgebreid
+tot 250 mensen die de producten
+van het bedrijf met succes op de
+markt hebben gebracht in 15 lan-
+den, Een reden voor Coca-Cola om
+een meerderheidsbelang in het
+bedrijf te nemen.
+
+Innocent’s marketing-
+strategie
+
+In Nederland werd de eerste Innocent
+smoothie meer dan tien jaar geleden in
+de Bijenkorf verkocht. Nu zijn de pro-
+ducten in het hele land te koop en is
+Innocent het snelst groeiende merk in
+het gekoeld sappensegment. Een bij-
+zondere prestatie in een markt met
+felle concurrentie, waarin steeds meer
+merken fruitdranken worden gelan-
+ceerd.
+
+De doorbraak van de Innocent produc-
+ten is te danken aan de marketingstra-
+tegie. Die omvat vier onderdelen: een
+product-, prijs-, distributie- en promo-
+tiebeleid. In Nederland is Benjamin van
+der Kloet, Marketingmanager Benelux,
+daarvoor verantwoordelijk. Zijn kan-
+toor in de Amsterdamse vestiging van
+
+Eeke
+Sh aa n=
+
+ 
+
+WeWork ademt de sfeer van een start-
+up. Enthousiast licht hij de marketing-
+strategie van het bedrijf toe.
+
+Product
+
+Wat het product betreft is Innocents
+grootste uitdaging om zich met zijn
+sappen en smoothies te onderscheiden
+en — de essentie van marketing — toe-
+gevoegde waarde aan de klant te bie-
+den. ‘Veel mensen gooien alle sappen
+op één hoop; zegt hij, ‘maar het maakt
+wel degelijk verschil hoe het sap wordt
+gemaakt. Dat benadrukken we op onze
+verpakking: Never ever from concen-
+trate. En past ook bij onze pay-off:
+Smaakt goed, doet goed.
+
+Als een liefhebber van design is
+Innocent voor mij een prachtig merk
+om voor te werken. Dankzij de doorzich-
+tige flessen kun je het product goed
+zien, transparantie dus. Op het etiket
+valt direct ons logo op: het gezichtje
+met een halo erboven. In plaats van
+glimmend plastic gebruiken we een eti-
+ket van uncoated houtvrij papier. Dat
+geeft een natuurlijke uitstraling en past
+prima bij het duurzame merk dat we
+zijn. Over het design beslist het hoofd-
+
+30 INZICHT IN DE MARKETING
+
+DEEL 1
+
+kantoor in Londen, maar we krijgen
+veel regionale vrijheid om het merk
+optimaal te presenteren:
+
+Prijs
+
+De prijs van het product is hoger dan
+van concurrenten, want die weerspie-
+gelt de merkwaarde van Innocent en de
+kwaliteit van de ingrediënten. De nor-
+male smoothies zijn gemaakt van
+ongeconcentreerd puur fruit en
+groente zonder toegevoegde suikers. In
+supersmoothies (zoals Antioxident,
+Recharge en Energy) wordt dit aange-
+vuld met extra vitaminen en minera-
+len. Het fruit komt van duizenden
+plantages en boerderijen over de hele
+wereld.
+
+Dat fruit smaakt niet alleen goed, maar
+wordt ook gekocht van leveranciers die
+netjes met de natuur en het milieu
+omgaan. Zij moeten aan een mini-
+mumstandaard voldoen en de duur-
+zaamheid van hun bedrijfsvoering
+voortdurend verbeteren. Innocent
+werkt op allerlei manieren met hen
+samen — op het gebied van water- en
+energiegebruik tot en met afvalma-
+nagement en recycling — om de CO2-
+
+© Noordhoff Uitgevers bv
+uitstoot te verminderen. Ten slotte
+doneert Innocent elk jaar 10% van de
+winst aan goede doelen, waaronder de
+Innocent foundation. Die richt zich op
+hongerbestrijding en helpt de armste
+mensen overal ter wereld bij het
+opbouwen van hun eigen gezonde toe-
+komst.
+
+In Nederland zet Innocent zich in voor
+het Nationaal Ouderenfonds via de
+Goedgemutste Breicampagne, die
+mensen vraagt om mutsjes voor op de
+smoothies te breien. ‘In ruil daarvoor
+doneren wij 20 cent voor elke gemutste
+smoothie om de eenzaamheid onder
+ouderen te bestrijden’, zegt Van der
+Kloet. ‘Het spreekt mij aan om voor een
+merk te werken dat niet uitsluitend
+gericht is op winst maken, maar ook
+goed wil doen, in de breedste zin van
+het woord:
+
+Distributie
+
+De distributiestrategie heeft ten doel
+om de Innocent producten voor klan-
+ten gemakkelijk verkrijgbaar maken.
+Zo zijn de smoothies en sappen te
+koop bij Albert Heijn, Plus en Jumbo
+supermarkten, maar ook bij de Kiosk,
+in benzinestations, kantines en lunch-
+restaurantjes.
+
+© Noordhoff Uitgevers bv
+
+Innocent is ‘de grootste van de klein-
+tjes in het chilled juice-marktsegment
+en de ambitie is om verder te groeien.
+Met alle retailers wordt dan ook nauw
+samengewerkt om een efficiënt distri-
+butiesysteem op te zetten en de pro-
+ducten doeltreffend te promoten. ‘We
+willen zo dicht mogelijk bij onze drin-
+kers blijven’, zegt Van der Kloet. ‘Onze
+doelstelling is niet om een massapro-
+duct te worden, maar wel om zo veel
+mogelijk mensen in onze doelgroepen
+op een relevante manier van dienst te
+zijn met datgene waar we goed in zijn:
+
+Promotie
+
+De voornaamste rol van Innocent's
+promotie- of marketingcommunicatie-
+strategie is om het merkimago te ver-
+sterken en een goede relatie met de
+consument op te bouwen. Niet alleen
+door near store sampling, couponing
+campagnes en instore demonstraties in
+AH-filialen, maar ook door op unieke
+wijze aanwezig èn betrokken te zijn op
+Lowlands. Daar helpen hulpteams van
+Innocent — te herkennen aan hun rode
+shirts met de tekst ‘Ik ben hier om te
+helper’ — festivalgangers met het
+opzetten van tenten, opblazen van
+
+innocent
+
+ENERGISE
+
+Tuchtbedden en insmeren met zonne-
+branderème. Zij delen ook smoothies
+uit, zodat de ouders van de bezoekers
+zich thuis geen zorgen hoeven te
+maken over gebrek aan vitamines.
+
+‘Onze actie op
+Lowlands past bij
+het “love brand”
+dat Innocent is
+
+‘Zo maakt de generatie van 18 tot 25
+jaar op een natuurlijke manier kennis
+met Innocent en hopen wij op wat
+engagement en brand love’, zegt Van der
+Kloet. ‘Lowlands biedt ons een fantas-
+tisch platform om met Innocent-lief-
+hebbers in contact te komen. Wij doen
+graag iets goeds en willen onze doel-
+groepen op een leuke en sociale manier
+aanspreken. Onze actie op Lowlands
+pas bij het love brand dat Innocent is —
+eigenlijk net zoals een breiwerkje bij
+een oma past
+
+ 
+
+WAT IS MARKETING? 31
+HOOFDSTUK 1
+32
+
+Over wat marketing precies inhoudt, bestaan veel misverstanden. Sommigen den-
+ken dat marketing een verbeterde vorm van verkoop is, of een ander woord voor
+reclame. Verkoop en reclame zijn inderdaad belangrijke marketingfuncties, maar
+marketing gaat veel verder. Het vak omvat allerlei andere activiteiten waarmee een
+organisatie doeltreffend kan inspelen op de wensen en behoeften van de klant om
+zo haar concurrentiepositie te versterken. Denk aan marktonderzoek (bijvoorbeeld
+om potentiële klanten en concurrenten te analyseren), productontwikkeling (met
+een juist inzicht in de markt nieuwe producten en diensten lanceren) en een doel-
+gericht gebruik van de social media door een bedrijf.
+
+Marketing is geen exacte wetenschap die een standaardoplossing voor elk pro-
+bleem aanreikt. Maar bij de besluitvorming mogen we ook niet alleen vertrouwen
+op intuïtie of zakelijk instinct. Om doeltreffende marketingbeslissingen te nemen
+moeten we bekend zijn met de grondslagen en technieken van de marketing die in
+dit boek aan bod komen.
+
+Met de toenemende concurrentie is een klantgerichte strategie onmisbaar. Zo
+verwachten consumenten steeds hogere kwaliteit, lagere prijzen en snellere ser-
+vice. Marketinggeoriënteerde bedrijven proberen hun klantenkring uit te breiden,
+niet alleen door innovatie en productverbetering, maar door op alle fronten beter in
+te spelen op de wensen en behoeften van de kopers. Om in de strijd om markt-
+aandeel succes te boeken moet elke organisatie aan marketing doen en haar
+beleid net zo snel aanpassen als dat de markt verandert.
+
+Hoofdstuk 1 legt hiervoor de basis. Hierin gaan we eerst na wat marketing
+betekent en welke rol dit vakgebied in de maatschappij en het bedrijfsleven speelt.
+Ook het verschil tussen marketing en commerciële economie — een in Nederland
+veelgebruikte term — komt aan de orde. Verder verdiepen we ons in het marketing-
+concept en in de voornaamste taken van een marketeer. Het hoofdstuk wordt
+afgesloten met een samenvatting en discussievragen.
+
+3 Marketingom geving
+
+2 Str,
+- Aten;
+ver Digo,, ly, ‚
+EN ig
+de %,
+S ‚ AN
+® NN 2 %
+$ s 0 oe
+Ss 9 5 le,
+Ss ix ee,
+hel À ti % %
+5 NN entalle en, e B
+Di 23 Dr. ©
+e h, 3
+Ö ®, 5
+T 5 ä
+@ Kd
+&
+s
+GA ©
+% % N ®
+9 9 A‘ Ee
+fs : &
+0, $
+% Ni
+7 .
+Oog
+$ Marketingomge\in®
+INZICHT IN DE MARKETING © Noordhoff Uitgevers bv
+
+DEEL 1
+Overigens worden alle belangrijke marketingtermen (die in de hoofdstukken in de
+kantlijn worden vermeld) nog eens compact en overzichtelijk (per hoofdstuk én
+alfabetisch geordend) gedefinieerd in Verhage's lijst van Marketingbegrippen op de
+website bij dit boek (www.grondslagenvandemarketing.noordhoff.nl}. Daar tref je
+— ook als flash cards — meer dan duizend zorgvuldig omschreven marketingbegrip-
+pen aan.
+
+1.1 BETEKENIS VAN MARKETING
+
+Marketing is een ruim begrip. Het omvat alle activiteiten die de koper en verkoper
+bij elkaar brengen. Om inzicht in de betekenis van het vak te krijgen bekijken we
+eerst het verschil tussen marketing en verkoop. Vervolgens verdiepen we ons in
+een definitie van marketing, in de zogenoemde marketingmix en in het ruilproces
+tussen de koper en de verkoper.
+
+1.1.1 Verschil tussen verkoop en marketing
+
+In grote lijnen doen bedrijven twee dingen: ze maken producten (of ze verlenen
+diensten) en ze brengen die op de markt. Met andere woorden: ze produceren en
+ze doen aan marketing. Nog niet zo lang geleden zouden we voor dat laatste heb-
+ben gezegd: ze ‘verkopen’ iets. Het verschil tussen marketing en verkoop weer-
+spiegelt het verschil tussen een maatschappij waarin consumenten kunnen kiezen
+uit producten en diensten die exact op hun wensen en behoeften zijn afgestemd,
+en een maatschappij waarin de meeste kopers die keuze niet hebben.
+
+Het voornaamste doel van marktgerichte ondernemingen is om in te spelen op
+de wensen en de behoeften van de klant. De marketinggerichte managers in die
+bedrijven proberen zich voortdurend te verplaatsen in de klant, in plaats van hun
+producten centraal te stellen. Zij zijn gewend om vanuit de markt terug te denken.
+Bovendien zijn ze ervan overtuigd dat dit de enige juiste manier van zakendoen is.
+Dit blijkt bijvoorbeeld uit de uitspraken van vier topmanagers in een onderzoek over
+de rol van marketing in hun organisaties:
+
+e ‘Niets is van grotere invloed op het succes van dit bedrijf dan marketing. Onze
+snelle groei is te danken aan een uitgekiende marketingstrategie.
+
+e ‘Marktonderzoek en marketing zijn onmisbaar in deze branche, zeker met de
+voortdurende veranderingen in het koopgedrag van de klant.”
+
+e ‘Onze internationale expansie kwam voort uit een strategische marketingbeslis-
+sing. In al onze plannen staat marketing centraal!
+
+e 'Bij ons komt marketingplanning neer op de juiste selectie van markten en pro-
+ducten: de meest fundamentele, strategische keuzes in het bedrijf!
+
+Marketing slaat een brug tussen productie en consumptie. Zowel de typen produc-
+ten en diensten die bedrijven aanbieden als de kwaliteit ervan worden bepaald
+door de voorkeur van de consument. Kortom: verkopen is ‘zien kwijt te raken wat
+je op de plank hebt liggen’, terwijl marketing is: ervoor zorgen dat je je klanten —
+met een doeltreffende strategie — de juiste producten en diensten kunt aanbieden.
+
+Eigenlijk heeft marketing ten doel om verkopen — in de zin van: ‘kopers onder
+druk zetten’ — overbodig te maken. Omdat het product precies is wat de klant
+zoekt, verkoopt het zichzelf. De noodzaak om inzicht te krijgen in de wensen en
+behoeften van klanten en een duurzame relatie met hen aan te knopen, maakt deel
+uit van onze definitie van marketing.
+
+© Noordhoff Uitgevers bv WAT IS MARKETING?
+HOOFDSTUK 1
+
+33
+Doelgroep
+
+Marketing
+
+Marketingmix
+
+34
+
+1.1.2 Definitie van marketing
+
+Dankzij de marketingfunctie in bedrijven wordt de ontwikkeling van producten en
+diensten gekoppeld aan bepaalde markten. Anders gezegd: het aanbod wordt pre-
+cies afgestemd op de vraag. Denk aan Heineken — de meest internationale brou-
+wer ter wereld — die meer dan 100 merken pils, bokbier, witbier en andere bier-
+soorten met bekende merknamen als Amstel, Brand, Wieckse, Affligem, Sol en
+Desperados op de markt brengt. Daardoor kan de consument thuis en in cafés
+altijd zijn favoriete bier drinken. Via marktonderzoek komt de brouwerij erachter wie
+haar producten kopen en waarnaar de voorkeur van verschillende groepen consu-
+menten uitgaat. Als marketinggericht bedrijf zorgt Heineken er bovendien voor dat
+zijn merkartikelen in de juiste winkels en horecabedrijven te koop zijn, de prijzen
+niet te hoog of te laag zijn en de klanten bijvoorbeeld weten welke soorten
+speciaalbier in het seizoen verkrijgbaar zijn.
+
+Het gaat in de marketing dus niet alleen om een uitgekiend product, maar ook
+om de juiste distributiekanalen, een gunstige prijs en effectieve promotiecampag-
+nes. Deze factoren vormen samen de marketingmix. Als een van die vier elemen-
+ten niet klopt, wordt een product niet goed verkocht, waardoor het bedrijf de
+omzet- en winstdoelstellingen die in het marketingplan staan, niet haalt. Bovendien
+blijft de doelgroep (het deel van de markt waarop het bedrijf zich richt) waarschijn-
+lijk zitten met onbevredigde wensen en behoeften. Met dit voorbeeld in het achter-
+hoofd verdiepen we ons nu in de formele definitie van marketing. Deze luidt:
+
+Marketing omvat de — op de markt afgestemde — ontwikkeling, prijsbepaling,
+promotie en distributie van producten, diensten of ideeën en alle andere acti-
+viteiten die de klanten toegevoegde waarde bieden; deze leiden systematisch
+tot een hogere omzet of andere gewenste respons, een goede reputatie van
+de organisatie en een duurzame relatie met de klant, waarbij alle partijen hun
+doelstellingen bereiken.
+
+Op deze omschrijving komen we straks terug. Intussen is het duidelijk dat marke-
+teers niet alleen reclame en verkoop tot hun werkterrein rekenen, maar op basis
+van marktonderzoek ook een doorslaggevende stem hebben bij het besluit welke
+producten worden ontwikkeld, voor wie ze zijn bedoeld en hoe ze op de markt
+worden gebracht. Door informatie aan te dragen over de wensen en behoeften van
+(potentiële) klanten beïnvloeden marketeers veel beslissingen, lang voordat het
+productieproces begint. Onze definitie rekent dus af met het misverstand dat mar-
+keting een vorm van verkoop is die begint aan het eind van de lopende band.
+
+1.1.3 Marketingmix
+Een doeltreffend marketingbeleid bestaat uit een uitgekiende combinatie van vier
+marketinginstrumenten om de markt te bewerken; deze worden ook wel de mar-
+ketingmix of de vier Ps genoemd. De marketingmixvariabelen zijn nauw met elkaar
+verbonden. Als een van hen verandert, heeft dit vaak gevolgen voor de rest van het
+beleid. Er ontstaat dan een hele nieuwe marketingmix.
+
+Omdat elk van de vier P's in dit boek nog uitvoerig aan bod komt, volstaan we
+hier met een kort overzicht van de voornaamste vragen en beslissingen met
+betrekking tot de marketingmix (zie figuur 1.1).
+
+INZICHT IN DE MARKETING © Noordhoff Uitgevers bv
+DEEL 1
+FIGUUR 1.1 DE MARKETINGMIX
+
+&
+SS
+& d
+0 S
+Er
+® Se
+Dor, oe d
+WA &
+Product
+
+Bij product gaat het om goederen, diensten of ideeën die aan de wensen en
+behoeften van klanten tegemoetkomen.
+
+De eerste P omvat, naast het fysieke product, ook andere factoren die bepalen
+welk merk iemand koopt, zoals de kwaliteit, garantie, verpakking, het merkimago,
+assortiment en de service. De productstrategie heeft onder meer betrekking op
+het ontwikkelen van nieuwe producten en diensten, het verbeteren van bestaande
+producten en de beslissing om artikelen die niet langer in een behoefte voorzien
+uit de markt nemen.
+
+Prijs
+Bij prijs gaat het om de hoeveelheid geld die er voor het product of de dienst wordt
+gevraagd.
+
+Bij het ontwikkelen van het prijsbeleid let een bedrijf niet alleen op de kostprijs,
+maar ook op de prijzen van concurrenten en het effect van een verandering van de
+verkoopprijs op de vraag. Een te hoge prijs schrikt klanten af, terwijl een te lage
+prijs de opbrengst vermindert. Enkele vragen hierbij zijn: hangt de prijsstelling af
+van de winstdoelstellingen op korte of lange termijn? Zijn kortingen echt noodzake-
+lijk? Hoeveel kopers zijn bereid om een hogere prijs te betalen voor een product
+dat precies is afgesternd op hun voorkeur?
+
+Plaats
+Bij plaats (‘distributie’) gaat het om de manier waarop het bedrijf het product in
+handen van de kopers krijgt.
+
+Vaak is het succes van een product niet zo zeer afhankelijk van het artikel zelf,
+maar van hoe het wordt gedistribueerd. Zo maken ondernemingen als Unilever en
+Douwe Egberts, dankzij hun relatie met de detailhandel, een grotere kans om met
+succes nieuwe producten op de markt te brengen dan kleinere bedrijven.
+
+Onder het distributiebeleid vallen beslissingen over de keuze van distributie-
+kanalen (inclusief online) en intermediairs (groothandel en detailhandel} die worden
+ingeschakeld, het aantal verkooppunten (zoals webshops), de gewenste voorraden
+en logistiek. Met een efficiënt distributiesysteem zijn de juiste producten op het
+juiste tijdstip en op de juiste locatie verkrijgbaar.
+
+Promotie
+Bij promotie gaat het om hoe het bedrijf met de markt communiceert en de ver-
+koop bevordert.
+
+Weinig producten verkopen zichzelf. Potentiële kopers moeten eerst attent wor
+den gemaakt op het product en de voordelen die het biedt. Dit vereist een doeltref-
+fende communicatiecampagne om hen te informeren, te overtuigen of — bij
+bekende merken — aan het product te helpen herinneren.
+
+© Noordhoff Uitgevers bv WAT IS MARKETING?
+HOOFDSTUK 1
+
+35
+Linda is een voorbeeld van een
+bekend merk, waarbij promotie
+wordt ingezet orn potentiële
+kopers aan het product te helpen
+herinneren
+
+4C-model
+
+Doelgroep
+
+36
+
+ 
+
+Promotie of marketingcommunicatie omvat de inzet van social media, reclame-
+campagnes, sponsoring, sales promotion (zoals spaaracties), direct marketing,
+sales en public-relationsactiviteiten. Het uitstippelen van een marketingcommuni-
+catiestrategie vereist diverse beslissingen: het vaststellen van de marketingcom-
+municatiedoelgroepen, het formuleren van de communicatiedoelstellingen, het
+vaststellen van de propositie en de communicatieboodschap, het kiezen van de
+beste combinatie van marketingcommunicatie-instrumenten en media, het bepalen
+van het budget en de manier waarop gemeten wordt of de doelstellingen zijn
+gehaald. Andere beslissingen hebben betrekking op het ontwikkelen van aantrek-
+kelijke websites, het gebruik van displays in winkels, het geven van kortingen, het
+deelnemen aan evenementen en, ten slotte, het beoordelen van het effect van
+deze promotieacties.
+
+Een veelgehoord commentaar op de vier P's is dat ze niet bekeken zijn vanuit
+een consumentenperspectief. Een alternatief is het model van de vier C's. Dat gaat
+er vanuit dat marketing geen techniek is om een product (P) aan de man te bren-
+gen maar een filosofie om de klant (‘customer’, C) voor zich te winnen en aan zich
+te binden. De oude P's passen vooral bij een productiebedrijf (P), de moderne C's
+bij een meer klantgerichte organisatie, die zichzelf door de ogen van de klant
+bekijkt (Lauterborn, 1990).
+
+De relatie tussen het 4P-model en 4C-model is weergegeven in tabel 1.1.
+
+TABEL 1.1 VAN VAN 4P-MODEL NAAR 4C-MODEL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vier P's Vier C's
+
+Praduct Customer solution. oplossing voor de consument
+
+Prijs Cost to the customer: prijs-kwaliteitverhouding
+
+Plaats Convenience. gemak voor de consument
+
+Promotie Communication. wederzijdse communicatie tussen organisatie en klant
+1.1.4 Doelgroepkeuze en het ruilproces
+
+Een goed uitgedachte marketingmix verhoogt de kans op succes. Omdat een bedrijf
+met zijn marketingbeleid echter niet alle consumentenbehoeften kan bevredigen,
+moet het zich concentreren op de wensen en behoeften van een bepaalde groep
+potentiële kopers. Zoals figuur 1.1 al illustreerde, noemen we dit de doelgroep: het
+deel van de markt waarop de organisatie zich richt en dat zij tot klant wil maken. Klan-
+ten zijn immers trouwe consumenten die terugkomen voor herhalingsaankopen.
+Nadat het bedrijf de markt — op basis van bepaalde criteria (zoals leeftijd) — heeft
+opgesplitst in marktsegmenten, kiest het hieruit een of meer doelgroepen. Bij deze
+
+INZICHT IN DE MARKETING © Noordhoff Uitgevers bv
+DEEL 1
+groepen probeert het een ruilproces tot stand te brengen, waarbij de betrokken par Ruilproces
+tijen iets van waarde uitwisselen om op elkaars behoeften in te spelen.
+
+Deze ruiltransactie ligt ten grondslag aan alle marketingactiviteiten. In feite ont- Ruiltransactie
+wikkelen bedrijven een marketingbeleid om de ruil te stimuleren. Ruilobjecten zijn Ruilobjecten
+waardevol. Vaak zijn het producten die tegen geld worden geruild, maar ze kunnen
+ook minder tastbaar zijn, zoals een dienst, idee, arbeidsinspanning of zelfs status
+(zie figuur 1.2). Zo krijgen studenten in ruil voor hun collegegeld en studie-inspannin-
+gen een zinvolle opleiding en krijgen kiezers, als tegenprestatie voor hun stem op
+een politieke partij, bepaalde beloftes van de lijstaanvoerder over het te voeren
+beleid. De ruil is dan ook een ‘waardescheppend!' proces: beide partijen in de relatie
+ontvangen iets van waarde in ruil voor wat ze zelf opgeven en gaan er — omdat op
+hun behoeften wordt ingespeeld — door de transactie op vooruit.
+
+FIGUUR 1.2 RUILPROGES TUSSEN KOPER EN VERKOPER
+
+lets van waarde: geld,
+
+tijd, inspanningen enzovoort Ì
+
++ lets van waarde:
+
+product, dienst, idee
+
+1.2 COMMERCIËLE ECONOMIE OF
+MARKETING?
+
+Om in het bedrijfsleven carrière te maken, moeten we commercieel leren denken.
+Daarom verdiepen velen zich in de ‘commerciële economie’. In het onderwijs
+wordt marketing — als studieterrein — ook wel commerciële economie genoemd.
+Commerciële economie is echter een onderdeel van het vak economie, met als
+voornaamste aandachtspunten de beslissingen over het inkoop- en verkoopbeleid
+van een bedrijf.
+
+In dit boek richten we onze aandacht vooral op de verkoopzijde van het onder-
+nemerschap. Verkoopbeslissingen maken, op hun beurt, weer deel uit van het mar
+ketingbeleid, net als beslissingen over de distributie of prijsstelling. Dat marketing
+toch vaak commerciële economie wordt genoemd, komt doordat de economische
+wetenschap veel aan de ontwikkeling van de marketingdiscipline heeft bijgedra-
+gen. Zoals we zullen zien, zijn er nog andere wetenschappelijke bijdragen en invals-
+hoeken.
+
+1.2.1 Rol van de economische wetenschap
+
+Om de relatie tussen economie en marketing te kunnen overzien, bekijken we
+eerst het verband tussen de begrippen algemene economie, bedrijfseconomie en
+commerciële economie.
+
+Algemene economie
+
+Als consument nemen we voortdurend beslissingen over de besteding van ons
+inkomen. Kopen we bijvoorbeeld een nieuwe iPhone of sparen we voor een win-
+tersportvakantie? Geld is schaars, dus moeten we vaak kiezen tussen het een of
+het ander.
+
+© Noordhoff Uitgevers bv WAT IS MARKETING?
+HOOFDSTUK 1
+
+37
+Algemene economie
+
+Bedrijfseconomie
+
+Commerciële economie
+
+38
+
+In de algemene economie — ofwel de leer van de keuzehandelingen — bestuderen
+we dit soort keuzevraagstukken van de mens in zijn streven naar welzijn. Daarbij
+gaat de klassieke economische wetenschap er (ten onrechte) van uit dat de consu-
+ment een rationeel wezen zonder emoties is, die eerst een rangorde in zijn behoef-
+ten en keuzemogelijkheden aanlegt en vervolgens kiest voor het alternatief dat
+hem — per bestede euro — het meeste nut oplevert. Een theoretische en onrealisti-
+sche benadering voor klantgerichte ondernemers die proberen het koopgedrag van
+de consument doeltreffend te beïnvloeden.
+
+De algemene economie heeft twee invalshoeken: de macro-economische,
+waarbij we het gedrag van bijvoorbeeld consumenten of ondernemers als groep
+analyseren, en de micro-economische, die is gericht op het economisch handelen
+van individuele huishoudingen (bedrijven en gezinnen). Verder is de algemene eco-
+nomie de moeder van twee andere onderdelen van de economische wetenschap:
+de bedrijfseconomie en de commerciële economie.
+
+Bedrijfseconomie
+
+De bedrijfseconomie houdt zich bezig met de economische aspecten van activitei-
+ten binnen een ‘bedrijfshuishouding’ en hun onderlinge samenhang. Denk aan
+bedrijfsinterne vraagstukken op het gebied van kostprijsberekening, financiering en
+interne organisatie, waarmee vrijwel elke onderneming te maken heeft. Kortom, de
+bedrijfseconomie bestudeert het economisch handelen van de mens in een organi-
+satie.
+
+Commerciële economie
+
+Pas rond 1950 ontstond het vak commerciële economie. Dit was in een periode
+waarin de inkomens van consumenten voortdurend stegen en zij steeds meer geld
+overhielden voor het kopen van luxeproducten. Omdat de algemene economische
+theorie van de rationele consument (homo economicus) weinig aanknopingspun-
+ten bood voor commercieel denkende managers, ontstond het vakgebied commer-
+ciële economie.
+
+Commerciële economen analyseerden — met behulp van inzichten uit de psy-
+chologie en de sociologie — de houding en het gedrag van de consument zodat zij
+hun producten optimaal konden afstemmen op de wensen en behoeften van de
+klant. Daardoor konden ondernemingen marktaandeel veroveren ten koste van
+concurrenten die minder klant- of marketinggericht te werk gingen. Het vakgebied
+commerciële economie of marketing is sindsdien niet meer weg te denken uit de
+praktijk en het onderwijs.
+
+1.2.2 Bijdragen van andere wetenschappen
+De commerciële economie wordt door velen beschouwd als de moeder van de
+marketing. Moeder en kind lijken veel op elkaar, maar zijn toch niet aan elkaar
+gelijk. Desondanks worden begrippen als marketing, commerciële beleidsvorming
+en commerciële economie’ soms door elkaar gebruikt. Naast de economie hebben
+echter ook andere wetenschappen een bijdrage aan de marketingdiscipline gele-
+verd. In verband met dit multidisciplinaire karakter van het vakgebied spreken velen
+liever van marketing (de meest gangbare term) dan van commerciële economie.
+Dankzij de bijdrage van de psychologie hebben marketeers bijvoorbeeld inzicht
+in het gedrag van de individuele mens die door bepaalde aankopen zijn behoeften
+wil bevredigen. Om het consumentengedrag te verklaren bestuderen psychologen
+onder meer iemands persoonlijkheid, attitudes en koopmotieven. De sociologie
+onderzoekt het gedrag van consumenten in groepsverband, inclusief de invloed
+
+INZICHT IN DE MARKETING © Noordhoff Uitgevers bv
+DEEL 1
+van hun cultuur, sociale klasse en gezinssituatie. Ook ontwikkelen wetenschappers
+die zich met statistiek en wiskunde bezighouden, modellen en technieken (zoals
+simulatie) die in het marketingmanagement en het marktonderzoek (bijvoorbeeld
+bij steekproeftrekking) worden toegepast. Tot slot zijn wetenschappers die zich
+bezighouden met informatica erg belangrijk voor digitale marketing. Deskundige
+marketeers zijn dan ook van alle markten thuis.
+
+1.3 INVALSHOEKEN VAN MARKETING
+
+De oorsprong van marketing is te vinden in de periode van ruilhandel of bartering: Bartering
+de rechtstreekse ruil van goederen tegen goederen, die vroeger vooral in primitieve
+maatschappijen plaatsvond. Bij deze ruil ín natura — zonder financiële afwikkeling —
+vonden alleen gewilde producten aftrek. Dit dwong aanbieders om rekening te
+houden met de behoeften van hun afnemers. Zelfs toen later geld, marskramers
+en winkels het ruilproces vereenvoudigden, bleef de ruilhandel populair. Ook in de
+eenentwintigste eeuw is bartering in veel landen nog een belangrijke vorm van
+(internationale) handel, die om een marktgerichte aanpak vraagt.
+
+Marketing kan vanuit verschillende invalshoeken niveaus worden bestudeerd.
+Bekijken we marketing vanuit de managers die in een bedrijf marketingbeslissin-
+gen nemen (de benadering die in dit boek centraal staat), dan spreken we van
+micromarketing (ook wel marketingmanagement genoemd). Maar omdat marke-
+ting op het niveau van de maatschappij (de ‘volkshuishouding’) en op het niveau
+van de bedrijfstak of branche ook zinvolle aanknopingspunten voor marketeers in
+een organisatie biedt, verdiepen we ons eerst in twee andere invalshoeken: macro-
+marketing en mesomarketing.
+
+1.3.1 Macromarketing
+
+Bekijken we marketing — op het niveau van de samenleving — als een proces dat
+
+goed moet functioneren om de economische doelstellingen van de maatschappij
+
+te realiseren, dan spreken we van macromarketing. Bij macromarketing zijn we Macromarketing
+vooral geïnteresseerd in het systeem van een maatschappij om bij de overdracht
+
+van goederen en diensten (ruilprocessen) de schaarse middelen optimaal op de
+
+behoeften af te stemmen.
+
+Dankzij nieuwe media, transportmethoden en satellietverbindingen worden de
+marketingfuncties steeds efficiënter uitgevoerd. De — door het internet — verbe-
+terde communicatiesystemen, distributiemethoden en transactiemogelijkheden
+vergemakkelijken het marketingproces op macroniveau. Dit is ook van belang voor
+marketeers, want hoe minder deze functies kosten, hoe efficiënter het marketing-
+beleid van hun bedrijven.
+
+1.3.2 Mesomarketing
+Hiervoor maakten we onderscheid tussen macromarketing (activiteiten om te voor
+zien in de behoeften van de maatschappij) en micromarketing (vanuit een manage-
+mentoptiek, dus op bedrijfsniveau). Mesomarketing ligt daar, wat betreft niveau, Mesomarketing
+tussenin. Hierbij gaat het om de gezamenlijk uitgevoerde marketingactiviteiten van
+bedrijven die actief zijn op dezelfde markt.
+Mesomarketing kunnen we het best analyseren in het raamwerk van de
+bedrijfskolom: de reeks personen en organisaties — van oerproducent tot Bedrijfskolom
+consument — die zijn betrokken bij de productie, de distributie en het verbruik van
+
+© Noordhoff Uitgevers bv WAT IS MARKETING?
+HOOFDSTUK 1
+
+39
+Brancheorganisatie
+
+Bedrijfstak
+
+Branche
+
+40
+
+producten en diensten. Een voorbeeld is de collectieve reclamecampagne voor kip.
+Die wordt gefinancierd door organisaties die — hoewel ze werken op verschillende
+niveaus in de bedrijfskolom — zijn verenigd in een brancheorganisatie. Mesomarke-
+ting beperkt zich in het algemeen dus tot een bepaalde sector in de samenleving.
+De term mesomarketing wordt echter niet alleen gebruikt voor de gezamenlijke
+activiteiten van bedrijven in een bepaalde sector (zoals verzekeringsmaatschap-
+pijen), maar ook van organisaties met een gemeenschappelijk belang (zoals detail-
+listen in hetzelfde winkelcentrum). Bij de collectieve marketing van bepaalde pro-
+ductsoorten (zoals bloemen of zuivel} spreken we eveneens van mesomarketing.
+
+Zoals figuur 1.3 — in vereenvoudigde vorm — toont, bestaat een bedrijfskolom uit
+diverse horizontale geledingen of schakels. Elke schakel, die bestaat uit bedrijven
+die een gelijkwaardige functie vervullen in het productie- of marketingproces van
+een bepaald product, heet een bedrijfstak (bijvoorbeeld de groothandel). Binnen
+zo’n bedrijfstak noemen we een groep organisaties die grote overeenkomsten ver
+tonen op het gebied van hun productietechniek of de producten die ze maken, een
+branche. Een voorbeeld is de boekenbranche in de grafische bedrijfstak. Een ander
+voorbeeld is de levensmiddelenbranche in de bedrijfstak detailhandel.
+
+FIGUUR 1.3 VEREENVOUDIGDE BEDRIJFSKOLOM VOOR CONSUMENTENPRODUGTEN
+
+Producent
+
+v
+
+Groothandel
+Product Geld
+
+en product- y en markt-
+informatie Detailhandel informatie
+
+v
+
+Consument
+
+We zien aan de linker en de rechterkant van figuur 1.3 twee verschillende ‘stro-
+men’. Terwijl het product zich van de producent — via de tussenhandel — in de rich-
+ting van de consument beweegt (met behulp van social media, reclame en andere
+promotionele inspanningen), vloeit de geldstroom in tegengestelde richting. Tegelij-
+kertijd gaat er een informatiestroom van de klant terug naar de fabrikant. Omdat
+groothandelaren en detaillisten zich in het distributiekanaal het dichtst bij de klant
+bevinden, kunnen zij de producent inzicht verschaffen in de wensen en behoeften
+op de markt. Daarnaast vertrouwen producenten op social media om feeling met
+hun klanten te houden en als input voor de verbetering van hun producten en
+diensten.
+
+In de praktijk voegt elke schakel waarde toe aan de producten of diensten. Is de
+toegevoegde waarde van een bepaalde schakel te laag, dan verliest deze zijn
+functie.
+
+Zo wordt de groothandel door allerlei ontwikkelingen in de bedrijfstak voortdu-
+rend met uitschakeling bedreigd. Deze partij is dan ook de zwakste schakel in de
+distributieketen.
+
+Niet elk product doorloopt alle schakels van de bedrijfskolom. Bij online bestel-
+lingen bijvoorbeeld levert de aanbieder zijn producten direct aan de consument.
+Hoe meer schakels een product doorloopt, hoe hoger de toegevoegde waarde voor
+de klant doorgaans is als alle betrokken bedrijven het marketingconcept toepassen.
+In paragraaf 3.2 komen we terug op de bedrijfskolom.
+
+INZICHT IN DE MARKETING © Noordhoff Uitgevers bv
+DEEL 1
+Bij het op elkaar afstemmen van
+vraag en aanbod van bloemen
+(van veld tot vaas) speelt de
+Bloemenveiling Aalsmeer een
+sleutelrol
+
+ 
+
+1.3.3 Micromarketing
+
+Bij mieromarketing staat het individuele bedrijf — en het management ervan — cen-
+traal. Deze marketingmanagement-benadering, waarbij we problemen analyseren
+en strategieën ontwikkelen om ze op te lossen vanuit de optiek van de manager
+die wordt betaald om beslissingen te nemen, vormt de kern van dit boek.
+
+Marketingmanagement omvat de analyse, planning, implementatie en, ten Marketingmanagement
+slotte, de voortdurende evaluatie en beheersing van alle activiteiten die gericht zijn
+op het afstemmen van de producten en diensten van een organisatie op de wen-
+sen en behoeften van (potentiële) klanten. Concreet houdt dit in: het formuleren en
+uitvoeren van het product-, promotie-, prijs- en distributiebeleid, waarmee de
+onderneming de markt met succes kan bewerken en haar marketingdoelstellingen
+verwezenlijkt.
+
+Een marketingmanager probeert zijn bedrijf en strategie altijd door de bril van
+zijn klanten te bekijken. Hij begint met marktonderzoek om de wensen, behoeften
+en verlangens van potentiële kopers in kaart te brengen. Dit stelt hem in staat om
+producten en diensten te ontwikkelen die op de voorkeur van de doelgroep
+inspelen. Vervolgens kan hij deze voor een aantrekkelijke prijs en via de meest
+geschikte distributiekanalen aan de — dankzij promotie goed geïnformeerde — doel-
+groep aanbieden. Ten slotte onderhoudt hij de nodige contacten met zijn klanten om
+na te gaan of zij inderdaad tevreden zijn. Aan dit proces van strategieontwikkeling
+en marketingmanagement, dat overigens niet altijd in een vaste volgorde verloopt,
+ligt het marketingconcept ten grondslag. Daarop komen wij terug in paragraaf 1.5.
+
+© Noordhoff Uitgevers bv WAT IS MARKETING? 41
+HOOFDSTUK 1
+Een goed product speelt in
+
+op de wensen en behoeften
+van de consument, Dat weten
+marketeers. Het verkopende
+bedrijf onderzoekt wat de klant
+wil en ontwikkelt vervolgens
+een bijpassend product.
+
+Hoe merkwaardig is het dan
+dat Heineken onlangs een
+piepklein bierflesje van 15 cl.
+op de Nederlandse markt heeft
+gebracht? Op welk consumer
+insight is Heineken Mini
+gebaseerd?
+
+Rol van marktonderzoek
+
+Misschien is dit een Heinekenproduct
+dat niet ontwikkeld is op basis van
+marktonderzoek, of — als de behoeften
+op de markt wel van tevoren zijn onder-
+zocht — tegen het feitelijke advies van de
+marktonderzoekers ín. Dat dit niet
+ondenkbaar is, blijkt uit een recent inter-
+view over de ondernemingsstrategie met
+de directeur Marketing van Heineken
+Nederland, Bram Westenbrink. Hij zegt
+daarin: ‘Een consument speelt altijd een
+belangrijke rol, maar je moet niet altijd
+naar hem luisteren:
+
+Bij de introductie van het mini bier-
+flesje omschreef de brouwerij het op
+zijn website als volgt:
+
+Je favoriete bier in een klein groen flesje.
+Een snelle verfrissing, heerlijk koud tot
+de laatste druppel. De Heineken Mini is
+verkrijgbaar in een 8-pack mini flesjes en
+kost €3,99.
+
+De hamvraag is of de consument daar
+echt op zit te wachten, Een miniflesje
+dat net iets groter is dan zn telefoon? Is
+dat iets wat hij tot nu toe heeft gemist, of
+
+ 
+
+naar zit te snakken? Als hij in de trein zit,
+op het terras, in de bioscoop, misschien
+na het sporten? Of is het speciaal voor
+de lunchpauze ontworpen? Wat zit er
+achter dit nieuwe product? Het lijkt een
+gimmick waar niemand iets van snapt.
+
+Het voordeel van het kleine flesje (een
+verfrissing die tijdens het drinken koel
+blijft) weegt niet op tegen de nadelen.
+Je hebt het immers in een paar slokken
+op. Voor de meeste mensen is het flesje
+gewoon te klein. Want bijna iedereen
+vindt een normaal formaat biertje
+prima; dat het niet tot de laatste drup-
+pel ‘heerlijk koud’ blijft, ervaren de
+meeste bierdrinkers niet zo.
+
+Aankoopintentie
+
+Dit negatieve oordeel van de consu-
+ment blijkt ook uit een online concept-
+test die een onafhankelijk marktonder-
+zoekbureau kort na de lancering van
+het product uitvoerde onder bierdrin-
+kers. Meer dan de helft van hen vond
+het flesje te klein, en tweederde wist
+niet wanneer zij het zouden gebruiken.
+Consumenten liepen ook niet warm
+om het uit te delen aan vrienden, mee
+te nemen voor onderweg, of op kan-
+toor te nuttigen — een suggestie die in
+de reclame werd gewekt. De aankoop-
+intentie onder bierdrinkers — ongeacht
+of zij de (relatief hoge) prijs kenden —
+was dan ook minder dan 15 procent.
+Dat is niet veelbelovend.
+
+Conclusie: marketingmisser
+Heineken is er niet in geslaagd om een
+nieuw gebruikersmoment (even die
+snelle verfrissing tussendoor, of een
+kleine proost met je vrienden’) te creë-
+ren, of er met Heineken Mini doel-
+treffend op in te spelen. Bierdrinkers
+hebben geen behoefte aan een piep-
+klein flesje. De enkeling die dit formaat
+wel interessant vindt, zal wellicht wat
+vaker dan voorheen een biertje nemen.
+Maar omdat dit nu juist light users zijn,
+die per definitie heel weinig bier drin-
+ken, is dit nieuwe product voor Heine-
+ken geen marketingsucces.”
+
+ONTWIKKELING VAN DE
+MARKETINGGEDACHTE
+
+Het centraal stellen van de klant bij de strategieontwikkeling is nu zo algemeen
+geaccepteerd, dat we ons kunnen afvragen waarom bedrijven niet altijd zo te werk
+zijn gegaan. Vroeger — tot kort na de Tweede Wereldoorlog — waren veel producten
+echter zo schaars, dat er weinig concurrentie was. Daardoor ontbrak de stimulans
+om producten en diensten af te stemmen op de wensen van de consument. Fabri-
+kanten verkochten alles wat ze konden produceren en deden weinig moeite om
+hun producten aan te passen aan de veranderende behoeften van hun klanten.
+
+42 INZICHT IN DE MARKETING
+
+DEEL 1
+
+© Noordhoff Uitgevers bv
+De omschakeling naar een marketingoriëntatie in het bedrijfsleven werd in Neder-
+land gestimuleerd door multinationals zoals Unilever, die daarmee in Amerika ver-
+trouwd waren geraakt. De toenemende klantgerichtheid werd nog versterkt door
+de invasie van Amerikaanse bedrijven op de Europese markt in de jaren zestig van
+de vorige eeuw. Omdat die hun eigen marktonderzoek- en reclamebureaus mee-
+brachten, raakten Nederlandse managers en ondernemingen steeds meer in mar-
+keting geïnteresseerd.
+
+De meeste bedrijfstakken hebben sinds de industriële revolutie verschillende
+fasen doorlopen. Figuur 1.4 laat zien welke managementoriëntatie daarin centraal
+stond. Het accent kwam achtereenvolgens te liggen op de productie, het product
+zelf, de verkoop en de marketing. Toch heeft nog niet elke bedrijfstak of organisatie
+de laatste fase — die van de marketinggerichte bedrijfsvoering, met de nadruk op
+relatie- en duurzame marketing — al omarmd. Dit biedt lucratieve carrièrekansen
+voor marketinggerichte studenten en managers.
+
+FIGUUR 1.4 ONTWIKKELING VAN DE MARKETINGGEDACHTE
+
+ 
+
+Praductie- Product- Verkoop- Marketing- Relatie- Digitale duur-
+oriëntatie oriëntatie oriëntatie oriëntatie marketing zame marketing
+[ T T 1
+1900 1950 2000 2020
+
+De pioniers bij de ontwikkeling van de marketinggedachte waren de fabrikanten
+van consumentenproducten. Producenten van industriële goederen, dienstverle-
+ners, detaillisten en non-profitinstellingen hebben — globaal in die volgorde — de ini-
+tiatiefnemers gevolgd. Hoewel veel bedrijven nog steeds product- of verkoopgeori-
+enteerd werken, zien steeds meer managers het commerciële belang in van een
+marktgerichte instelling. Zij denken in termen van markten en mensen, in plaats
+van hun producten als uitgangspunt te nemen. Voordat we ons in deze klantge-
+richte denkwijze verdiepen, bekijken we — vanuit een historisch perspectief — de
+managementfilosofieën die oorspronkelijk in het bedrijfsleven overheersten: pro-
+ductie-, product- en verkoopgerichtheid.
+
+1.4.1 Productie- en productgerichte bedrijven
+Een productiegericht bedrijf concentreert zich op het creëren van een zo efficiënt
+mogelijk productieproces. Aan het begin van de twintigste eeuw, toen het
+besteedbare inkomen van de consument laag was en de massaproductietechnolo-
+gie nog in de kinderschoenen stond, was het productieconcept de meest voorko- Productieconcept
+mende bedrijfsfilosofie. Door te focussen op het mechaniseren en vergroten van
+de productie konden ondernemers de kostprijs van hun producten sterk verlagen.
+En als een product goedkoop en volop verkrijgbaar is, zo redeneerden zij, dan ver-
+koopt het wel.
+Na de Tweede Wereldoorlog, met een groot tekort aan grondstoffen, machines
+en fabrieken, was er — wat de interne gerichtheid van bedrijven betreft — niet veel
+veranderd: het produceren en distribueren van redelijk geprijsde massagoederen
+had nog steeds de hoogste prioriteit. De aandacht van fabrikanten verschoof echter
+van het productieproces naar het product zelf. Met het productconcept als markt- Productconcept
+benadering werd kwaliteitsverbetering het voornaamste doel.
+Onder het motto ‘een goed product verkoopt zichzelf * vonden veel managers
+marketing een overbodige activiteit. Ondanks die productgerichte marktbenadering
+
+© Noordhoff Uitgevers bv WAT IS MARKETING?
+HOOFDSTUK 1
+
+43
+Verkopersmarkt
+
+Kopersmarkt
+
+Verkoopconcept
+
+Koopkracht
+
+Marktgerichtheid
+
+44
+
+leverde de verkoop doorgaans geen problemen op; de vraag was namelijk groter
+dan het aanbod. Het was een typische verkopersmarkt, waarop de aanbieders of
+verkopers het voor het zeggen hadden, ten koste van de klanten.
+
+In de dienstensector bijvoorbeeld was de scheve machtsverhouding tussen de aan-
+bieders en afnemers jarenlang kenmerkend voor de gezondheidszorg. Spreekuren
+en behandelingen waren eerder afgestemd op de wensen van de medici dan op de
+behoeften van de consument. Zo werd de patiënt gedwongen veel tijd te verspillen
+in sober ingerichte wachtkamers, en kreeg hij slechts minimale informatie over de
+verleende diensten. Een klantvriendelijke opstelling was helaas zeldzaam.
+
+Pas sinds kort is hierin verandering gekomen, mede door de hogere eisen en ver
+wachtingen van consumenten. In veel medische opleidingen wordt nu aandacht
+aan het marketingconcept besteed. Ook de toegenomen concurrentie — waaronder
+die met particuliere instellingen — heeft geleid tot verbeteringen in de patiënt-
+gerichtheid.
+
+1.4.2 Verkoopgerichte bedrijven
+
+In de meeste bedrijfstakken groeide — dankzij de toegenomen investeringen en
+technologische vooruitgang — de productiecapaciteit zo snel, dat de schaarste aan
+producten verdween en een productie- of productgerichte instelling van managers
+niet langer opportuun was. Ook door de gestegen welvaart ontstond er een kopers-
+markt: omdat het aanbod van producten en diensten groter werd dan de vraag,
+moesten de aanbieders nu om de gunst van de kopers concurreren. De kopers kre-
+gen daardoor een sterkere positie op de markt dan de verkopers. Voor ondernemers
+was het handhaven van de afzet een grote uitdaging. Zij begonnen agressieve ver-
+kooptechnieken te gebruiken om hun producten aan de man te brengen.
+
+Hoewel de verkoopafdeling in de organisatie belangrijker werd dan ooit, veran-
+derde er weinig in de bedrijfsfilosofie. Ook onder het verkoopconcept werd de
+visie van het management op de bedrijfsvoering nog overheerst door een interne
+oriëntatie. De technische kennis en vaardigheden van het bedrijf bepaalden wat er
+werd geproduceerd, terwijl de directie de afzet probeerde te stimuleren met gro-
+tere verkoopinspanningen. De wensen en behoeften van klanten hadden nauwe-
+lijks invloed op de strategie en het productassortiment. Het doel van een verkoop-
+gericht bedrijf is om te verkopen wat het maakt, in plaats van te maken wat de
+markt wil. Maar in de praktijk hangt het succes van een bedrijf niet alleen af van de
+kwaliteit van het product en verkoopinspanningen, maar ook van de distributie-,
+prijs- en marketingcommunicatiestrategie.
+
+1.4.3 Marketinggerichte bedrijven
+
+Door de gestegen koopkracht van de consument en de toegenomen concurrentie
+op de markt realiseerden ondernerners zich dat zij hun producten en diensten
+beter op de wensen en behoeften van de kopers moesten afstemmen. Om niet
+met onverkoopbare voorraden te blijven zitten, begonnen zij klantgericht te denken
+en daarmee het marketingconcept — als basisidee van de marketing — in de praktijk
+toe te passen. Kortom, zij begonnen een marktgerichte aanpak te volgen.
+
+Marktgerichtheid
+
+Steeds meer bedrijven volgen een strategie met een hoge mate van markt-
+gerichtheid. Marktgerichte bedrijven houden bij hun besluitvorming — op alle
+organisatieniveaus — niet alleen rekening met de consument, maar ook met de tus-
+
+INZICHT IN DE MARKETING © Noordhoff Uitgevers bv
+DEEL 1
+senhandel en concurrenten. Dit in tegenstelling tot bedrijven met een product- of
+verkoopgerichte marktbenadering. Zoals figuur 1.5 illustreert, bestaat een product-
+gerichte (maar ook een verkoopgerichte) werkwijze in grote lijnen uit drie stappen:
+de bedrijfsvoering en organisatie vormgeven, het product maken en dit product
+verkopen.
+
+Daarentegen begint een ondernemer die marktgericht te werk gaat met het
+nodige marktonderzoek om de wensen en behoeften van kopers (mede in het licht
+van het aanbod van de concurrenten) te analyseren. Die systematische benadering
+stelt hem ook in staat om de juiste doelgroep te kiezen. Pas daarna focust hij op
+het creëren van een financieel verantwoorde bedrijfsvoering en optimale organisa-
+tievorm, de ontwikkeling van producten en diensten die aan de verlangens van de
+kopers tegemoetkomen en een marketingstrategie die op hun voorkeur en koopge-
+drag inspeelt. Hij beseft ook dat zijn marktaandeel en winst nauw samenhangen
+met de mate waarin zijn klanten tevreden zijn en concentreert zich liever op het
+verstevigen van de relatie met tevreden klanten dan op het intensiveren van de
+verkoopinspanningen.
+
+FIGUUR 1.5 VERGELIJKING VAN PRODUCT- EN MARKETINGGERICHTE BENADERING
+PRODUCTGERICHTHEID MARKTGERICHTHEID
+
+dn
+Product maken Bedrijfsvoering/organisatie
+vormgeven
+Verkoop van het product
+(meer winst door nadruk En
+op omzetverhoging) Feedback
+Marketing van het product
+(meer winst
+
+dankzij tevreden klanten)
+
+Relatiemarketing
+
+TL
+
+Bewust spreken we hier van de marketing en niet van de verkoop van het product.
+Het verschil is dat de marketing van een product een totaalplan omvat, waarvan de
+verkoop slechts één element is. Andere onderdelen van een geïntegreerd marke-
+tingplan gaan over het product-, distributie-, communicatie- en prijsbeleid. Een
+marktgeoriënteerde ondernemer houdt, door middel van feedback, ook constant
+de markt in het oog om te meten in hoeverre zijn producten in verschillende markt-
+segmenten worden gewaardeerd en tegemoetkomen aan de wensen en
+behoeften van de klant. Daardoor kan de marketeer voortdurend betere producten
+lanceren die met succes inspelen op nieuwe trends en voorkeuren van kopers.
+Met deze insteek kan hij met zijn merkartikelen meerwaarde creëren en — door
+interne marketing en relatiemarketing te bedrijven — een goede band opbouwen Interne marketing
+met collega's en klanten. De voornaamste verschillen tussen een verkoop- en een
+marketingoriëntatie zijn samengevat in figuur 1.6.3
+
+ 
+
+© Noordhoff Uitgevers bv WAT IS MARKETING?
+HOOFDSTUK 1
+
+45
+HGUUR 1.6 VERSCHILLEN TUSSEN EEN VERKOOP- EN MARKETINGORIËNTATIE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. Door
+Intern, op de Het verkopen Winst door zo . -
+led problemen van van de producten Op iedereen veel mogelijk te intensieve
+GERICHT m : promotie en
+het bedrijf die we maken verkopen - .
+verkoopinspanningen
+- Door een
+Inspelen op de Winst door de m
+Extern, op de behoeften van de klanten tevreden geïntegre rde
+MARKETING- wensen en markt door Op bepaalde te houden en marketing en
+GERICHT behoeften van groepen kopers lati samenwerking
+de klant meerwaarde relaties met hen met andere
+te bieden op te bouwen 8
+afdelingen
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Maatschappelijk
+
+marketingconcept
+
+Maatschappelijk
+verantwoord
+ondernemen
+
+46
+
+Maatschappelijk marketingconcept
+
+Nu velen bezorgd zijn over ongewenste neveneffecten van ondernemingen en hun
+marketingactiviteiten, herleeft de belangstelling voor macromarketing (maar dan in
+de zin van maatschappelijk verantwoorde marketing). De toenemende aandacht
+voor de langetermijnbelangen van de samenleving heeft geleid tot een aanvulling
+op het marketingconcept die we het maatschappelijk marketingconcept (so-
+cietal marketing concept) noemen. Het uitgangspunt hiervan is dat, aangezien de
+productie en marketing van bepaalde producten (zoals verpakkingen) op den duur
+schadelijke gevolgen kunnen hebben voor de hele maatschappij (bijvoorbeeld ont-
+bossing), we zo veel mogelijk moeten voorkomen dat de belangen van kopers én
+niet-kopers worden geschaad.*
+
+Marketeers moeten dan ook een evenwicht vinden tussen de belangen van de
+consument, de producent en de samenleving. Zoals figuur 1.7 illustreert, worden
+consumenten vaak gedreven door hun behoeften en verlangens op korte termijn,
+terwijl producenten streven naar winst. Voor de maatschappij als geheel staat ech-
+ter het welzijn van de mens op lange termijn centraal.
+
+Steeds meer strategisch denkende managers zijn dan ook in hart en ziel voor
+standers van maatschappelijk verantwoord ondernemen (MVO); dit houdt in dat zij
+letten op het effect van de activiteiten van hun bedrijf op mens en milieu, zonder
+dat dit per se wettelijk verplicht is. Bij de ontwikkeling van een maatschappelijk
+marketinggeoriënteerd beleid houden ondernemers met verantwoordelijkheidsge-
+voel rekening met de impact van marketingactiviteiten voor bepaalde groeperingen
+in de samenleving (waaronder kinderen), met maatschappelijke problemen (zoals
+luchtverontreiniging) en met de visie van actiegroepen (bijvoorbeeld Greenpeace)
+en organisaties die zich inzetten voor dierenwelzijn (Wakker Dier). Hun gezamen-
+lijke inspanningen en investeringen hebben onder meer geleid tot de acceptatie
+van milieuvriendelijke wasmiddelen en meer aandacht voor dierenwelzijn.
+
+De opkomst van internet en social media maakte het voor consumenten moge-
+lijk om zowel onderling als direct met organisaties te communiceren, niet belem-
+merd door enige grens. De relatie met organisaties wordt steeds interactiever,
+waarbij de macht meer bij de consument komt te liggen. Consumenten communi-
+ceren onderling over merken en organisaties en zetten vraagtekens bij de commer-
+ciële aanpak en boodschappen van marketeers. De mening van familie, vrienden,
+relaties en ‘bekenden’ op social media krijgt een steeds belangrijker rol in het
+beslissingsproces. Consumenten verwachten, of eisen, van organisaties dat zij
+de belangen van de maatschappij dienen en niet alleen het belang van hun eigena-
+ren. Het denken vanuit het maatschappelijk marketingconcept, inspelend op de
+
+INZICHT IN DE MARKETING
+DEEL 1
+
+© Noordhoff Uitgevers bv
+FIGUUR 1.7 HET MAATSCHAPPELIJK MARKETINGCONGEPT: EVENWICHTIGE BELANGEN
+
+SAMENLEVING
+{maatschappelijk welzijn}
+
+MAATSCHAPPELIJK
+MARKETINGCONCGEPT
+
+PRODUCENT CONSUMENT
+(winststreven) (behoeftebevrediging)
+
+toegenomen interactiviteit in en met de markt en het steeds grotere belang van
+sociale relaties bij koopbeslissingen, wordt ook wel ‘Marketing 4.0’ genoemd. Marketing 4.0
+
+1.4.4 Relatiemarketing
+
+Een van de belangrijkste ontwikkelingen in de veranderende oriëntatie van het
+zakenleven was de opkomst van relatiemarketing. Bedrijven gaan een stap verder
+in hun klantgerichtheid door bewust een goede relatie met hun afnemers op te
+bouwen om hen zo lang mogelijk als klant te behouden. Ook koesteren veel onder-
+nemers duurzame relaties met hun leveranciers en distribuanten in het marketing-
+kanaal.
+
+Een relatiemarketingstrategie vereist een andere aanpak dan het alleen bevor-
+deren van het ruilproces tussen de aanbieder en afnemer. Het accent ligt op het
+opbouwen van langetermijnrelaties met klanten en zakelijke partners die voor alle
+partijen waarde aan de samenwerking toevoegen. We zien dan ook steeds meer
+strategische allianties en andere samenwerkingsvormen op de markt.
+
+In tabel 1.2 worden de voornaamste verschillen tussen transactiegerichte mar-
+keting en relatiemarketing opgesomd. Het doel van relatiemarketing is om — door Relatiemarketing
+het verstevigen van de vertrouwensrelatie — de loyaliteit van klanten te verhogen.
+
+In combinatie met de toepassing van het marketingconcept vergroot dit de kans op
+herhalingsaankopen.
+
+TABEL 1.2 TRANSACTIEMARKETING VERSUS RELATIEMARKETING
+
+ 
+
+TRANSACTIEMARKETING
+
+ 
+
+ 
+
+ 
+
+ 
+
+1_Kortetermijnoriëntatie 1 _Langetermijnoriëntatie
+
+2 Voortdurend nieuwe kopers zoeken 2 Vaste klanten behouden én nieuwe klanten werven
+
+3 Voornamelijk eenmalige verkooptransacties 3 Herhalingsaankopen en duurzame relaties
+
+4 _Oppervlakkige relatie met klanten 4 _ Sterke betrokkenheid bij de klant
+
+5 Succes is een hoge omzet 5 Succes omvat herhalingsaankopen en mond-tot-
+mondreclame van trouwe klanten
+
+6 Kwaliteit is een zorg van de productieafdeling 6 Kwaliteit is de verantwoordelijkheid van iedere
+medewerker
+
+7 Gemiddeld serviceniveau 7 Uitzonderlijke service en maximale nazorg
+
+© Noordhoff Uitgevers bv WAT IS MARKETING?
+
+HOOFDSTUK 1
+
+47
+Duurzame marketing
+
+De Dopper is een duurzame,
+klimaatneutraal geproduceerde
+waterfles om het drinken van
+kraanwater te promoten en de
+berg plastic afval te verminderen
+
+Digitale duurzame
+marketing
+
+48
+
+1.4.5 Digitale duurzame marketing
+Veel managers doen hun best om — terwijl ze conform het marketingconcept
+inspelen op de wensen en behoeften van hun klanten — altijd maatschappelijk ver-
+antwoorde beslissingen te nemen die geen nadelige effecten op anderen hebben.
+Zoals we net zagen geldt dit zeker voor marketeers die het maatschappelijk marke-
+tingconcept toepassen. Maar de eventueel schadelijke effecten op anderen in de
+maatschappij en het milieu op langere termijn zijn helaas niet altijd goed in te schat-
+ten. Althans, niet zonder de extra inspanningen en analyses die dat vereist.
+Managers die bereid zijn om dat wel te doen omdat zij bijvoorbeeld hechten aan
+ethisch gedrag, volgen een strategie van duurzame marketing. Zij houden bij alle acti-
+viteiten van hun bedrijf rekening met de belangen van kopers èn niet-kopers die
+absoluut niet mogen worden geschaad, en met het eventuele effect van hun beleid
+op de mogelijkheid voor toekomstige generaties om in hun behoeften te blijven voor-
+zien. Dit blijkt onder meer uit de lancering van Nederlandse producten zoals de Dop-
+per, een duurzame, Klimaatneutraal geproduceerde waterfles om het drinken van
+kraanwater te promoten en de berg plastic afval te verminderen, en Tony's Choco-
+lonely, die zijn ‘100% slaafvrije’ chocolade maakt van bio en Fairtrade-gecertificeerde
+cacao, gekocht van boeren voor een prijs die hen inkomenszekerheid verschaft.
+
+ 
+
+Om in de komende jaeren zo veel mogelijk consumenten aan te moedigen tot
+duurzame consumptie, zullen — nu acht van de tien Nederlanders internet gebrui-
+ken en er steeds meer communicatie online plaatsvindt — organisaties moeten ver-
+trouwen op digitale duurzame marketing. Als gevolg van de digitalisering van de
+samenleving, waarin iedereen met elkaar in contact lijkt te staan, kunnen marke-
+teers een gedragsverandering het beste online stimuleren. Zo kunnen bedrijven de
+social media inzetten om merk-communities te bouwen, bloggers stimuleren om
+voor hen promotie te maken of vloggers verleiden om hun promotionele acties aan
+het eigen netwerk door te spelen. Daarmee sturen zij aan op viral marketing.
+
+Bovendien kunnen grote en kleine bedrijven dankzij de analyse van big data
+trends vinden — of daarop anticiperen — waarop zij als ondernemers, op zoek naar
+marketingkansen voor duurzame producten, kunnen inspelen. Zij kunnen nu ook
+makkelijker in real time volgen hoe consumenten op social media over hun merken
+en producten denken en meerdere bronnen (zoals blogposts, video's, mails en
+tweets) combineren om waardevolle inzichten te krijgen.
+
+INZICHT IN DE MARKETING © Noordhoff Uitgevers bv
+DEEL 1
+MARKETINGTOPPER
+
+Gat in de markt voor Magnet.me
+
+Ga magnet.me
+
+Over ons
+
+Blog Werkgevers
+
+Ontdek jouw perfecte baan
+of stage en start je carriere.
+
+Zie direct voor welke hbo/wo-startersbanen, stages en
+bedrijven je gekwalificeerd bent. Vind iets wat je leuk
+vindt - of word gevonden - en start je carrière.
+
+Tech startups hebben de toekomst,
+roepen we met z’n allen, maar in
+de praktijk mislukken 9 van de 10
+startups. Volgens onderzoek van
+Deloitte en THNK is dit te wijten
+aan drie belangrijke factoren:
+het gebrek aan ervaring van de
+oprichters, een te kleinschalige
+opzet voor de nodige (vaak
+internationale) expansie en een
+te snelle betreding van de markt.
+Maar het meest fundamentele
+probleem is de — interne —
+productgerichtheid van veel
+startup ondernemers: zij
+verdiepen zich onvoldoende in de
+behoeften van de markt.
+
+Marketingoptiek
+
+Een managementoriëntatie die meer
+kans van slagen biedt is die van
+Magnet.me: een online netwerk dat stu-
+denten en werkgevers in staat stelt zich
+met elkaar te verbinden op een mak-
+kelijke, directe en persoonlijke manier.
+Vanaf de eerste dag dat zij als startup
+probeerden om de recruitmentwereld
+op zn kop te zetten boekten de jonge,
+marketinggerichte ondernemers suc-
+ces omdat zij niet begonnen bij een
+product of bij de techniek die ze wilden
+toepassen, maar vanuit een behoefte
+van de (potentiële) klant.
+
+© Noordhoff Uitgevers bv
+
+© Video bekijken
+
+El Registreren met Facebook
+
+Registeren met e-mail of Google
+
+Reeds als student vonden de oprichters
+van de startup — Vincent Karremans,
+Freek Schouten en Laurens van Nues
+
+— dat werkzoekenden en potentiële
+werkgevers vanuit een marketingoptiek
+het beste aan elkaar gekoppeld konden
+worden via een online recruitment net-
+werk. Natuurlijk had je al LinkedIn,
+maar die brengt je niet in contact met
+bedrijven die je nog niet kent. ‘Vanuit
+die behoefte zijn we een netwerk gaan
+bouwen dat ondernemingen op een
+slimme manier aan potentiële werk-
+nemers koppelt’, zegt Karremans. ‘We
+hadden dus niet eerst een product
+waar we een markt voor moesten zoe-
+ken, maar zagen een markt, waarvoor
+we vervolgens een product hebben ont-
+wikkeld, Het verhaal rond ons product
+en met name het probleem dat we
+ermee wilden oplossen, was de basis
+van waaruit we vertrokken:
+
+“We zagen een
+markt, waarvoor
+we vervolgens een
+product
+ontwikkelden
+
+WAT IS MARKETING?
+
+Ondernemingsmissie
+
+Magnet.me heeft als ondernemings-
+missie om ‘studenten en afgestudeerden
+te helpen alles uit hun professionele
+potentieel te halen (zonder de
+b*llsh*#). Tegelijkertijd is de doelstel-
+ling van het bedrijf om elke organisatie,
+van startup tot multinational , via hun
+online netwerk het talent te laten vin-
+den dat zij nodig hebben om hun doe-
+len te bereiken.
+
+Om zon type bedrijf succesvol te
+maken heb je uiteraard een grote groep
+gebruikers nodig. Daarom doen de
+oprichters hun best om — via de social
+media — word-of-mouth te creëren.
+Inmiddels staan er ruim 80.000 studen-
+ten en meer dan 1.200 bedrijven inge-
+schreven.
+
+Marktontwikkeling
+
+Onlangs breidde Magnet.me uit naar
+Engeland en slaagde er in Londen in
+om in korte tijd 60 ‘launching
+customers — waaronder Unilever, PwC
+en Royal Bank of Canada — aan zichte
+binden. Dat leidt tot een grotere
+bekendheid onder potentiële gebrui-
+kers en heeft hopelijk een sneeuwbal-
+effect. Of zoals Karremans de reden
+voor deze strategie verwoordt: ‘Zonder
+bekendheid geen gebruikers, en voor
+een bedrijf als dit geldt: zonder gebrui-
+kers geen product!®
+
+49
+
+HOOFDSTUK 1
+Marketingconcept
+
+Aangezien online platforms consumenten zelf ook in staat stellen om op efficiënte
+wijze bijvoorbeeld hun woning (airbnb), auto (SnappCar) of andere spullen met
+anderen te delen, zijn digitale marketing en duurzame marketing onlosmakelijk met
+elkaar verbonden. Vanuit die optiek noemen wij deze managementoriëntatie — en
+tevens de fase waarin wij ons nu bevinden (zie figuur 1.4) — digitale duurzame mar-
+keting. De mogelijkheden en kansen die dit biedt helpen zowel consumenten als
+bedrijven om meer duurzaam met elkaar en met de omgeving om te gaan.
+
+1.5 HET MARKETINGCONCEPT
+
+Het marketingconcept is eigenlijk een ondernemingsfilosofie. Het is een mindset
+(houding of denkwijze) van een manager die bij vrijwel alle beslissingen de wensen
+en behoeften van de klant centraal stelt. Zo'n marktgerichte bedrijfsvoering vereist
+de actieve steun van het topmanagement. De directie zelf hoeft niet per se een
+marketingachtergrond te hebben, maar moet wel het belang van marketing inzien.
+Als de bedrijfsleiding zich voornamelijk bezighoudt met de huidige producten of met
+het oplossen van allerlei operationele problemen in plaats van zo goed mogelijk in
+te spelen op de behoeften en voorkeuren van klanten, is het moeilijk om het mar-
+ketingconcept in de praktijk toe te passen.
+
+Wat zijn nu de belangrijkste kenmerken van het marketingconcept? Zoals figuur
+1.8 laat zien, kent het marketingconcept zes uitgangspunten.
+
+FIGUUR 1.8 HET MARKETINGCONCEPT
+
+Winstbijdrage Tevreden klanten
+
+Dn
+
+Marktonderzoek Geïntegreerde
+
+TT mm
+en doelgroepkeuze 4 NN aanpak
+
+Breed omschreven
+
+Concurrentieanalyse .
+werkterrein
+
+1.5.1 Tevreden klanten
+
+De klant is koning. De kern van het marketingconcept is een passie om elke koper
+tevreden te stellen. Als een onderneming alleen probeert om bij elke transactie zo
+veel mogelijk winst te maken, werkt dat op de lange termijn in haar nadeel. Bij elke
+beslissing moet een klantgerichte aanpak centraal staan, met als doel een duur-
+zame relatie op te bouwen. Dit geldt niet alleen voor marketeers, maar voor alle
+medewerkers in het bedrijf.
+
+Om klanten tevreden te stellen, moeten we keuzes maken. Geen enkel bedrijf
+kan het iedereen naar de zin maken. In de praktijk moeten we dan ook kiezen tus-
+sen het aanbieden van een heel breed assortiment en het inspelen op de voorkeur
+van bepaalde groepen klanten. Bedrijven hebben zelfs sommige consumenten lie-
+ver niet als klant. Zo reserveert een restaurant dat zich op zakenmensen richt bij
+voorkeur geen tafels voor een luidruchtige jaarclub, uit vrees om vaste klanten te
+verliezen. Een beleid van demarketing (waarover straks meer) kan dan uitkomst
+bieden. Klantgerichte managers streven vooral naar perfecte klantenservice om
+hun marktaandeel uit te breiden.
+
+INZICHT IN DE MARKETING © Noordhoff Uitgevers bv
+DEEL 1
+Klantenservice
+
+Marketinggerichte bedrijven waarin tevreden klanten centraal staan, onderscheiden
+zich door uitstekende klantenservice. Een doeltreffende customer service gaat veel
+verder dan een ‘Niet goed? Geld terug!’-garantie of een beleefd briefje na een
+klacht van een klant. In de praktijk omvat klantenservice allerlei activiteiten van een
+organisatie om een goede relatie met haar klanten op te bouwen, waaronder het:
+
+e anticiperen op de wensen en behoeften van de klant;
+
+e geven van zinvolle informatie over haar producten en diensten;
+
+e klanten gemakkelijk maken om producten te kopen en te gebruiken;
+
+e onderzoeken of klanten tevreden zijn over hun aankopen;
+
+e direct oplossen van klachten of problemen van kopers;
+
+e contact onderhouden met klanten om de relatie voortdurend te verbeteren.
+
+In een marktgericht bedrijf krijgen deze activiteiten de hoogste prioriteit om klanten
+zo tevreden mogelijk te stellen.
+
+Klanttevredenheid en marktaandeel
+Hoe belangrijk tevreden klanten zijn in de strijd om marktaandeel, blijkt uit figuur 1.9.
+
+FIGUUR 1.9 BELANG VAN TEVREDEN KLANTEN
+
+Ss
+
+Grotere Positieve mond-tot-
+klantentrouw mondcommunicatie
+Meer Meer
+herhalingsaankopen nieuwe klanten
+
+Omdat de normen en waarden van een onderneming tot uitdrukking komen in haar
+klantenservice, is dit een cruciaal marketinginstrument. Zoals figuur 1.9 illustreert,
+kan klanttevredenheid leiden tot meer herhalingsaankopen èn meer nieuwe klan-
+ten. De hoofdzaak is dat elke klant serieus wordt genomen en tevreden moet zijn.
+Vanuit die optiek heeft de klant in de contacten met het bedrijf altijd gelijk (ook als
+hij eigenlijk niet gelijk heeft).
+
+1.5.2 Geïntegreerde aanpak
+
+Het verschil tussen een productgerichte en een marketinggerichte werkwijze uit
+zich in de mate waarin belangrijke activiteiten en beslissingen planmatig worden
+geïntegreerd in het overkoepelend marketingbeleid. In een product- of verkoopge-
+richt bedrijf worden veel activiteiten geïsoleerd uitgevoerd: de productieleider wil
+bijvoorbeeld de machines draaiend houden, een technicus probeert — conform het
+productconcept — de kwaliteit van de producten te verbeteren, een accountant
+
+of de directie bepaalt de verkoopprijzen en de verkopers of accountmanagers
+proberen grote orders te boeken. Als in ivoren torens werken de afdelingen langs
+elkaar heen, zonder oog voor de belangen van de onderneming als geheel. De
+coördinatie — of besluitvorming door één persoon of afdeling — die nodig is voor
+een uitgekiende marketingmix ontbreekt, en de klant is vaak bijzaak. De piramide
+in figuur 1.10A brengt dit ‘hokjesdenken’ in beeld.
+
+© Noordhoff Uitgevers bv WAT IS MARKETING?
+HOOFDSTUK 1
+
+51
+Interne marketing
+
+FIGUUR 1.10 A EN B ORGANISATIES MET VERSCHILLENDE MANAGEMENTBENADERINGEN
+
+A IVOREN TOREN-ORGANISATIE
+top down, productgericht, hokjesdenken
+
+DIRECTIE
+Financiële zaken Besluit- Oriëntatie
+Personeelszaken Productie vorming
+Inkoop Voorraadbeheer Reclame
+Logistiek Verkoop
+Research & Development Sales promotion
+
+KLANTEN
+
+B KLANTGERICHTE ORGANISATIE
+bottom up, externe oriëntatie, coördinatie
+
+KLANTEN
+
+Logistiek, R&D, Inkoop,
+Human Resources, Productie
+Financiën
+Marketing Besluit- Oriëntatie
+vorming
+
+DIRECTIE
+
+In een marketinggericht bedrijf daarentegen is het beleid sterk afhankelijk van
+de — met behulp van marktonderzoek of data-analyse vastgestelde — wensen en
+behoeften van de klant. De diverse afdelingen bestaan nog wel, maar hun taken en
+bijdragen aan de zaak worden beïnvloed door de belangen van de kopers. De orga-
+nisatie opereert als een systeem dat wordt gestuurd door de marketinggedachte.
+Hoewel sommige afdelingen zich bezighouden met interne en weer andere met
+externe zaken, vormen de klanten het vertrekpunt van de besluitvorming. Figuur
+1.10B illustreert de coördinerende rol van de marketingafdeling in zo'n klantgerichte
+organisatie. Een marketeer of marketinggerichte manager speelt hierbij een coördi-
+nerende rol en is — in het belang van de klant — betrokken bij de voornaamste
+beslissingen, zoals over de productiestrategie, de voorraadplanning, de logistiek en
+het servicebeleid. Zodoende wordt het marketingconcept in elk aspect van de
+bedrijfsvoering geïntegreerd.
+
+Om de samenwerking in het bedrijf te stimuleren, moeten marketeers zich niet
+alleen op groepen buiten het bedrijf richten, maar ook interne marketing bedrijven.
+Immers, alle dienstverlenende en andere medewerkers — waaronder de receptio-
+niste en de caissières — moeten goed zijn opgeleid en gemotiveerd om — als team
+— de klanten tevreden te stellen. Ook andere afdelingen of onderdelen van de
+eigen organisatie, inclusief op directieniveau, moeten voortdurend samenwerken
+om de achterliggende grondslagen van het marketingconcept uit te voeren en in te
+spelen op de eisen en verlangens van de klanten. Uiteraard vereist een goede
+onderlinge afstemming van de marketingactiviteiten een doeltreffende interne
+communicatie.
+
+INZICHT IN DE MARKETING © Noordhoff Uitgevers bv
+DEEL 1
+1.5.3 Breed omschreven werkterrein
+Bedrijven die het marketingconcept niet toepassen drukken hun werkterrein vaak
+uit in een omschrijving van de producten die ze maken (bijvoorbeeld: ‘wij produce-
+ren pc's! of ‘wij maken brilmonturen’). Die beperkte omschrijvingen kunnen leiden
+tot marketingbijziendheid (marketing myopia). Ze houden er onvoldoende rekening Marketingbijziendheid
+mee dat producten snel verouderd kunnen raken — in dit geval door het toenemend
+gebruik van laptops en tablets of contactlenzen en ooglaseren.
+Om zich sneller te kunnen aanpassen aan de veranderende behoeften op de
+markt, kiezen veel bedrijven voor een ruime, klantgeoriënteerde formulering van
+hun werkterrein (business definition) en missie (hun rol en ambities in het afgeba- Missie
+kende werkterrein). Marktgerichte bedrijven omschrijven hun activiteiten in brede
+zin, gericht op de behoeften van de klant. Daarnaast formuleren zij hun rof in het
+gekozen werkterrein in ambitieuze bewoordingen. Zo omschreef de oprichter van
+het cosmeticabedrijf Revlon zijn missie als volgt: ‘In de fabriek maken we cosme-
+tica, maar in de winkel verkopen we hoop!’
+
+Zijn breed omschreven en klant-
+georiënteerde business definition
+= verwoord in deze advertentie
+met de pay-off ‘ideas for life’ —
+helpt Panasonic bij het aandragen
+van oplossingen voor problemen
+van haar klanten
+
+Panasonic BT-LH
+Erkend
+
+Ren ed eed
+Grote horzontale en verticale beoldivakshoek
+
+leenen
+
+abad eene erts
+
+Ted
+
+ 
+
+Ook bedrijven als Shell en BP omschrijven hun werkterrein vanuit de consumen-
+tenbehoeften. Zij zien zichzelf niet als oliemaatschappijen, maar als energieleveran-
+ciers, Door de nadruk te leggen op energie in plaats van olie zijn ze eerder geneigd
+te investeren in alternatieve energiebronnen, zoals wind- en zonne-energie of
+waterstoffusie. Hierdoor kunnen zij zich sneller aan maatschappelijke ontwikkelin-
+gen aanpassen. Bovendien worden zij minder afhankelijk van één energiebron en
+blijven ze vooraanstaande energieleveranciers, ook nadat de oliereserves uitgeput
+raken.
+
+© Noordhoff Uitgevers bv WAT IS MARKETING? 53
+HOOFDSTUK 1
+Concurrenten
+
+Concurrentievoordelen
+
+54
+
+1.5.4 Concurrentieanalyse
+
+De meeste managers zien in dat zelfs hun meest winstgevende producten — en
+soms hele productgroepen — ooit verouderd raken. Zo zijn brommers, cd's en tele-
+fooncellen vervangen door scooters, streaming music en smartphones. Soms kan
+een marketinggericht bedrijf zelf een vervangend product ontwikkelen dat zijn
+bestaande producten achterhaald maakt. Het moet in elk geval zijn concurrenten in
+het oog houden, al was het alleen maar om hun beste ideeën te kunnen over-
+nemen en te verbeteren.
+
+Succesvolle managers analyseren de concurrentie voortdurend om zowel inzicht
+te krijgen in de relatief sterke en zwakke punten van hun eigen bedrijf als in de
+kansen en bedreigingen op de markt. Een regelmatige concurrentieanalyse is
+onmisbaar voor het benutten en verder uitbouwen van de concurrentievoordelen.
+In de praktijk heeft concurrentie een stimulerende invloed op innovatie en product-
+verbetering in de hele branche. Ook leidt concurrentie soms tot afspraken en
+samenwerking tussen ondernemers.
+
+1.5.5 Marktonderzoek en doelgroepkeuze
+
+Bij het nemen van beslissingen hebben we bruikbare informatie nodig. Een deel
+daarvan komt op ons pad door onze werkomgeving bewust te observeren. Zo gaan
+de marketeers van Heineken regelmatig met accountmanagers mee naar retailers
+om de situatie in de winkel kritisch te bekijken en klanten te ontmoeten. Dat is
+weliswaar nuttig, maar niet voldoende. Een systematische verzameling en
+voortdurende analyse van relevante marketinginformatie is essentieel voor de
+besluitvorming.
+
+Marktonderzoek en data-analyse vormen de basis van marketing. Door de juiste
+gegevens te verzamelen, te analyseren en te interpreteren, kan een marktgericht
+bedrijf nagaan wie de kopers zijn en aan welke productkenmerken zij de voorkeur
+geven. Zo wordt direct duidelijk dat niet iedereen dezelfde wensen heeft. De
+gemiddelde consument bestaat niet!
+
+Daarom moet een manager eerst de markt in kaart brengen en segmenteren.
+Hij deelt de markt op in kleinere groepen klanten die soortgelijke behoeften en
+voorkeuren hebben, of hetzelfde koopgedrag. Vervolgens beslist hij welke markt-
+segmenten voor het bedrijf het aantrekkelijkst zijn. Die beschouwt het als doel
+groepen. Ze worden apart bewerkt met speciaal voor hen ontwikkelde producten
+en marketingstrategieën. Hoe meer informatie het bedrijf over het koopgedrag
+heeft, hoe beter het zich — in de ogen van de doelgroep — van zijn concurrenten kan
+onderscheiden.
+
+1.5.6 Winstbijdrage
+
+Marketeers zeggen wel eens: ‘Je kunt beter een markt hebben dan een fabriek!
+Hiermee bedoelen ze dat de vraag naar hun producten belangrijker is voor de conti-
+nuïteit van het bedrijf dan het bezit van een gebouw of machines. Want als de
+vraag terugloopt (en daardoor ook de omzet), is de fabriek die voor het aanbod
+zorgt, overbodig.
+
+We gaan hierin nog een stap verder. Alleen omzet is ook niet genoeg om het
+voortbestaan van een marktgericht bedrijf te verzekeren; daarvoor is winst nodig.
+Zonder winst is de vraag hoe goed het bedrijf op de behoeften van de klant
+inspeelt, niet relevant. Overleven is voor een bedrijf immers noodzaak.
+
+De winstbijdrage van een product of bedrijfsonderdeel is in de marketing
+een belangrijker criterium dan de geboekte omzet. Een hogere omzet betekent
+
+INZICHT IN DE MARKETING © Noordhoff Uitgevers bv
+DEEL 1
+ 
+
+E VANUIT DE PR
+
+Coca-Cola zoekt marketingtalent
+
+ 
+
+Voor Coca-Cola Nederland is het
+binnenhalen van talentvolle jongeren
+cruciaal orn effectieve marketingstra-
+tegieën en creatieve campagnes te kun-
+nen ontwikkelen. Dit biedt voor com-
+mercieel ingestelde studenten met pas-
+sie voor marketing interessante carriè-
+rekansen. ‘In een tijd waarin er zoveel
+verandert, in het werven van jonge,
+aankomende managers voor wie het
+gebruik van second screens en dergelijke
+vanzelfsprekend is, een must, zegt
+senior brand manager Jeroen Lampe op
+zijn Rotterdamse kantoor. ‘Met hun
+unieke inzichten kunnen ze connectie
+maken met nieuwe generaties doelgroe-
+pen. Dat aanstormend talent hebben
+we bij Coca-Cola nodig:
+
+Veel leren
+
+Natuurlijk, wie de jeugd heeft, heeft de
+toekomst Maar wat voor jonge mensen
+zoekt Coca-Cola nu eigenlijk? “Wij
+zoeken medewerkers die een afspiege-
+ling zijn van de maatschappij’, zegt
+Therese Noorlander, hoofd public
+affairs en communicatie. Maar ook
+junioren met bijzondere kwaliteiten die
+heel anders naar de wereld kijken en
+hoe onze merken daarop aansluiten!
+Vanuit een strategische optiek is de
+
+© Noordhoff Uitgevers bv
+
+hamvraag hoe de Amerikaanse fris-
+drankengigant ook in Nederland mar-
+keteers voor langere tijd aan zijn
+organisatie en merken verbindt. "We
+zijn een heel plat bedrijf waar je zo bij
+de directeur binnenloopt’, zegt
+Noorlander. ‘Ook voor jonge mensen is
+het interessant: je krijgt vanaf het begin
+verantwoordelijkheid er is veel werk te
+verstouwen, Je bemoeit je met de hele
+keten, want je wilt je merk goed bij de
+klant krijgen. Zo kun je veel leren. Je
+mag bij Coca-Cola ook je stem laten
+gelden. Bovendien is het voor je eigen
+ontwikkeling belangrijk dat je met col-
+lega's op alle niveaus samenwerkt.
+
+‘Bikkelen hoort erbij.
+Verder draait het
+vooral om passie
+en trots’
+
+Coca-Cola is een global brand met een
+lokaal jasje. We kunnen niet 130 jaar
+lang dezelfde propositie blijven com-
+municeren. Onze business is fast
+moving. We nemen snelle beslissingen
+
+over innovaties, omdat ook de klant
+sneller is geworden. Daarbinnen moet
+je goed blijven nadenken. Voor aanstor-
+mend talent hoort bikkelen erbij. Ver-
+der draait het vooral om trots en passie
+voor marketing;
+
+Creatieve campagnes
+
+‘Creativiteit is bij Coca-Cola heel belang-
+rijk, zegt Jeroen Lampe. “We laten con-
+sumentenpanels vooraf campagnes
+beoordelen en meten na afloop het
+effect: zijn de doelstellingen bereikt en
+leiden ze tot meerwaarde voor onze
+merken? Zo meten we per touchpoint
+of de boodschap begrepen is. En weten
+we voor volgende campagnes welke
+creatieve aanpak effect heeft. Zo hoop
+je je creativiteit te verbeteren!
+
+Coke TV
+
+Hij wijst ook op de opkomst van
+influencers: een belangrijke nieuwe
+pilaar in de marketingstrategie. Hier-
+voor is een YouTube-kanaal opgericht,
+genaamd CokeTV. Nieuwe influencers
+en ander talent krijgen hiermee een
+podium om zich op de jongere doel-
+groep — tieners en jong volwassenen
+=te richten. Neem maar eens een
+kijkje, zegt Lampe trots.”
+
+WAT IS MARKETING? 55
+HOOFDSTUK 1
+Brand equity
+
+Behoeften
+
+namelijk niet altijd meer winst! Bij het toepassen van het marketingconcept moet
+ieder bedrijf er dan ook naar streven om, bijvoorbeeld door het verhogen van de
+merkvoorkeur, merktrouw en brand equity (de waarde van het merk op lange ter-
+mijn) voldoende winst te maken.
+
+1.6 SLEUTELTAKEN VAN MARKETING
+
+Eerst even een misverstand uit de weg ruimen. De voornaamste taak van marke-
+teers is niet om steeds meer vraag te creëren. Er zijn ook bedrijven die de vraag
+naar hun producten en diensten van bepaalde groepen kopers juist willen afrem-
+men, of met hun marketingbeleid een andere respons nastreven. Denk aan tele-
+combedrijven die in de verzadigde markt — met een demarketing-beleid — zich niet
+meer actief op de prepaid-bellers richten, maar met hun mobiele abonnementen
+en internetbundels de meest bellende (en winstgevende) klanten aan zich willen
+binden. Of denk aan Jumbo, de supermarktketen die een diervriendelijke marke-
+tingcampagne voerde om het grote publiek te bewegen in plaats van ‘kiloknallers*
+de betere en duurzamere Nieuwe Standaard Kip te kopen. Of aan uitvaartverzeke-
+raar Dela die met haar succesvolle Waarom Wachten?'-campagne mensen aan-
+spoorde iets moois tegen familieleden of vrienden te zeggen ‘nu het nog kan’.
+
+De taak van marketing gaat duidelijk verder dan het beïnvloeden van de vraag.
+Om bijvoorbeeld kopers ook na de aankoop tevreden te houden, besteden klantge-
+richte ondernemers de nodige aandacht aan serviceverlening, klachtenbehandeling,
+relatiebeheer en andere vormen van nazorg. Hiermee werken zij ook doelbewust
+aan hun reputatie. Zij bouwen tegelijkertijd een goede relatie met de kopers op, in
+de hoop op een zodanige respons dat zij vaste klanten worden en het ruilproces
+tussen de koper en verkoper niet beperkt blijft tot een eenmalige transactie. De
+drie genoemde R's (Reputatie, Relatie en Respons) komen straks uitgebreider aan
+bod. Maar we verdiepen ons nu eerst in twee sleuteltaken van marketing in het
+bedrijf.
+
+1.6.1 Eerste taak van marketing
+
+De eerste sleuteltaak van marketing is om de behoeften op de markt op te sporen
+en te inventariseren. Daarom doen bedrijven regelmatig marktonderzoek onder
+potentiële kopers dat inzicht geeft in hun ideeën over ideale producten en diensten
+die op hun wensen inspelen. Dit vergemakkelijkt ook het bepalen van de doel-
+groep. Bovendien zijn hun ideeën een waardevol uitgangspunt voor het ontwikke-
+len van de juiste producten, diensten en marketingstrategieën voor het gekozen
+marktsegment. Figuur 1,11 illustreert deze eerste marketingtaak.
+
+Om met een uitgekiende strategie doeltreffend op het consumentengedrag en
+de vraag naar producten en diensten te kunnen inspelen, moet de marketeer — op
+basis van marktonderzoek — eerst inzicht verwerven in de behoeften en wensen
+van potentiële kopers. Wat is het verband tussen deze begrippen?
+
+Behoeften
+
+Voordat er vraag naar een product of dienst ontstaat waaraan een bedrijf kan vol-
+doen, moet de consument zich van zijn behoeften bewust worden. Behoeften heb-
+ben te maken met een tekort aan iets en met iemands sterke — bijna instinctma-
+tige — neiging om dat tekort op te heffen. Een bedrijf kan deze fundamentele
+gedragsprikkels niet of nauwelijks beïnvloeden. Marketeers creëren dus geen
+behoeften! Dat geldt zowel voor fysiologische — dus aangeboren — behoeften (zoals
+
+INZICHT IN DE MARKETING © Noordhoff Uitgevers bv
+DEEL 1
+FIGUUR 1.11 EERSTE TAAK VAN MARKETING: WENSEN OF BEHOEFTEN OPSPOREN EN
+DOELGROEPBEPALING
+
+ 
+
+Marketinggerichte organisatie
+
+ 
+
+Omschrijven van de doelgroep
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+   
+     
+   
+   
+ 
+
+Marktonderzoek
+naar wensen en
+behoeften
+
+Ideeën
+over ideale
+producten
+en diensten
+
+  
+
+|
+
+ 
+
+Potentiële kopers: de markt
+
+ 
+
+ 
+
+ 
+
+dorst) als voor psychologische behoeften (zoals aan erkenning) die sterk door onze
+cultuur worden beïnvloed.
+
+Wensen
+
+Behoeften kunnen door meer dan één product worden bevredigd. Nadat de consu-
+ment zich van een behoefte bewust wordt en de beschikbare alternatieven heeft
+overwogen, ontwikkelt hij meestal een voorkeur voor een bepaald product. Dat is
+dan het product dat aan zijn wensen of verlangens tegemoet komt. Hij beslist ver-
+volgens wanneer en waar hij dat product koopt en welk bedrag hij ervoor over-
+heeft. Hierbij kunnen de social media, maar ook reclame, promotieacties en andere
+marketinginspanningen de wensen van de koper sterk beïnvloeden.
+
+Consumentengedrag en vraag
+Zodra de consument op basis van zijn behoeften en wensen in actie komt, is er
+sprake van consumentengedrag. Dit kan zich uiten op drie manieren: zoekgedrag
+(het zoeken naar informatie en producten om de juiste keuze te maken), het koop-
+gedrag (alles wat verband houdt met de aankoop) en het gebruik of verbruik van
+het product. Hierin vormt de koop een omslagpunt: er ontstaat dan vraag naar
+bepaalde producten. Met de vraag bedoelen we het aantal producten of diensten Vraag
+dat op basis van bepaalde wensen wordt gekocht om een behoefte te bevredigen.
+Behoeften, wensen en de diverse vormen van consumentengedrag zijn dus
+nauw met elkaar verbonden. Ze maken deel uit van de fasen die consumenten bij
+hun aankopen doorlopen. Het verband tussen behoeften, wensen, het consumen-
+tengedrag en de vraag wordt schematisch weergegeven in figuur 1.12.
+
+© Noordhoff Uitgevers bv WAT IS MARKETING?
+HOOFDSTUK 1
+
+57
+Drie R's
+
+FIGUUR 1.12 VERBAND TUSSEN BEHOEFTEN, WENSEN, CONSUMENTENGEDRAG EN VRAAG
+
+CONSUMENTENGEDRAG
+
+1.6.2 Tweede taak van marketing
+
+Hoewel de aankoop van een product een belangrijke consumentenbeslissing is
+waarvoor de marketeer zich inzet, is dat meestal niet zijn enige doel. Een aankoop
+bevestigt dat de marketeer zijn eerste taak — het achterhalen van de wensen en de
+behoeften van de koper — goed heeft uitgevoerd en de marketingmix met succes
+op de doelgroep heeft afgestemd. Volgens de ‘klassieke’ marketingtheorie is dat
+zijn voornaamste taak. Maar met de toenemende concurrentie gaan veel produc-
+ten, wat hun vormgeving, functies en prijsniveau betreft, steeds meer op elkaar lij-
+ken. En ze zijn — ook online — bijna overal verkrijgbaar. Het product, de prijs en de
+distributie zijn als marketinginstrumenten dan ook minder belangrijk geworden.
+Veel bedrijven proberen zich met hun promotiebeleid van concurrenten te onder
+scheiden, zoals door een creatief gebruik van social media en websites. Maar ook
+daarmee wordt het steeds moeilijker een duurzame voorsprong of machtspositie
+in de markt op te bouwen. Kortom: de vier P's zijn als marketinginstrumenten uiter-
+aard onmisbaar, maar als wapens in de concurrentiestrijd niet voldoende om
+ermee op te vallen, het vertrouwen van consumenten te winnen en het marktaan-
+deel blijvend te verhogen.
+
+Wat zijn dan de nieuwe prioriteiten in het marketingvak? Deze kwamen in onze
+definitie van marketing aan het begin van dit hoofdstuk al naar voren in de vorm
+van de drie R's. We omschreven marketing namelijk als de — op de markt afge-
+stemde — ontwikkeling, prijsbepaling, promotie en distributie van producten, dien-
+sten of ideeën en alle andere activiteiten die de klanten toegevoegde waarde bie-
+den; deze leiden systematisch tot:
+
+e een hogere omzet of andere gewenste Respons,
+
+e een goede Reputatie van de organisatie, en
+
+e een duurzame Relatie met de klant, waarbij alle partijen hun
+doelstellingen bereiken.
+
+Zowel de vier P's als de drie R's zijn sleutelelementen in de tweede taak van mar-
+keting: de uitvoering van een uitgekiend marketingbeleid om, op basis van de wen-
+sen en behoeften van de klant, in te spelen op de vraag. Figuur 1.13 illustreert dit.
+
+INZICHT IN DE MARKETING © Noordhoff Uitgevers bv
+DEEL 1
+FIGUUR 1.13 TWEEDE TAAK VAN MARKETING: INSPELEN OP DE VRAAG MET DE VIER P'S EN DRIE R'S
+
+ 
+
+Marketinggerichte organisatie
+
+- Concepten Inspelen op de vraag
+Omschrijven d itaeki
+EET =— voorproducten — mat een uitge iend
+en diensten marketingbeleid
+
+ 
+
+ 
+
+ 
+
+    
+  
+
+Marktonderzoek Product
+
+naar wensen en
+behoeften
+
+  
+  
+  
+ 
+
+Ideeën
+over ideale
+producten
+en diensten
+
+Repu- Relatie
+
+tatie
+
+  
+
+Respons
+
+ 
+
+ 
+
+Potentiële kopers: de markt
+
+ 
+
+ 
+
+ 
+
+1.6.3 De drie R's
+
+Om niet in de neerwaartse spiraal van de tactische concurrentie (zoals door prijs-
+verlagingen) terecht te komen, moeten marketingmanagers niet alleen de ‘transac-
+tiegerichte’ marketinginstrumenten (de vier P's) optimaal inzetten, maar ook aan-
+dacht besteden aan de reputatie (of het merkimago) van hun bedrijf, de re/atie met
+klanten en de gewenste respons in het ruilproces. We verdiepen ons nu in deze
+drie R's en de inzet ervan.
+
+Reputatie
+
+Een bedrijf ontwikkelt een bepaalde reputatie — het beeld dat de klant van het
+bedrijf en zijn merken heeft — door wat het in vergelijking met de concurrenten
+doet. Om een positieve indruk op de consument te maken, moet het management
+meer doen dan een kwaliteitsproduct verkopen. Het moet de koper ook op lange
+termijn excellente service bieden. Pas als de klant niet alleen tevreden, maar ook
+enthousiast is, zal hij de onderneming een warm hart toedragen. Zo creëert het
+bedrijf een solide reputatie.
+
+Net als de huisarts, die wordt gewaardeerd omdat hij een medicijn voorschrijft
+en twee dagen later de patiënt belt om te vragen hoe het gaat, moet het manage-
+ment alles in het werk stellen om — via sponsoring, publiciteit, social media en per-
+soonlijk contact — de klant te bevestigen dat zijn waardering voor het bedrijf terecht
+is. Waardering is de basis van een goede reputatie en schept het juiste klimaat
+voor een goede relatie tussen de betrokken partijen.
+
+Relatie
+
+Als de meeste merken van een bepaald product ongeveer even goed zijn, is de
+hamvraag voor de koper niet ‘Welk merk koop ik?’ maar ‘Bij wie koop ik het?’ Mar-
+keteers zullen dus achter hun ‘kraam! vandaan moeten komen om de klant te laten
+zien wie ze zijn: welke organisatie en welke mensen staan er achter de producten
+
+© Noordhoff Uitgevers bv WAT IS MARKETING?
+HOOFDSTUK 1
+
+Marketingmanagers
+Relatie
+
+Ruil
+
+of diensten? Voortdurende interactie met de klant, waarbij uiteindelijk een zekere
+binding of loyaliteit ontstaat, is bij het opbouwen van een relatie van grote waarde.
+Een interactieve en consumentvriendelijke website, creatieve inzet van de social
+media en een gratis klantenservicetelefoonlijn zijn effectieve hulpmiddelen bij het
+creëren van klantenbinding.
+
+Om een hechte — of zelfs emotionele — band met hun klanten te creëren, moe-
+ten ondernemers de communicatie verbreden en verdiepen. Dit vergroot de klan-
+tenbinding. Wanneer je bijvoorbeeld met je kapper over diverse onderwerpen een
+goed gesprek kunt voeren, is het des te moeilijker de relatie met hem te verbre-
+ken.
+
+Respons
+
+De consument zoekt afwisseling: hij wil steeds ‘meer en beter’. Als variety seeker
+drinkt hij bijvoorbeeld op maandag Heineken pils, op woensdag Schultenbräu (Aldi),
+op vrijdag Jupiler en in de week daarop weer iets anders. Deze reactie op het
+groeiende aantal producten op de markt maakt het voor bedrijven moeilijker om
+een proces van ruil met een vaste groep klanten tot stand te brengen. Als een pro-
+ducent met een goede reputatie echter een duurzame relatie met de klant heeft
+ontwikkeld, neemt de kans toe dat de consument vaker zijn favoriete merk kiest.
+Hij koopt alleen niet altijd hetzelfde merk.
+
+Een bedrijf probeert met een marketingcampagne bij de consument een
+bepaalde respons uit te lokken. Een zinvolle doelstelling daarbij is om de marktlei-
+der tijdens een bepaald gebruiksmoment te worden. Albert Heijn doet dat bijvoor-
+beeld door vlak voor het weekend veel klein luxebrood aan te bieden en doorde-
+weeks vooral gewone broden. En Douwe Egberts weet uit marktonderzoek dat
+veel Nederlanders ‘s avonds liever andere koffie drinken dan overdag op het werk.
+De consument houdt van afwisseling en kiest wat hem op een bepaald moment
+het beste uitkomt. Dit beïnvloedt uiteraard de gewenste respons van een marke-
+tingcampagne.
+
+Inzet van de drie R's
+
+De marketeer vergroot niet alleen zijn kans op succes door een solide reputatie en
+een duurzame relatie met zijn klanten op te bouwen, maar ook door actief te stre-
+ven naar een bepaalde respons op zijn inspanningen, bijvoorbeeld door het aanbod
+voor klanten te individualiseren. Het bedrijf komt dan — als aanbieder in de transac-
+tie — in een opwaartse spiraal van waardering van de klant (reputatie), bevestiging
+van de klant dat die waardering blijvend is (relatie) en verdieping van de relatie door
+verdere contacten met klanten die leiden tot een positieve respons.
+
+De ruil — dus het creëren en uitwisselen van iets van waarde — moet wel logisch
+aansluiten bij wat de consument van het bedrijf verwacht. Zo zou een slager zijn
+klanten een flesje likeur cadeau kunnen geven, maar daarmee versterkt hij zijn repu-
+tatie van topslagerij niet. Dat doet hij wel door ze — als blijk van waardering —
+een lekker stukje worst te geven. Met een strategische inzet van de drie R's kan
+een bedrijf zich op een positieve manier onderscheiden van zijn minder marketing-
+gerichte concurrenten.
+
+1.6.4 Life time value en customer equity
+
+Sommige bedrijven proberen hun omzet en winst zo snel mogelijk te verhogen. Om
+in hoog tempo te groeien zijn ze voortdurend op zoek naar nieuwe kopers, maar
+kunnen daardoor minder aandacht besteden aan hun bestaande klanten. Helaas ver-
+slechtert dit hun positie op lange termijn. Door een evenwicht te vinden tussen hun
+
+INZICHT IN DE MARKETING © Noordhoff Uitgevers bv
+DEEL 1
+korte- en langetermijnbelangen en de acquisitie van nieuwe afnemers niet ten koste
+te laten gaan van de marketinginspanningen voor de huidige clientèle, kunnen
+managers de waarde van de klantenkring (of klandizie) aanzienlijk verhogen.
+
+De waarde van de klantenkring (ook wel customer equity genoemd) is de finan-
+ciële waarde van de relaties die het bedrijf met zijn klanten onderhoudt. Die omvat
+zowel de winst die nieuwe klanten direct opleveren als de verwachte winst op toe-
+komstige verkopen aan de nieuwe èn bestaande klanten. Een ondernemer kan de
+customer equity verhogen door:
+
+1 de kosten van klantenwerving te verminderen;
+
+2 meer klanten langer te behouden;
+
+3 de winstgevendheid van klanten te verhogen door meer producten en diensten
+met een hoge marge aan hen te verkopen tegen lagere marketingkosten.®
+
+Waarde van de
+klantenkring
+
+De totale waarde van de klantenkring (customer equity) van een bedrijf is de som
+van de life time value van iedere klant. De life time value per klant is de contante
+waarde van de winst die al zijn toekomstige aankopen het bedrijf opleveren, tijdens
+de hele periode waarin hij van het bedrijf blijft kopen. Bij deze winstbijdrage van de
+herhalingsaankopen tellen we nog de winst op van de aankopen van anderen die
+dankzij de aanbevelingen of invloed van de trouwe klant (bijvoorbeeld via social
+media) ook bij hetzelfde bedrijf zijn gaan kopen. Zo is de life time value van een
+loyale klant van een pizzeria gemiddeld €7.000 en van een trouwe BMWe-rijder meer
+dan €700.000.® Medewerkers met inzicht in de life time value realiseren zich dan
+ook dat het kwijtraken van een loyale klant — zelfs als hij geen opinion leader is —
+een veel groter verlies oplevert dan het bedrag van de winst op een of enkele trans-
+acties. Daarom benadrukken steeds meer managers het belang van het opbouwen
+van duurzame relaties met klanten die resulteert in klantentrouw.
+
+Life time value
+
+Klantentrouw
+
+Elke klacht van een klant moet correct
+worden afgehandeld om op zijn behoef-
+ten in te spelen. Helaas onderschatten
+nog veel managers het belang van
+klachtenbehandeling als marketingin-
+strument om klanten tevreden te stel-
+len en tegelijk een goede reputatie op te
+bouwen. De eerste reactie van
+klachtenbehandelaars is vaak defen-
+sief; wat is er gebeurd? Wie z'n schuld
+was het? Wat moet ik eraan doen? Ze
+concentreren zich gelijk op de zakelijke
+kant en houden geen rekening met de
+emotionele kant van het probleem.
+
+fak
+ej)
+
+Maar een klacht heeft meestal een die-
+pere emotionele achtergrond. Daarop
+moet je juist eerst ingaan. Toon dus
+gelijk betrokkenheid: ‘Ach, wat naar
+voor u! Vertel eens wat meer over wat
+er precies is gebeurd! Zoek dan met de
+
+© Noordhoff Uitgevers bv
+
+klant naar een oplossing die niet alleen
+in zijn belang is, maar ook de relatie
+met hem onderstreept: ‘Wat wilt u het
+liefst? Gaat u — als gewaardeerde klant
+van ons — ermee akkoord dat wij u….?’
+
+Een klacht is een negatieve reactie die
+je, met de juiste aanpak, in een posi-
+tieve ervaring kan omzetten. Het
+Chinese dubbelteken voor ‘crisis’ illus-
+treert dat: het ene symbool betekent
+dreiging, het tweede kans. Een klacht is
+een waardevolle kans, want een klant-
+vriendelijke klachtenbehandeling leidt
+tot klantenbinding.
+
+WAT IS MARKETING? 61
+
+HOOFDSTUK 1
+Figuur 1.14 illustreert het verband tussen de marketingstrategie van een bedrijf en
+de toenemende klantentrouw die leidt tot een hogere life time value (per klant) en
+customer equity. Veel marketinggerichte ondernemers vinden customer equity een
+betere maatstaf van de marketingprestaties van het bedrijf dan hun omzet of
+marktaandeel.
+
+FIGUUR 1.14 WAARDEVERHOGING VAN DE KLANTENKRING EN ONDERNEMING
+
+Zorgt voor Leidt tot Verhoogt
+
+Doeltreffende Biedt kopers klant- Vergroot mn de life time Maximaliseert
+marketing- _» toegevoegde » b __deklanten- » t b-__decustomer
+strategie waarde IE trouw Ome Ee equity
+denheid en winst de klant
+1.7 MARKETINGTOEPASSINGEN EN
+VOORUITBLIK
+
+Fast moving consumer
+goods
+
+Consumenten-
+marketing
+
+Businessmarketing
+
+Fabrikanten van dagelijkse gebruiksartikelen — zoals levensmiddelen — hebben bij
+het toepassen van het marketingconcept de spits afgebeten. Veel van de voorbeel-
+den in dit boek gaan dan ook over succesvolle (maar ook mislukte) marketingstra-
+tegieën voor fast moving consumer goods (FMCG, ook wel frequent gekochte
+consumptiegoederen genoemd). Mede dankzij het succes van consumentenmar-
+keting (gericht op eindgebruikers) worden de grondslagen van de marketing steeds
+vaker ook door de overheid, non-profit-instellingen en andere typen organisaties
+toegepast. Daarom sluiten we dit hoofdstuk af met een beknopt overzicht van de
+voornaamste toepassingsgebieden van marketing die verderop in dit boek nog aan
+bod komen.
+
+1.7.1 Toepassingsgebieden van marketing
+
+De fundamentele denk- en werkwijze van marketeers en marketinggerichte mana-
+
+gers is universeel. De sleutel tot succes is om vanuit de markt terug te denken en
+
+altijd klantgericht te werken. Dat geldt niet alleen voor — de op particulieren of huis-
+houdens gerichte — consumentenmarketing, maar ook voor doelgroepen die uit
+organisaties bestaan. Dit laatste toepassingsgebied wordt (business-to-)
+businessmarketing of industriële marketing genoemd. B2b-marketing staat cen-
+traal in paragraaf 4.6 en komt verder aan de orde in diverse cases en voorbeelden
+in dit boek.
+
+Andere belangrijke toepassingsgebieden van marketing zijn:
+
+e Dienstenmarketing: Marketingactiviteiten van aanbieders van — per definitie
+‘ontastbare' — activiteiten (zoals van hotels, musea en luchtvaartmaatschappijen),
+die het ruilproces tussen het dienstverlenende bedrijf en de klant stimuleren.
+
+e Intemationale marketing. Marketingactiviteiten gericht op markten en doel-
+groepen in het buitenland.
+
+e Direct marketing: Marketingbenadering waarbij een bedrijf rechtstreeks
+(online, per direct mail of telefoon) een op de individuele klant afgestemde
+boodschap, ontwikkeld op basis van een database, communiceert aan een zorg-
+vuldig gekozen doelgroep om zo veel mogelijk bestellingen te krijgen en duur
+zame relaties op te bouwen.
+
+e Databasemarketing: Vorm van direct marketing waarbij een bedrijf systema-
+tisch informatie over klanten (waaronder hun bestel- en koopgedrag) verzamelt,
+
+INZICHT IN DE MARKETING © Noordhoff Uitgevers bv
+DEEL 1
+analyseert en opslaat in een database, en die gebruikt om marketingactiviteiten
+en -acties — als maatwerk — op individuele klanten af te stemmen. In de huidige
+tijd waarbij rechtstreekse interactie de norm is, is het gebruik van databases
+eerder regel dan uitzondering.
+
+e Trade marketing. Marketingbeleid van een producent, gericht op detaillisten
+(retailers) die zijn producten al verkopen of overwegen ze in hun assortiment op
+te nemen (detaillistenmarketing).
+
+e Retailmarketing: Marketingactiviteiten van een detailhandelsbedrijf (zoals AH),
+gericht op consumenten, waaronder de analyse van het klantenprofiel, het win-
+kelgedrag en de concurrentiesituatie, de ontwikkeling van een winkelformule en
+retailingmix om de klantenkring aan zich te binden (detailhandelsmarketing).
+
+e Demarketing. Marketingstrategie om de totale vraag (algemene demarketing)
+of die van een specifieke groep afnemers (selectieve demarketing) naar een
+bepaald product tijdelijk of permanent af te remmen, bijvoorbeeld als dit scha-
+delijk is voor de maatschappij, bij schaarste (tropisch hardhout) of een beperkte
+productiecapaciteit.
+
+e Interne marketing. Marketingactiviteiten gericht op medewerkers of afdelingen
+in de eigen organisatie, om de samenwerking te stimuleren en ervoor te zorgen
+dat zij goed geïnformeerd en gemotiveerd zijn om klantgericht te werken.
+
+e Digitale marketing (of online marketing): een deelproces van marketing waar-
+bij organisaties en bestaande of potentiële klanten via internet waarden en pro-
+ducten creëren en met elkaar uitwisselen.
+
+e _Non-profitmarketing. Strategieën van liefdadigheids- en andere maatschappe-
+lijke organisaties zonder winstdoelstellingen waarmee ze inspelen op de behoef-
+ten van hun klanten om hun marktaandeel te verhogen of te beschermen.
+
+Dat negen van de tien toepassingen ook zinvol zijn voor ondernemingen met
+winstdoelstellingen is duidelijk, maar wat heeft marketing eigenlijk te bieden voor
+non-profitorganisaties?
+
+1.7.2 Non-profitmarketing
+
+Hoewel marketing meestal wordt geassocieerd met commerciële activiteiten, zijn
+er ook non-profitorganisaties — zoals onderwijsinstellingen, ziekenhuizen, musea en
+maatschappelijke organisaties — die de grondslagen van de marketing slagvaardig
+toepassen. Datzelfde geldt voor liefdadigheidsinstellingen; denk aan het Rode
+Kruis, Artsen zonder Grenzen, de Dierenbescherming en UNICEF.
+
+De traditionele inkomsten van non-profitorganisaties, waaronder overheidssub-
+sidies, giften en de contributie van leden, staan onder druk. Bovendien is door aller
+lei schandalen het vertrouwen van consumenten in goede doelen beschadigd. Dit
+heeft veel instellingen gestimuleerd (of zelfs gedwongen) om zich te verdiepen in
+non-profitmarketing. Zij ontwikkelen goed uitgedachte campagnes of boren — via Non-profitmarketing
+sponsoring — nieuwe geldstromen in het bedrijfsleven aan om hun dalende inkom-
+sten te compenseren.
+
+Ook voor bedrijven kan zo'n samenwerking rendabel zijn. Uit onderzoek blijkt
+dat consumenten een samenwerkingsverband met een liefdadigheidsorganisatie
+vaak als bewijs voor het tegenwoordig zo gewenste maatschappelijk verantwoord
+ondernemen (MVO) zien. Dit belonen zij met productaankopen. En omdat consu-
+menten ook bereid zijn om sociaal niet-verantwoord gedrag af te straffen met een
+productboycot of negatieve berichten in de social media, neemt de toegevoegde
+waarde van MVO toe.
+
+© Noordhoff Uitgevers bv WAT IS MARKETING? 63
+HOOFDSTUK 1
+64
+
+Toch is de samenwerking tussen een bedrijf of merk en een goededoelenorganisa-
+tie niet altijd opportuun. Voor een optimale ‘match’ moeten beide organisaties
+dezelfde doelgroep of achterban hebben. Als een ondermeming de harten en het
+vertrouwen van een bepaalde groep consumenten wil winnen, moet zij aansluiting
+zoeken bij de idealen van haar klanten. Welke idealen dat zijn, wordt duidelijk uit
+onderzoek naar de goede doelen die haar doelgroep steunt. En door zo’n organisa-
+tie te sponsoren kan zij van dit onderdeel van haar marketinginspanningen een
+nobel project maken. Zo blijken voor Triodos Bank haar eigen klanten en de achter
+ban van Amnesty International een goede match te vormen. Natuurlijk kan een
+marktgerichte liefdadigheidsorganisatie ook zelf het initiatief nemen en — met het
+nodige inzicht in de gebruikte producten of diensten en merkbeleving van haar ach-
+terban — bedrijven benaderen die de meeste toegevoegde waarde uit zo'n alliantie
+kunnen halen. Die zijn waarschijnlijk eerder bereid om in sponsoring te investeren;
+daarop komen wij terug in hoofdstuk 10.
+
+Concluderend is een goed uitgedachte marketingstrategie met concrete doel-
+stellingen ook voor non-profitorganisaties geen overbodige luxe. Als je je als idealist
+alleen maar met ‘een goede zaak’ bezighoudt, komt er weinig geld binnen. Elke
+organisatie die concurrentie ondervindt moet haar markt zorgvuldig onderzoeken,
+analyseren en in verschillende segmenten splitsen. Alleen dan kan zij doeltreffend
+inspelen op de behoeften, attitudes, het gedrag en andere kenmerken van haar
+doelgroepen. Het management moet ook beslissen of elke deelmarkt een aparte
+marketingstrategie rechtvaardigt. Denk aan hbo-instellingen met verschillende oplei-
+dingen voor dagstudenten en avondstudenten. Kortom: een non-profitorganisatie
+moet, net als elk bedrijf, marketinggericht werken om haar toekomst zeker te stellen
+en — te midden van concurrenten — te groeien om haar marktaandeel uit te breiden.
+
+1.7.3 Belang van inzicht in marketing
+
+‘Marketing is een boeiend vak waar iedereen mee te maken heeft, maar het verve-
+lende is dat bijna iedereen denkt er ook veel verstand van te hebben’, zegt profes-
+sor Jan Bunt, emeritus hoogleraar aan de Erasmus Universiteit. Hoewel marketing-
+kennis onmisbaar in het bedrijfsleven is, hebben niet alle managers voldoende
+inzicht in de essentie en technieken van het vakgebied.
+
+Er zijn goede redenen om je studie van marketing serieus te nemen. Ten eerste
+gaan steeds meer organisaties marketinggericht te werk. Dat biedt interessante
+carrièrekansen voor toekomstige marketingmanagers. Maar ook als je niet in de
+marketing gaat werken, heb je in je job waarschijnlijk te maken met collega’s die
+betrokken zijn bij zaken als productontwikkeling, marktonderzoek, distributiekana-
+len of het inzetten van social media. Om daarbij een kritische gesprekspartner te
+zijn en bij de besluitvorming te kunnen meedenken, is inzicht in de grondslagen
+van de marketing essentieel. Bovendien heeft vrijwel iedereen die in een bedrijf
+werkt, met veeleisende klanten te maken. Ook daarom moeten we vertrouwd zijn
+met wat marketing de klant en de organisatie te bieden heeft en ons de manier
+van denken van marketinggerichte managers eigen maken. In die zin is marketing-
+kennis net zoiets als je rijbewijs: dat moet je gewoon hebben, maar daarna moet je
+je kennis in de praktijk brengen om er je voordeel mee te doen.
+
+Maar er is nog een andere reden om ons in de marketing te verdiepen. Omdat
+je als consument dagelijks met de markt te maken hebt, is het belangrijk orn
+inzicht te hebben in de marktwerking en in wat bedrijven met hun strategieën pro-
+beren te bereiken. Is het bijvoorbeeld verstandig om de aanschaf van een nieuw
+model smartphone of tablet uit te stellen, nu ze steeds geavanceerder worden en
+
+INZICHT IN DE MARKETING © Noordhoff Uitgevers bv
+DEEL 1
+in prijs dalen? Doe je er, als consument, goed aan om de tussenhandel te omzeilen
+en zo veel mogelijk producten online te kopen? En als een webshop of andere
+retailer niet goed op je klachten reageert, hoe haal je als klant dan toch je recht?
+Als je je in deze en andere vragen die in de komende hoofdstukken aan bod komen
+verdiept, word je een kritische consument met voldoende inzicht en kennis van
+zaken. En daarvan blijf je altijd profiteren.
+
+1.7.4 Vooruitblik op de inhoud
+
+Hoewel we nu weten hoe het vakgebied marketing in hoofdlijnen in elkaar zit, kun-
+nen we nog niet direct beslissen hoe we de marketinginstrumenten het beste
+inzetten. Ervaren managers bepalen eerst op welk marktsegment zij zich richten en
+welke doelstellingen ze bij elke doelgroep willen bereiken. Omdat deze beslissin-
+gen zowel worden gebaseerd op de ondernemingsstrategie als op informatie uit de
+markt — zoals over concurrenten en het koopgedrag van klanten — verdiepen we
+ons nu eerst in deze onderwerpen. Pas daarna werken we de marketingmix uit.
+
+De volgorde waarin de onderwerpen in Grondslagen van de marketing worden
+besproken, komt in grote lijnen overeen met die van de stappen die marketing-
+managers in hun werk doorlopen. Figuur 1.15 illustreert wat voor onderwerpen in
+welke hoofdstukken achtereenvolgens aan bod komen.
+
+FIGUUR 1.15 HOE DE ONDERDELEN VAN MARKETING IN ELKAAR GRIJPEN
+
+Marketingplanning en Omgevings- Analyse
+(internationale) analyse en van het
+strategieontwikkeling marktonderzoek koopgedrag
+(HOOFDSTUK 2 en 15) (HOOFDSTUK 3 EN 5} (HOOFDSTUK 4 EN 6}
+TOTALE
+MARKETING-
+Marketingconcept BELEID Productbeleid
+(HOOFDSTUK 1) (HOOFDSTUK 7 EN 8)
+Distributiebeleid Prijsbeleid Promotiebeleid
+(HOOFDSTUK (HOOFDSTUK 12} (HOOFDSTUK
+13 en 14) 3, 10 EN 11)
+
+Zo besteden we in de rest van Deel 1 eerst aandacht aan een doeltreffend sys-
+teem van strategieontwikkeling en marketingplanning. Vervolgens komt de omge-
+ving — op meso- en macroniveau — waarin het bedrijf werkt, aan de orde. Daar
+heeft de manager bij de analyse, planning, uitvoering en bijsturing van zijn activitei
+ten constant mee te maken.
+
+Deel 2 heeft betrekking op de analyse van de markt. Zo bestuderen we het
+koopgedrag van klanten (zowel op de consumentenmarkt als op de business-to-
+
+© Noordhoff Uitgevers bv WAT IS MARKETING?
+HOOFDSTUK 1
+businessmarkt) en vergelijken we de voornaamste methoden van marktonderzoek.
+Hoofdstuk 6 biedt richtlijnen voor het segmenteren van de markt (een van de
+meest lucratieve marketingtechnieken), het kiezen van een geschikte doelgroep en
+het ontwikkelen van een succesvolle positioneringsstrategie.
+
+De volgende vier delen gaan over de sleutelelementen van een marketingplan:
+het product, de promotie, de prijsstelling en de distributie. Daarbij verdiepen we
+ons in actuele marketingontwikkelingen en in de meest succesvolle technieken die
+Nederlandse bedrijven bij het uitstippelen van het marketingbeleid toepassen. Ook
+het belang en voorbeelden van succesvolle on/ine marketing komt in het nieuwe
+hoofdstuk 11 aan de orde. Ten slotte staan in het laatste hoofdstuk van dit boek
+internationale marketingplanning, de mondiale marketingomgeving en strategieën
+om buitenlandse markten te betreden centraal.
+
+INZICHT IN DE MARKETING © Noordhoff Uitgevers bv
+DEEL 1
+1.1 BETEKENIS VAN MARKETING
+
+Marketing is de — op de markt afgestemde — ontwik-
+
+keling, prijsbepaling, promotie en distributie van pro-
+
+ducten, diensten of ideeën en alle andere activiteiten
+die de klanten toegevoegde waarde bieden; deze
+leiden systematisch tot een hogere omzet of andere
+gewenste respons, een goede reputatie van de orga-
+nisatie en een duurzame relatie met de klant, waarbij
+alle partijen hun doelstellingen bereiken.
+
+Hoe beter het marketingbeleid wordt afgestemd
+op de voorkeur van de doelgroep, hoe meer succes
+het bedrijf heeft. Hierbij worden vier marketingin-
+strumenten (de vier Ps) ingezet. Deze marketingmix
+bestaat uit:
+
+1 Productbeleid: producten en diensten die inspelen
+op de wensen en behoeften van klanten.
+
+2 Prijsbeleid, waarbij gelet wordt op de prijzen van
+concurrenten en het effect van een verandering
+van de verkoopprijs.
+
+3 Promotiebeleid: potentiële kopers attent maken op
+het product en de voordelen die het biedt.
+
+4 Plaats- of distributiebeleid: de producten moeten op
+het juiste tijdstip op de juiste plaats verkrijgbaar zijn.
+
+Naast de vier P's besteden we ook aandacht aan
+de drie R's: de Reputatie van het bedrijf, de Rela-
+tie met de klant en de beoogde Respons op het
+
+marketingbeleid.
+
+Een veelgehoord commentaar op de vier P's is dat
+ze niet bekeken zijn vanuit een consumentenperspec-
+tief. Een alternatief is het model van de vier C's: een
+aantrekkelijke customer solution tegen acceptabele
+cost to the customer, verkrijgbaar via kanalen die de
+klant convenience bieden, ondersteund door effec-
+tieve wederzijdse communication.
+
+COMMERCIËLE ECONOMIE OF
+MARKETING?
+
+Het vak marketing — soms commerciële economie
+genoemd — heeft raakvlakken met diverse weten-
+schappen. Economie, maar ook psychologie, socio-
+logie en statistiek hebben zinvolle bouwstenen
+geleverd voor de ontwikkeling van marketing en
+
+© Noordhoff Uitgevers bv
+
+marktonderzoek. Door het mul/tidisciplinaire karakter
+van het vakgebied zijn deskundige marketeers van alle
+markten thuis.
+
+1.3 INVALSHOEKEN VAN MARKETING
+
+We kunnen marketing bestuderen vanuit verschillende
+
+invalshoeken:
+
+« Macromarketing: de maatschappij waarin het
+ruilproces plaatsvindt staat centraal.
+
+e Mesomarketing: gezien vanuit een bedrijfstak, als
+schakel in de bedrijfskolom.
+
+© Micromarketing: het marketingbeleid van een orga-
+nisatie (‘marketingmanagement’, de invalshoek van
+dit boek).
+
+1.4 ONTWIKKELING VAN DE
+
+MARKETINGGEDACHTE
+
+De ontwikkeling van de marketinggedachte volgt op
+
+de productie-, de product- en de verkoopgerichte
+
+fasen die de meeste bedrijfstakken hebben doorlo-
+
+pen. Bij een marketingoriëntatie vormen niet het
+
+bedrijf en zijn producten, maar de klanten het uit-
+
+gangspunt van de strategieontwikkeling. Op hun wen-
+
+sen en behoeften moet de onderneming — conform
+
+het marketingconcept — doeltreffend inspelen. Via digi-
+
+tale duurzame marketing kunnen bedrijven consu-
+
+menten stimuleren tot duurzame consumptie.
+
+1.5 HET MARKETINGCONCEPT
+
+Het marketingconcept is een mindset van de manager
+
+die stelt dat het inspelen op de wensen en behoeften
+
+van de koper en het opbouwen van een langdurige
+relatie met de klant de sleutel is tot succes. De uit-
+gangspunten zijn:
+
+e Consumentgericht beleid. Creëer tevreden klanten
+door je in de consument te verplaatsen en perfecte
+klantenservice te bieden.
+
+e Geïntegreerde aanpak. Stem alle in het marketing-
+plan omschreven activiteiten op elkaar af.
+
+e Breed omschreven werkterrein: formuleer je
+business definition en missie niet vanuit je produc-
+ten, maar ruimer, in termen van de behoeften van
+de klanten.
+
+WAT IS MARKETING? 67
+HOOFDSTUK 1
+e Concurrentieanalyse: inzicht in de eigen sterktes
+en zwaktes en in de kansen en bedreigingen op de
+markt is noodzakelijk om je concurrentievoordeel
+te benutten.
+
+e Marktonderzoek en doelgroepkeuze: voor het
+kiezen en bewerken van de juiste marktsegmenten
+is informatie over koopgedrag en voorkeuren
+essentieel.
+
+e _Winstbijdrage: voor de continuïteit en groei van het
+bedrijf is voldoende winst belangrijker dan een
+hogere omzet.
+
+1.6 SLEUTELTAKEN VAN MARKETING
+
+1 Marktonderzoek voor een beter inzicht in de wen-
+sen en behoeften op de markt en om te bepalen
+voor welke doelgroep we producten en diensten
+kunnen ontwikkelen.
+
+2 Inspelen op de vraag met een uitgekiend marke-
+tingbeleid (de vier P's) dat leidt tot de gewenste
+respons, een goede reputatie en een duurzame
+relatie met klanten.
+
+68 INZICHT IN DE MARKETING
+DEEL 1
+
+3 Een langdurige relatie met trouwe klanten leidt tot
+meer omzet en winst en verhoogt de life time
+value van individuele klanten. Dit verhoogt ook de
+customer equity. de financiële waarde van de klan-
+tenkring van het bedrijf.
+
+MARKETINGTOEPASSINGEN EN
+VOORUITBLIK
+
+De grondslagen van de marketing worden niet alleen
+door bedrijven, maar ook door de overheid, liefdadig-
+heidsinstellingen en andere non-profitorganisaties
+toegepast. Daarnaast is er een toenemende
+belangstelling voor toepassingsgebieden zoals
+databasemarketing, trade marketing, retail marketing,
+digitale marketing en internationale marketing.
+
+1.7
+
+© Noordhoff Uitgevers bv
+Hoe zou je de betekenis van marketing uitleg-
+gen aan iemand die er niet mee vertrouwd is?
+
+Niet iedereen weet wat marketing precies
+inhoudt. Dat blijkt bijvoorbeeld uit de volgende
+uitspraken:
+
+e Marketing is gewoon een ander woord voor
+verkopen.
+
+e Het doel van marketing is om mensen pro-
+ducten te laten kopen die ze niet echt willen
+of nodig hebben.
+
+e Marketing heeft alleen zin als het aanbod
+groter is dan de vraag.
+
+e Marketing is minder belangrijk dan de
+andere activiteiten in een bedrijf.
+
+Als iemand in een gesprek zo'n opmerking zou
+
+plaatsen, met welke argumenten reageer je
+
+dan?
+
+Hoe kan een producent van frisdranken — in
+het kader van het maatschappelijk marketing-
+concept — met zijn keuze van verpakkingen een
+goed evenwicht bereiken tussen de belangen
+van de consument, de maatschappij en het
+bedrijf zelf?
+
+a Welke factoren waren ooit van invloed op de
+omschakeling van een productie- naar een
+verkooporiëntatie?
+
+b Vroeger waren veel bedrijven productiege-
+richt, en zelfs nu zijn er nog organisaties die
+niet marketinggericht te werk gaan. Hoe
+verklaar je dit?
+
+© Noordhoff Uitgevers bv
+
+Noem enkele argumenten om de directie van
+een niet-marketinggericht bedrijf ervan te
+overtuigen dat het marketingconcept voor een
+gezonde bedrijfsvoering essentieel is.
+
+Waarom zijn er, ondanks de toepassing van het
+marketingconcept, toch nog veel producten die
+mislukken?
+
+Gaat de onderwijsinstelling waar je studeert
+marketinggericht te werk? Beschrijf de vier
+marketinginstrumenten van deze organisatie.
+
+Maak een korte conceptvragenlijst (van onge-
+veer vijf vragen) om te bepalen in hoeverre een
+bedrijf erin slaagt om zijn klanten tevreden te
+stellen.
+
+Een landelijke keten van kapsalons stelt zich
+ten doel om de beste kapper van Nederland te
+worden. De oprichter van de keten huurt jou in
+als marketingconsultant. Wat zou je hem advi-
+seren om — vanuit een marketingoptiek — zijn
+ambitieuze doelstelling te realiseren?
+
+Welke maatregelen kan een autoschadeherstel-
+bedrijf nemen om zo klantgericht mogelijk te
+opereren?
+
+WAT IS MARKETING? 69
+
+HOOFDSTUK 1
+

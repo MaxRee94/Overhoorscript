@@ -79,4 +79,6 @@ def get_content():
 
 	print('dict:', term_dict)
 	return term_dict
-	
+
+if __name__ == '__main__':
+	content = get_content()
