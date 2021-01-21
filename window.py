@@ -20,19 +20,26 @@ class GUI(qg.QDialog):
         self.mainLayout = qg.QVBoxLayout()
         self.setLayout(self.mainLayout)
         
-        # browse widgets
-        self.question = utils.Label_custom('Wat is dit?')
+        # question widgets
+        self.question = utils.Label_custom('')
         self.txtfield = qg.QLineEdit()
         
-        # add to browsing layout
+        # add to main layout
         self.mainLayout.addWidget(self.question)
         self.mainLayout.addWidget(self.txtfield)
         
         # main layout button
-        self.makePlayblast_button = utils.PushButton_custom('Check', 'SansSerif', 12, [60, 140, 60])
+        self.check_button = utils.PushButton_custom('Check', 'SansSerif', 12, [60, 140, 60])
         
         # add makePlayblast button to main layout
-        self.mainLayout.addWidget(self.makePlayblast_button)
+        self.mainLayout.addWidget(self.check_button)
+
+    def replace_question(self, question):
+        print('question:', question)
+        self.question.setText(question)
+
+    def reset_textfield(self):
+        self.txtfield.setText("")
 
     def closeEvent(self, event=None):
         self.close()
@@ -40,32 +47,14 @@ class GUI(qg.QDialog):
         del self
 
         print('GUI closed.')
-
-
-class Controller(qc.QObject):
-    def __init__(self):
-        qc.QObject.__init__(self)
-        self.gui = GUI()
-
-    def setup(self):
-        self.connect_button()
-        self.gui.show()
-
-    def connect_button(self):
-        self.gui.makePlayblast_button.clicked.connect(self.button_click_event)
-
-    def button_click_event(self):
-        answer = self.gui.txtfield.text()
-        print('button clicked. input:', answer)
         
 
 def main():
-    controller = Controller()
-    controller.setup()
-    return controller
+    gui = GUI()
+    return gui
 
 if __name__ == '__main__':
     app = qg.QApplication(sys.argv)
-    controller = main()
+    gui = main()
     app.exec_()
 

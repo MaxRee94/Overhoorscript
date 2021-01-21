@@ -11,7 +11,7 @@ class Content(dict):
 
     file = "informatiekunde_begrippen_RAW_v02.txt"
     error_patterns = [r"\]", r"\[", r"\[([000-999])\]", r"(\n)", r"[A-Z]$"]
-    contatenation_indicators = [r"(\-)$"]
+    concatenation_indicators = [r"(\-)$"]
     redflags = ["Zie octrooi"]
     hotfixes = [(" 14f4 Kbps", " 144 Kbps")]
 
@@ -39,7 +39,7 @@ class Content(dict):
         return line
 
     def extract_concat_indicator(self, line):
-        for indicator in self.contatenation_indicators:
+        for indicator in self.concatenation_indicators:
             if re.search(indicator, line):
                 return indicator
 
@@ -77,11 +77,6 @@ class Content(dict):
                     # it means the current word is the start of the definition.
                     if (not words[i+1][0].isupper()) and (not words[i+2][0].isupper()):
                          definition = word + " "
-                    else:
-                        if "B2B-e-commerce" in sentence:
-                            print("words in sentence:", words)
-                            print("word '{}' capitalized but next word '{}' and/or word after that '{}' "
-                                  "not capitalized.".format(word, words[i+1], words[i+2]))
 
         return definition
 
@@ -116,14 +111,13 @@ class Content(dict):
         self.data = filtered_data
 
     def implement_hotfixes(self):
-        hotfixed_data = self.data.copy()
-        for sentence in self.data:
-            newsentence = sentence
+        hotfixed_data = {}
+        for term, definition in self.data.items():
             for hotfix in self.hotfixes:
-                newsentence = sentence.replace(
+                definition = definition.replace(
                     hotfix[0], hotfix[1])
 
-            hotfixed_data.append(newsentence)
+            hotfixed_data[term] = definition
 
         self.data = hotfixed_data                    
 
@@ -160,13 +154,20 @@ class Content(dict):
         self.data = clean_data
 
 
-content = Content()
-content.init_fullpath()
-content.init_raw_data()
-content.remove_data_errors()
-content.concatenate_lines()
-content.remove_extraneous_sentences()
-content.implement_hotfixes()
-content.separate_datapairs()
+def main():
+    content = Content()
+    content.init_fullpath()
+    content.init_raw_data()
+    content.remove_data_errors()
+    content.concatenate_lines()
+    content.remove_extraneous_sentences()
+    content.separate_datapairs()
+    content.implement_hotfixes()
 
-print("Structured data:", content.data)
+    #print("Structured data:", content.data)
+
+    return content.data
+
+if __name__ == "__main__":
+    content = main()
+    print(content.data)
