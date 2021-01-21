@@ -87,28 +87,25 @@ class Content(dict):
 
     def extract_term(self, sentence, definition):
         if not definition:
-            print("sentence without definition:", sentence)
-        return sentence.split(definition[0:15])[0]
+            return sentence
+        else:
+            return sentence.split(definition[0:15])[0]
 
     def separate_datapairs(self):
         datapairs = {}
         i = 0
         for sentence in self.data:
             i += 1
-            definition = self.extract_definition(sentence)
-            if not definition:
-                print("- no def for sentence:", sentence)
-                print("- previous term:", term)
-                continue
+            _definition = self.extract_definition(sentence)
+            _term = self.extract_term(sentence, _definition)
+            if not _definition:
+                datapairs[term] = definition + _term
+            else:
+                term = _term
+                definition = _definition
+                datapairs[term] = definition
 
-            term = self.extract_term(sentence, definition)
-
-            datapairs[term] = definition
-
-        #print(list(datapairs.keys()))
-        #print(len(list(datapairs.keys())))
         self.data = datapairs
-        #print("--- len data:", len(self.data))
 
     def remove_extraneous_sentences(self):
         filtered_data = self.data.copy()
