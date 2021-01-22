@@ -97,7 +97,7 @@ class Examinator():
         answer = answer.lower()
         print("Your answer:", answer)
 
-        word_matches = [word.lower() in correct_answer.split(" ") 
+        word_matches = [word != "" and word in correct_answer.split(" ")
                         for word in answer.split(" ")]
 
         print("word matches:", word_matches)
