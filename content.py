@@ -5,6 +5,8 @@ import pathlib
 import os
 import re
 
+import workio
+
 
 class Content(dict):
     """Stores content-related data."""
@@ -14,6 +16,7 @@ class Content(dict):
     concatenation_indicators = [r"(\-)$"]
     redflags = ["Zie octrooi"]
     hotfixes = [(" 14f4 Kbps", " 144 Kbps")]
+    part_amount = 15
 
     def __init__(self):
         super().__init__(self)
@@ -153,6 +156,21 @@ class Content(dict):
 
         self.data = clean_data
 
+    def split_into_parts(self):
+        part_length = len(self.data) / self.part_amount
+        part_dictionary = {}
+        part = {}
+        i = 1
+        for term, definition in self.data.items():
+            if len(part) <= part_length:
+                part[term] = definition
+            else:
+                part_dictionary["Part {}".format(i)] = part
+                i += 1
+                part = {}
+
+        self.data = part_dictionary
+
 
 def main():
     content = Content()
@@ -163,6 +181,7 @@ def main():
     content.remove_extraneous_sentences()
     content.separate_datapairs()
     content.implement_hotfixes()
+    content.split_into_parts()
 
     #print("Structured data:", content.data)
 
@@ -170,4 +189,5 @@ def main():
 
 if __name__ == "__main__":
     content = main()
-    print(content.data)
+    session = workio.Session()
+    session.write_curriculum(content)
