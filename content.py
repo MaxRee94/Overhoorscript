@@ -15,7 +15,7 @@ class Content(dict):
     error_patterns = [r"\]", r"\[", r"\[([000-999])\]", r"(\n)", r"[A-Z]$"]
     concatenation_indicators = [r"(\-)$"]
     redflags = ["Zie octrooi"]
-    hotfixes = [(" 14f4 Kbps", " 144 Kbps")]
+    hotfixes = [(" 14f4 Kbps", " 144 Kbps"), ("begrippenlijst", "")]
     part_amount = 15
 
     def __init__(self):
