@@ -9,6 +9,30 @@ import os.path
 #import Test_v01 as content
 
 
+def set_multiline_text(multiline_text, sentence_width, layout=None, reveal=100):
+    clear_layout(layout)
+
+    sentence = ""
+    for word in multiline_text.split(" "):
+        if reveal < 100:
+            if random.randint(0, 100) > reveal:
+                word = len(word) * "."
+
+        sentence += word + " "
+        if len(sentence) >= sentence_width:
+            sentence_label = utils.Label_custom(sentence)
+            sentence_label.setFont(qg.QFont("Arial", 14))
+            layout.addWidget(sentence_label)
+            sentence = ""
+
+    sentence_label = utils.Label_custom(sentence)
+    arial_font = qg.QFont("Arial", 16) 
+    sentence_label.setFont(arial_font)
+    layout.addWidget(sentence_label)
+
+    return layout
+
+
 def clear_layout(layout):
     for i in reversed(range(layout.count())):
         layout.itemAt(i).widget().setParent(None)
@@ -49,7 +73,6 @@ class TestGUI(qw.QDialog):
         self.resulttext = qw.QLabel("")
         self.resulttext.setFont(self.arial_font)
         self.spacer = qw.QLabel("")
-        self.sentence_label = None
 
         # correction layout
         self.correction_layout = qw.QVBoxLayout()
@@ -91,31 +114,10 @@ class TestGUI(qw.QDialog):
             self.hint_button.setEnabled(False)
 
     def set_questiontext(self, questiontext, reveal=100):
-        print("question text:", questiontext)
-        self.set_multiline_text(questiontext, self.question_layout, reveal)
+        self.question_layout = set_multiline_text(questiontext, self.sentence_width, self.question_layout, reveal)
 
     def set_correctiontext(self, correctiontext, reveal=100):
-        self.set_multiline_text(correctiontext, self.correction_layout, reveal)
-
-    def set_multiline_text(self, multiline_text, layout=None, reveal=100):
-        clear_layout(self.correction_layout)
-
-        sentence = ""
-        for word in multiline_text.split(" "):
-            if reveal < 100:
-                if random.randint(0, 100) > reveal:
-                    word = len(word) * "."
-
-            sentence += word + " "
-            if len(sentence) >= self.sentence_width:
-                self.sentence_label = utils.Label_custom(sentence)
-                self.sentence_label.setFont(self.arial_font)
-                layout.addWidget(self.sentence_label)
-                sentence = ""
-
-        self.sentence_label = utils.Label_custom(sentence)
-        self.sentence_label.setFont(self.arial_font)
-        layout.addWidget(self.sentence_label)
+        self.correction_layout = set_multiline_text(correctiontext, self.sentence_width, self.correction_layout, reveal)
 
     def reset_textfields(self):
         self.check_button.setText("Check")
@@ -138,7 +140,8 @@ class TestGUI(qw.QDialog):
             self.resulttext.setStyleSheet(self.orange_style)
 
     def set_qtracker(self, total_questions, finished_questions):
-        self.track_label.setText("{} / {}".format(finished_questions+1, total_questions))
+        self.track_label.setText("{} / {}".format(finished_questions+1,
+                                                  total_questions))
 
     def closeEvent(self, event=None):
         self.close()
@@ -153,7 +156,7 @@ class StartMenu(qw.QDialog):
     green_style = "QLabel { background-color : green; color : white; }"
     orange_style = "QLabel { background-color : orange; color : black; }"
     arial_font = qg.QFont("Arial", 16) 
-    sentence_width = 130
+    sentence_width = 100
 
     def __init__(self, title="subject placeholder"):
         qw.QDialog.__init__(self)
@@ -161,21 +164,34 @@ class StartMenu(qw.QDialog):
         # window setup
         self.setWindowTitle("Test {} - Start Menu.".format(title))
         self.setWindowFlags(qc.Qt.WindowStaysOnTopHint)
-        self.setMinimumWidth(800)
+        self.setMinimumWidth(1200)
         
         # main layout
         self.mainLayout = qw.QVBoxLayout()
         self.setLayout(self.mainLayout)
+        self.spacer = qw.QSpacerItem(10, 10, qw.QSizePolicy.Expanding)
+
+        # search term option
+        self.search_layout = qw.QHBoxLayout()
+        self.search_button = utils.PushButton_custom("Search", 'Arial', 12, [100, 140, 60])
+        self.search_field = qw.QLineEdit()
+        self.search_field.setFont(self.arial_font)
+        self.search_layout.addWidget(self.search_field)
+        self.search_layout.addWidget(self.search_button)
+        self.search_result_layout = qw.QVBoxLayout()
+        self.mainLayout.addLayout(self.search_result_layout)
+        self.mainLayout.addLayout(self.search_layout)
+        self.mainLayout.addSpacerItem(self.spacer)
 
         # question mode
         self.questionmode_label = qw.QLabel("Question mode:")
         self.questionmode_label.setFont(self.arial_font)
         self.questionmode_button = utils.PushButton_custom("Definition - Term", 
                                                            'Arial', 12, [60, 140, 60])
-        self.spacer = qw.QLabel("")
+
         self.mainLayout.addWidget(self.questionmode_label)
         self.mainLayout.addWidget(self.questionmode_button)
-        self.mainLayout.addWidget(self.spacer)
+        self.mainLayout.addSpacerItem(self.spacer)
 
         # parts selection
         self.instruction_label = qw.QLabel("Please select one of the following test parts:")
@@ -185,6 +201,10 @@ class StartMenu(qw.QDialog):
         # parts layout
         self.parts_layout = qw.QVBoxLayout()
         self.mainLayout.addLayout(self.parts_layout)
+
+    def set_search_result(self, search_result):
+        print(' search result:', search_result)
+        set_multiline_text(search_result, self.sentence_width, self.search_result_layout, reveal=100)
 
     def add_parts_buttons(self, parts):
         clear_layout(self.parts_layout)

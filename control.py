@@ -33,7 +33,7 @@ class Controller(qc.QObject):
         del self.start_menu
 
         # init session-curriculum and test menu
-        self.exam.init_curriculum(part_number)
+        self.exam.update_curriculum(part_number)
         self.exam.update()
         self.update_gui()
         self.test_gui.show()
@@ -44,8 +44,6 @@ class Controller(qc.QObject):
         # ---------------------------------------------- #
         self.test_gui.check_button.clicked.connect(self.on_check_clicked)
         self.test_gui.hint_button.clicked.connect(self.on_hint_clicked)
-
-        # close event
         self.test_gui.closed.connect(self.exam.close)
 
         # ---------------------------------------------- #
@@ -53,6 +51,9 @@ class Controller(qc.QObject):
         # ---------------------------------------------- #
         # question mode
         self.start_menu.questionmode_button.clicked.connect(self.on_questionmode_clicked)
+
+        # search option
+        self.start_menu.search_button.clicked.connect(self.execute_search)
 
         # parts buttons
         parts_layout = self.start_menu.parts_layout
@@ -62,6 +63,11 @@ class Controller(qc.QObject):
             for j in range(parts_row.count()):
                 button = parts_row.itemAt(j).widget()
                 button.clicked.connect(partial(self.start_test, i*rows_count+j+1))
+
+    def execute_search(self):
+        search_query = self.start_menu.search_field.text().capitalize()
+        search_result = self.exam.get_search_result(search_query)
+        self.start_menu.set_search_result(search_result)
 
     def on_questionmode_clicked(self):
         if self.exam.question_mode == "term":
@@ -124,9 +130,9 @@ class Examinator():
         self.match_threshold = 70.0
         self.session = workio.Session()
         self.question_mode = "definition"
-        self.init_curriculum()
+        self.update_curriculum()
 
-    def init_curriculum(self, part_number=None):
+    def update_curriculum(self, part_number=None):
         if part_number is None:
             self.curriculum_total = self.session.get_curriculum()
             return
@@ -146,6 +152,18 @@ class Examinator():
             reversed_curriculum[definition] = term
 
         return reversed_curriculum
+
+    def get_search_result(self, search_query):
+        result = ""
+        print(" search query:", search_query)
+        for part in self.curriculum_total.values():
+            #print("keys:", list(part.keys()))
+            if search_query in part.keys():
+                return part[search_query]
+            elif "{} ".format(search_query) in part.keys():
+                return part["{} ".format(search_query)]
+
+        return result
 
     def close(self):
         log = {self.part_name: self.log}
@@ -184,21 +202,41 @@ class Examinator():
 
         self.correct_answer = self.curriculum_session[self.question]
 
+    def get_all_word_concatenations(self, correct_words):
+        all_word_concatenations = []
+        for word1 in correct_words:
+            for word2 in correct_words:
+                if not word1 == word2:
+                    all_word_concatenations.append(word1+word2)
+
+        return all_word_concatenations
+
+    def get_match_percentage(self, word_matches, correct_words_amnt):
+        return (word_matches / correct_words_amnt)  * 100.0
+
+    def get_word_matches(self, correct_words, answer):
+        conventional_matches =  [word != "" and word in correct_words
+                                 for word in answer.split(" ")]
+        concatenation_matches = [word != "" and word in correct_words
+                                 for word in self.get_all_word_concatenations(answer.split(" "))]
+
+        return sum(conventional_matches) + sum(conventional_matches)
+
     def match(self, answer, correct_answer):
         correct_answer = correct_answer.lower()
         answer = answer.lower()
         print("Your answer:", answer)
 
         correct_words = [word for word in correct_answer.split(" ") if word]
-        correct_words_without_spaces = [word.replace(" ", "") for word in correct_words]
-        word_matches = [word != "" and (word in correct_words
-                                        or word.replace(" ", "") in correct_words
-                                        or word in correct_words_without_spaces)
-                        for word in answer.split(" ")]
+        word_matches = self.get_word_matches(correct_words, answer)
+        match_percentage = self.get_match_percentage(word_matches, correct_words_amnt)
+
+        if match_percentage < self.match_threshold:
+            word_concatenations = self.get_all_word_concatenations(correct_words)
+            word_matches = self.get_word_matches(word_matches, answer)
+            match_percentage = self.get_match_percentage(word_matches, len(correct_words))
 
         print("Word matches:", word_matches)
-
-        match_percentage = (sum(word_matches) / len(correct_words))  * 100.0
         print("Match percentage:", match_percentage)
 
         return (match_percentage >= self.match_threshold)
