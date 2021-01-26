@@ -179,7 +179,7 @@ class Examinator():
         print("-- Evaluating answer:", answer, "to question", 
               self.question)
 
-        self.total_question_count += 1
+        self.total_question_count = self.total_question_count + 1
 
         if self.match(answer, self.correct_answer):
             print("-- The answer was correct!")
@@ -214,15 +214,23 @@ class Examinator():
     def get_match_percentage(self, word_matches, correct_words_amnt):
         return (word_matches / correct_words_amnt)  * 100.0
 
-    def get_word_matches(self, correct_words, answer):
-        conventional_matches =  [word != "" and word in correct_words
-                                 for word in answer.split(" ")]
-        concatenation_matches = [word != "" and word in correct_words
-                                 for word in self.get_all_word_concatenations(answer.split(" "))]
-        dash_matches = [word != "" and word in correct_words
-                        for word in self.get_all_word_concatenations(answer.split(" "), "-")]
+    def _get_word_matches(self, correct_words, answer_words):
+        return [word != "" and word in correct_words for word in answer_words]
 
-        return sum(conventional_matches) + sum(concatenation_matches) + sum(dash_matches)
+    def get_word_matches(self, correct_words, answer, recurse=True):
+        conventional_matches = self._get_word_matches(correct_words, answer.split(" "))
+        concatenation_matches = self._get_word_matches(correct_words, self.get_all_word_concatenations(answer.split(" ")))
+        dash_matches = self._get_word_matches(correct_words, self.get_all_word_concatenations(answer.split(" "), "-"))
+        non_dash_matches = 0
+        if recurse:
+            non_dash_answer_matches = self.get_word_matches(correct_words, answer.replace("-", ""), recurse=False)
+            non_dash_corrections = []
+            for word in correct_words:
+                non_dash_corrections.extend(word.split("-"))
+            non_dash_correction_matches = self.get_word_matches(non_dash_corrections, answer.replace("-", ""), recurse=False)
+            non_dash_matches = non_dash_answer_matches + non_dash_correction_matches
+
+        return sum(conventional_matches) + sum(concatenation_matches) + sum(dash_matches) + non_dash_matches
 
     def match(self, answer, correct_answer):
         correct_answer = correct_answer.lower()
