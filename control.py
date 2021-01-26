@@ -202,12 +202,12 @@ class Examinator():
 
         self.correct_answer = self.curriculum_session[self.question]
 
-    def get_all_word_concatenations(self, correct_words):
+    def get_all_word_concatenations(self, words, inbetween=""):
         all_word_concatenations = []
-        for word1 in correct_words:
-            for word2 in correct_words:
+        for word1 in words:
+            for word2 in words:
                 if not word1 == word2:
-                    all_word_concatenations.append(word1+word2)
+                    all_word_concatenations.append(word1+inbetween+word2)
 
         return all_word_concatenations
 
@@ -219,8 +219,10 @@ class Examinator():
                                  for word in answer.split(" ")]
         concatenation_matches = [word != "" and word in correct_words
                                  for word in self.get_all_word_concatenations(answer.split(" "))]
+        dash_matches = [word != "" and word in correct_words
+                        for word in self.get_all_word_concatenations(answer.split(" "), "-")]
 
-        return sum(conventional_matches) + sum(conventional_matches)
+        return sum(conventional_matches) + sum(concatenation_matches) + sum(dash_matches)
 
     def match(self, answer, correct_answer):
         correct_answer = correct_answer.lower()
@@ -229,12 +231,14 @@ class Examinator():
 
         correct_words = [word for word in correct_answer.split(" ") if word]
         word_matches = self.get_word_matches(correct_words, answer)
-        match_percentage = self.get_match_percentage(word_matches, correct_words_amnt)
+        match_percentage = self.get_match_percentage(word_matches, len(correct_words))
 
         if match_percentage < self.match_threshold:
-            word_concatenations = self.get_all_word_concatenations(correct_words)
-            word_matches = self.get_word_matches(word_matches, answer)
-            match_percentage = self.get_match_percentage(word_matches, len(correct_words))
+            correct_concatenations = self.get_all_word_concatenations(correct_words)
+            _word_matches = self.get_word_matches(correct_concatenations, answer)
+            _match_percentage = self.get_match_percentage(word_matches, len(correct_words))
+            if _match_percentage > match_percentage:
+                match_percentage = _match_percentage
 
         print("Word matches:", word_matches)
         print("Match percentage:", match_percentage)

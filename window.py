@@ -21,7 +21,7 @@ def set_multiline_text(multiline_text, sentence_width, layout=None, reveal=100):
         sentence += word + " "
         if len(sentence) >= sentence_width:
             sentence_label = utils.Label_custom(sentence)
-            sentence_label.setFont(qg.QFont("Arial", 14))
+            sentence_label.setFont(qg.QFont("Arial", 16))
             layout.addWidget(sentence_label)
             sentence = ""
 
