@@ -169,7 +169,7 @@ class StartMenu(qw.QDialog):
         # main layout
         self.mainLayout = qw.QVBoxLayout()
         self.setLayout(self.mainLayout)
-        self.spacer = qw.QSpacerItem(10, 10, qw.QSizePolicy.Expanding)
+        self.spacer = qw.QLabel("")
 
         # search term option
         self.search_layout = qw.QHBoxLayout()
@@ -181,7 +181,7 @@ class StartMenu(qw.QDialog):
         self.search_result_layout = qw.QVBoxLayout()
         self.mainLayout.addLayout(self.search_result_layout)
         self.mainLayout.addLayout(self.search_layout)
-        self.mainLayout.addSpacerItem(self.spacer)
+        self.mainLayout.addWidget(self.spacer)
 
         # question mode
         self.questionmode_label = qw.QLabel("Question mode:")
@@ -191,7 +191,7 @@ class StartMenu(qw.QDialog):
 
         self.mainLayout.addWidget(self.questionmode_label)
         self.mainLayout.addWidget(self.questionmode_button)
-        self.mainLayout.addSpacerItem(self.spacer)
+        self.mainLayout.addWidget(self.spacer)
 
         # parts selection
         self.instruction_label = qw.QLabel("Please select one of the following test parts:")
