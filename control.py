@@ -104,7 +104,7 @@ class Controller(qc.QObject):
 
         if self.state == "question": 
             self.test_gui.set_qtracker(self.exam.total_question_count,
-                                       len(self.exam.log.values()))
+                                       self.exam.answered_question_count)
             self.test_gui.enable_textfield(True)  
             self.test_gui.reset_textfields() 
             self.test_gui.set_questiontext(self.exam.question)
@@ -126,6 +126,7 @@ class Examinator():
         self.result = None
         self.log = {}
         self.total_question_count = 0
+        self.answered_question_count = 0
         self.part_name = ""
         self.match_threshold = 70.0
         self.session = workio.Session()
@@ -179,7 +180,7 @@ class Examinator():
         print("-- Evaluating answer:", answer, "to question", 
               self.question)
 
-        self.total_question_count = self.total_question_count + 1
+        self.answered_question_count += 1
 
         if self.match(answer, self.correct_answer):
             print("-- The answer was correct!")
@@ -189,8 +190,9 @@ class Examinator():
         else:
             print("-- Incorrect. The correct answer is:\n",
                   self.correct_answer)
-            self.questions.append(self.question)
+            #self.questions.append(self.question)
             self.result = False
+            self.total_question_count = self.total_question_count + 1
             self.update_log("mistakes")
 
     def get_parts(self):

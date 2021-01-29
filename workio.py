@@ -57,6 +57,6 @@ class Session():
 				session_data = self.get_data(session_file)
 
 				if part in session_data.keys():
-					session_amount += int(round(len(session_data.values()) / curriculum_length, 1))
+					session_amount += round(len(session_data.values()) / curriculum_length, 1)
 
 		return session_amount
