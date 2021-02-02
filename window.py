@@ -51,7 +51,7 @@ class TestGUI(qw.QDialog):
 
         # window setup
         self.setWindowTitle("Test: {}".format(title))
-        self.setWindowFlags(qc.Qt.WindowStaysOnTopHint)
+        #self.setWindowFlags(qc.Qt.WindowStaysOnTopHint)
         self.setMinimumWidth(1400)
         
         # main layout
