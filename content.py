@@ -172,8 +172,8 @@ class Content(dict):
         self.data = part_dictionary
 
 
-def main():
-    content = Content()
+def get_informatiekunde_data():
+    content = BedrijfsInformatieSystemenContent()
     content.init_fullpath()
     content.init_raw_data()
     content.remove_data_errors()
@@ -187,7 +187,69 @@ def main():
 
     return content.data
 
+
+def get_data_dict(filepath, subject):
+    rawdata = {}
+    if filepath.endswith(".csv"):
+        import csv
+        with open(filepath, newline="") as csvfile:
+            reader = csv.reader(csvfile, delimiter=" ", quotechar="|")
+            for row in reader:
+                row = " ".join(row)
+                question = row.split(";")[1].strip()
+                answer = row.split(";")[0].strip()
+                rawdata[answer] = question
+    elif filepath.endswith(".py"):
+        import importlib.util
+        spec = importlib.util.spec_from_file_location("module.name", filepath)
+        file_ = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(file_)
+        rawdata = file_.content
+    elif filepath.endswith(".txt"):
+        with open(filepath, "r") as textfile:
+            for line in textfile.readlines():
+                if not ":" in line:
+                    print("skipping line: {} in path {}".format(line, filepath))
+                    continue
+
+                question = line.split(":")[1].strip()
+                answer = line.split(":")[0].strip()
+                rawdata[answer] = question
+    else:
+        return None
+
+    return rawdata
+
+
+def get_content(subject=None):
+    content = {}
+    work_dir = pathlib.Path(__file__).parent.absolute()
+    subject_dir = os.path.join(work_dir, "database", subject)
+    rawdata_files = workio.get_rawdata_files(subject)
+    curriculum_file = os.path.join(subject_dir, "curriculum.json")
+    if subject:
+        for filepath in rawdata_files:
+            data_dict = get_data_dict(filepath, subject)
+            if not data_dict:
+                continue
+
+            chapter, _ = os.path.splitext(os.path.basename(filepath))
+            content[chapter] = data_dict
+
+    return content
+
+
 if __name__ == "__main__":
-    content = main()
-    session = workio.Session()
+    # content = get_informatiekunde_data()
+
+    subject="Aarde, mens en milieu 1"
+    content = get_content(subject)
+    print("Chapters:", list(content.keys()))
+    no_of_questions = 0 
+    for chapter_data in content.values():
+        no_of_questions += len(list(chapter_data.keys()))
+
+    print("Total no. of questions:", no_of_questions)
+
+    session = workio.Session(subject)
     session.write_curriculum(content)

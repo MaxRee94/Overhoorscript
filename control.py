@@ -18,7 +18,7 @@ class Controller(qc.QObject):
         self.test_gui = window.TestGUI(self.title)
         self.subjects = workio.get_subjects()
         self.start_menu = window.StartMenu(self.subjects, self.title)
-        self.subject = self.subjects[-1]
+        self.subject = self.subjects[0]
         self.exam = Examinator(self.subject)
         self.state = "question"
         self.difficulty = 50
@@ -142,7 +142,7 @@ class Examinator():
             self.curriculum_total = self.session.get_curriculum()
             return
 
-        self.part_name = "Part {}".format(part_number)
+        self.part_name = list(self.curriculum_total.keys())[part_number - 1]
         if self.question_mode == "term":
             self.curriculum_session = self.curriculum_total[self.part_name]
         else:
