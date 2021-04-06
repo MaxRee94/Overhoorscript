@@ -158,7 +158,7 @@ class StartMenu(qw.QDialog):
     arial_font = qg.QFont("Arial", 16) 
     sentence_width = 100
 
-    def __init__(self, title="subject placeholder"):
+    def __init__(self, subjects, title="subject placeholder"):
         qw.QDialog.__init__(self)
 
         # window setup
@@ -182,6 +182,17 @@ class StartMenu(qw.QDialog):
         self.mainLayout.addLayout(self.search_result_layout)
         self.mainLayout.addLayout(self.search_layout)
         self.mainLayout.addWidget(self.spacer)
+
+        # subject choice
+        self.subject_announcer_text = qw.QLabel("Subject:")
+        self.mainLayout.addWidget(self.subject_announcer_text)
+        for subject in subjects:
+            subject_button = qw.QRadioButton(subject)
+            self.mainLayout.addWidget(subject_button)
+
+        # select the last-added subject by default
+        subject_button.setChecked(True)
+        self.mainLayout.addWidget(qw.QLabel(''))
 
         # question mode
         self.questionmode_label = qw.QLabel("Question mode:")
@@ -232,7 +243,7 @@ class StartMenu(qw.QDialog):
 
 
 def main():
-    gui = StartMenu()
+    gui = StartMenu(["Bedrijfsinformatiesystemen", "Aarde, mens en milieu 1"])
     gui.show()
     return gui
 

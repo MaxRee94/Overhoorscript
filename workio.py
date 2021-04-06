@@ -5,13 +5,22 @@ import pathlib
 from datetime import datetime
 
 
+def get_subjects():
+	work_dir = pathlib.Path(__file__).parent.absolute()
+	database_dir = os.path.join(work_dir, "database")
+
+	return [subject for subject in os.listdir(database_dir)
+			if os.path.isdir(os.path.join(database_dir, subject))]
+
+
 class Session():
 
-	def __init__(self):
+	def __init__(self, subject):
 		self.work_dir = pathlib.Path(__file__).parent.absolute()
-		self.database_dir = os.path.join(self.work_dir, "database")
-		self.curriculum_path = os.path.join(self.database_dir, "curriculum.json")
-		self.session_dir = os.path.join(self.database_dir, "Session_{}".format(
+		self.subject_dir = os.path.join(self.work_dir, "database", subject)
+		print("data is in subject dir:", self.subject_dir)
+		self.curriculum_path = os.path.join(self.subject_dir, "curriculum.json")
+		self.session_dir = os.path.join(self.subject_dir, "Session_{}".format(
 			datetime.strftime(datetime.now(), "%m-%d-%Y,%H-%M-%S")))
 		self.results_path = os.path.join(self.session_dir, "results.json")
 
@@ -46,8 +55,8 @@ class Session():
 	def get_part_info(self, part):
 		session_amount = 0
 		curriculum_length = len(self.get_curriculum())
-		for session_dir in os.listdir(self.database_dir):
-			session_dir = os.path.join(self.database_dir, session_dir)
+		for session_dir in os.listdir(self.subject_dir):
+			session_dir = os.path.join(self.subject_dir, session_dir)
 			if not os.path.isfile(session_dir):
 				try:
 					session_file = os.path.join(session_dir, os.listdir(session_dir)[0])

@@ -12,12 +12,14 @@ import content, workio, window
 
 class Controller(qc.QObject):
 
-    title = "'Bedrijfsinformatiesystemen'"
+    title = "Overhoorscript"
 
     def __init__(self):
         self.test_gui = window.TestGUI(self.title)
-        self.start_menu = window.StartMenu(self.title)
-        self.exam = Examinator()
+        self.subjects = workio.get_subjects()
+        self.start_menu = window.StartMenu(self.subjects, self.title)
+        self.subject = self.subjects[-1]
+        self.exam = Examinator(self.subject)
         self.state = "question"
         self.difficulty = 50
 
@@ -117,7 +119,7 @@ class Controller(qc.QObject):
 
 class Examinator():
 
-    def __init__(self):
+    def __init__(self, subject):
         self.question = ""
         self.correct_answer = ""
         self.curriculum_total = {}
@@ -131,7 +133,7 @@ class Examinator():
         self.answered_question_count = 0
         self.part_name = ""
         self.match_threshold = 70.0
-        self.session = workio.Session()
+        self.session = workio.Session(subject)
         self.question_mode = "definition"
         self.update_curriculum()
 
