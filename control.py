@@ -15,7 +15,6 @@ class Controller(qc.QObject):
     title = "'Bedrijfsinformatiesystemen'"
 
     def __init__(self):
-        qc.QObject.__init__(self)
         self.test_gui = window.TestGUI(self.title)
         self.start_menu = window.StartMenu(self.title)
         self.exam = Examinator()
@@ -68,6 +67,8 @@ class Controller(qc.QObject):
         search_query = self.start_menu.search_field.text().capitalize()
         search_result = self.exam.get_search_result(search_query)
         self.start_menu.set_search_result(search_result)
+        if self.exam.search_term:
+            self.start_menu.update_search_field(self.exam.search_term)
 
     def on_questionmode_clicked(self):
         if self.exam.question_mode == "term":
@@ -122,6 +123,7 @@ class Examinator():
         self.curriculum_total = {}
         self.curriculum_session = {}
         self.questions = []
+        self.search_term = None
         self.minimum_answer = 3
         self.result = None
         self.log = {}
@@ -157,12 +159,20 @@ class Examinator():
     def get_search_result(self, search_query):
         result = ""
         print(" search query:", search_query)
+        result_options = {}
         for part in self.curriculum_total.values():
             #print("keys:", list(part.keys()))
-            if search_query in part.keys():
-                return part[search_query]
-            elif "{} ".format(search_query) in part.keys():
-                return part["{} ".format(search_query)]
+            for term in part.keys():
+                match, percentage = self.match(search_query, term, give_percentage=True)
+                if match and percentage > 80:
+                    result_options[percentage] = {"term": term, "definition": part[term]}
+
+        try:
+            result = result_options[max(list(result_options.keys()))]["definition"]
+            self.search_term = result_options[max(list(result_options.keys()))]["term"]
+        except ValueError:
+            self.search_term = None
+            result = ""
 
         return result
 
@@ -234,7 +244,7 @@ class Examinator():
 
         return sum(conventional_matches) + sum(concatenation_matches) + sum(dash_matches) + non_dash_matches
 
-    def match(self, answer, correct_answer):
+    def match(self, answer, correct_answer, give_percentage=False):
         correct_answer = correct_answer.lower()
         answer = answer.lower()
         print("Your answer:", answer)
@@ -253,7 +263,10 @@ class Examinator():
         print("Word matches:", word_matches)
         print("Match percentage:", match_percentage)
 
-        return (match_percentage >= self.match_threshold)
+        if give_percentage:
+            return (match_percentage >= self.match_threshold), match_percentage
+        else:
+            return (match_percentage >= self.match_threshold)
 
 
 def main():

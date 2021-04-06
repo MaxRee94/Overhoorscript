@@ -206,6 +206,9 @@ class StartMenu(qw.QDialog):
         print(' search result:', search_result)
         set_multiline_text(search_result, self.sentence_width, self.search_result_layout, reveal=100)
 
+    def update_search_field(self, search_term):
+        self.search_field.setText(search_term)
+
     def add_parts_buttons(self, parts):
         clear_layout(self.parts_layout)
         horizontal_parts_amount = 5
