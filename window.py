@@ -228,7 +228,7 @@ class StartMenu(qw.QDialog):
         for part_name, part_info in parts.items():
             part_button = utils.PushButton_custom("{}\nsessions: {}".format(part_name, str(part_info)),
                                                   'Arial', 12, [40, 40, 40])
-
+            part_button.
             horizontal_layout.addWidget(part_button)
             if i < horizontal_parts_amount:
                 i += 1

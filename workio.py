@@ -75,7 +75,7 @@ class Session():
 
     def get_part_info(self, part):
         session_amount = 0
-        curriculum_length = len(self.get_curriculum())
+        part_length = len(self.get_curriculum().get(part))
         for session_dir in os.listdir(self.subject_dir):
             session_dir = os.path.join(self.subject_dir, session_dir)
             if not os.path.isfile(session_dir):
@@ -87,6 +87,7 @@ class Session():
                 session_data = self.get_data(session_file)
 
                 if part in session_data.keys():
-                    session_amount += round(len(session_data.values()) / curriculum_length, 1)
+                    #print("session amount for part", part, "is", (len(session_data[part].get("successes", {})) / part_length))
+                    session_amount += (len(session_data[part].get("successes", {})) / part_length)
 
-        return session_amount
+        return round(session_amount, 1)

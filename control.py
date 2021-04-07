@@ -132,7 +132,7 @@ class Examinator():
         self.total_question_count = 0
         self.answered_question_count = 0
         self.part_name = ""
-        self.match_threshold = 70.0
+        self.match_threshold = 100.0
         self.session = workio.Session(subject)
         self.question_mode = "definition"
         self.update_curriculum()
@@ -154,6 +154,8 @@ class Examinator():
     def get_reversed_curriculum(self, curriculum):
         reversed_curriculum = {}
         for term, definition in curriculum.items():
+            if isinstance(definition, list):
+                print("definition:", definition)
             reversed_curriculum[definition] = term
 
         return reversed_curriculum
@@ -202,7 +204,7 @@ class Examinator():
         else:
             print("-- Incorrect. The correct answer is:\n",
                   self.correct_answer)
-            #self.questions.append(self.question)
+
             self.result = False
             self.total_question_count = self.total_question_count + 1
             self.update_log("mistakes")
@@ -253,12 +255,12 @@ class Examinator():
 
         correct_words = [word for word in correct_answer.split(" ") if word]
         word_matches = self.get_word_matches(correct_words, answer)
-        match_percentage = self.get_match_percentage(word_matches, len(correct_words))
+        match_percentage = self.get_match_percentage(word_matches, len(correct_words) * 3)
 
         if match_percentage < self.match_threshold:
             correct_concatenations = self.get_all_word_concatenations(correct_words)
             _word_matches = self.get_word_matches(correct_concatenations, answer)
-            _match_percentage = self.get_match_percentage(word_matches, len(correct_words))
+            _match_percentage = self.get_match_percentage(word_matches, len(correct_words) * 3)
             if _match_percentage > match_percentage:
                 match_percentage = _match_percentage
 
