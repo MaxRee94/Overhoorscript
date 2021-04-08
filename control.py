@@ -39,12 +39,16 @@ class Controller(qc.QObject):
         self.update_gui()
         self.test_gui.show()
 
+    def close(self):
+        self.test_gui.close()
+
     def make_connections(self):
         # ---------------------------------------------- #
         # TEST UI
         # ---------------------------------------------- #
         self.test_gui.check_button.clicked.connect(self.on_check_clicked)
         self.test_gui.hint_button.clicked.connect(self.on_hint_clicked)
+        self.test_gui.skip_button.clicked.connect(self.on_skip_clicked)
         self.test_gui.closed.connect(self.exam.close)
 
         # ---------------------------------------------- #
@@ -72,6 +76,23 @@ class Controller(qc.QObject):
         if self.exam.search_term:
             self.start_menu.update_search_field(self.exam.search_term)
 
+    def on_skip_clicked(self):
+        print(f"skipping '{self.exam.question}'")
+        if not self.exam.question_mode == "term":
+            del self.exam.curriculum_total[self.exam.part_name][self.exam.correct_answer]
+            
+            if self.exam.question in self.exam.questions:
+                self.exam.questions.remove(self.exam.question)
+            self.exam.total_question_count -= 1
+
+            print("Removing question from database...")
+            self.exam.session.write_curriculum(self.exam.curriculum_total)
+            print("Removal successful.")
+
+            self.on_check_clicked()
+            if self.exam.question_mode == "evaluation":
+                self.on_check_clicked()
+
     def on_questionmode_clicked(self):
         if self.exam.question_mode == "term":
             # switch questionmode to "definition"
@@ -97,6 +118,11 @@ class Controller(qc.QObject):
             self.exam.eval(answer)
             self.update_gui(self.exam.result)
         else:
+            # Close if all questions have been answered
+            if self.exam.total_question_count == self.exam.answered_question_count:
+                self.test_gui.close()
+                return
+
             # switch state to 'question'
             self.state = "question"
             self.exam.update()
@@ -147,7 +173,7 @@ class Examinator():
             self.curriculum_session = self.curriculum_total[self.part_name]
         else:
             self.curriculum_session = self.get_reversed_curriculum(self.curriculum_total[self.part_name])
-        
+
         self.total_question_count = len(self.curriculum_session)
         self.questions = list(self.curriculum_session.keys())
 
@@ -248,8 +274,12 @@ class Examinator():
 
         return sum(conventional_matches) + sum(concatenation_matches) + sum(dash_matches) + non_dash_matches
 
+    def remove_brackets(self, correct_answer):
+        return re.sub(r"\(.+\)", "", correct_answer)
+
     def match(self, answer, correct_answer, give_percentage=False):
         correct_answer = correct_answer.lower()
+        correct_answer = self.remove_brackets(correct_answer).strip()
         answer = answer.lower()
         print("Your answer:", answer)
 

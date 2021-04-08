@@ -206,7 +206,7 @@ def get_data_dict(filepath, subject):
         spec.loader.exec_module(file_)
         rawdata = file_.content
     elif filepath.endswith(".txt"):
-        with open(filepath, "r") as textfile:
+        with open(filepath, "r", encoding="utf-8") as textfile:
             for line in textfile.readlines():
                 if not ":" in line:
                     print("skipping line: {} in path {}".format(line, filepath))

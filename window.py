@@ -96,7 +96,7 @@ class TestGUI(qw.QDialog):
         self.button_layout.addWidget(self.check_button)
         #self.button_layout.addWidget(self.consider_correct_btn)
         self.button_layout.addWidget(self.hint_button)
-        #self.button_layout.addWidget(self.skip_button)
+        self.button_layout.addWidget(self.skip_button)
         #self.button_layout.addWidget(self.mark_button)
 
         # add makePlayblast button to main layout
@@ -186,12 +186,14 @@ class StartMenu(qw.QDialog):
         # subject choice
         self.subject_announcer_text = qw.QLabel("Subject:")
         self.mainLayout.addWidget(self.subject_announcer_text)
+        subject_buttons = []
         for subject in subjects:
             subject_button = qw.QRadioButton(subject)
+            subject_buttons.append(subject_button)
             self.mainLayout.addWidget(subject_button)
 
         # select the last-added subject by default
-        subject_button.setChecked(True)
+        subject_buttons[0].setChecked(True)
         self.mainLayout.addWidget(qw.QLabel(''))
 
         # question mode
@@ -228,7 +230,7 @@ class StartMenu(qw.QDialog):
         for part_name, part_info in parts.items():
             part_button = utils.PushButton_custom("{}\nsessions: {}".format(part_name, str(part_info)),
                                                   'Arial', 12, [40, 40, 40])
-            part_button.
+
             horizontal_layout.addWidget(part_button)
             if i < horizontal_parts_amount:
                 i += 1
