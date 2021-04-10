@@ -257,7 +257,12 @@ class Examinator():
         return (word_matches / correct_words_amnt)  * 100.0
 
     def _get_word_matches(self, correct_words, answer_words):
-        return [word != "" and word in correct_words for word in answer_words]
+        matches = 0
+        for word in answer_words:
+            if word != "" and word.strip(",") in correct_words:
+                matches += 1
+
+        return matches
 
     def get_word_matches(self, correct_words, answer, recurse=True):
         conventional_matches = self._get_word_matches(correct_words, answer.split(" "))
@@ -280,10 +285,10 @@ class Examinator():
     def match(self, answer, correct_answer, give_percentage=False):
         correct_answer = correct_answer.lower()
         correct_answer = self.remove_brackets(correct_answer).strip()
-        answer = answer.lower()
+        answer = answer.lower().strip()
         print("Your answer:", answer)
 
-        correct_words = [word for word in correct_answer.split(" ") if word]
+        correct_words = [word.strip(",") for word in correct_answer.split(" ") if word]
         word_matches = self.get_word_matches(correct_words, answer)
         match_percentage = self.get_match_percentage(word_matches, len(correct_words) * 3)
 
