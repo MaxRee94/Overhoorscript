@@ -85,7 +85,7 @@ class TestGUI(qw.QDialog):
         self.content_layout.addWidget(self.spacer)
         self.content_layout.addLayout(self.correction_layout)
         self.content_layout.addWidget(self.spacer)
-        
+
         # buttons
         self.button_layout = qw.QHBoxLayout()
         self.hint_button = utils.PushButton_custom('Hint', 'Arial', 12, [60, 140, 60])
@@ -94,7 +94,7 @@ class TestGUI(qw.QDialog):
         self.mark_button = utils.PushButton_custom('Mark as important', 'Arial', 12, [60, 140, 60])
         self.consider_correct_btn = utils.PushButton_custom('Answer was correct', 'Arial', 12, [60, 140, 60])
         self.button_layout.addWidget(self.check_button)
-        #self.button_layout.addWidget(self.consider_correct_btn)
+        self.button_layout.addWidget(self.consider_correct_btn)
         self.button_layout.addWidget(self.hint_button)
         self.button_layout.addWidget(self.skip_button)
         #self.button_layout.addWidget(self.mark_button)
@@ -105,18 +105,19 @@ class TestGUI(qw.QDialog):
 
     def set_mode(self, mode):
         if mode == "question":
-            self.check_button.setText("Next Question")
-            self.gui.enable_textfield(True)
+            self.check_button.setText("Check")
+            self.enable_textfield(True)
             self.hint_button.setEnabled(True)
         else:
-            self.check_button.setText("Check")
-            self.gui.enable_textfield(False)
+            self.check_button.setText("Next Question")
+            self.enable_textfield(False)
             self.hint_button.setEnabled(False)
 
     def set_questiontext(self, questiontext, reveal=100):
         self.question_layout = set_multiline_text(questiontext, self.sentence_width, self.question_layout, reveal)
 
     def set_correctiontext(self, correctiontext, reveal=100):
+        correctiontext = correctiontext.split(" && ")[0]
         self.correction_layout = set_multiline_text(correctiontext, self.sentence_width, self.correction_layout, reveal)
 
     def reset_textfields(self):

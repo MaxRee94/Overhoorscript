@@ -49,6 +49,7 @@ class Controller(qc.QObject):
         self.test_gui.check_button.clicked.connect(self.on_check_clicked)
         self.test_gui.hint_button.clicked.connect(self.on_hint_clicked)
         self.test_gui.skip_button.clicked.connect(self.on_skip_clicked)
+        self.test_gui.consider_correct_btn.clicked.connect(self.on_consider_correct_clicked)
         self.test_gui.closed.connect(self.exam.close)
 
         # ---------------------------------------------- #
@@ -76,10 +77,47 @@ class Controller(qc.QObject):
         if self.exam.search_term:
             self.start_menu.update_search_field(self.exam.search_term)
 
+    def on_consider_correct_clicked(self):
+        user_answer = self.test_gui.txtfield.text()
+
+        if self.exam.question_mode == "definition":
+            print(f"Considering answer '{user_answer}' as correct...")
+            current_answer = self.exam.correct_answer
+            new_answer = current_answer.strip() + " && " + user_answer.strip()
+
+            self.exam.curriculum_session[self.exam.question] = new_answer
+            del self.exam.curriculum_total[self.exam.part_name][current_answer]
+            self.exam.curriculum_total[self.exam.part_name][new_answer] = (
+                self.exam.question
+            )
+
+            if self.exam.question in self.exam.questions:
+                self.exam.questions.remove(self.exam.question)
+
+            if user_answer not in self.exam.correct_answer.split(" && "):
+                print(f"Writing new answer '{new_answer}' to database...")
+                self.exam.session.write_curriculum(self.exam.curriculum_total)
+                print("New answer written succesfully.")
+            else:
+                print("Alternative answer was already in database. Skipping write.")
+
+            if current_answer in self.exam.log.get("mistakes", []):
+                self.exam.total_question_count -= 1
+                remove_mistake = True
+            else:
+                remove_mistake = False
+
+            # update log
+            self.exam.update_log("successes", remove_mistake=remove_mistake)
+
+            # update gui to indicate acceptance of alternative answer.
+            self.test_gui.replace_result(True)
+
     def on_skip_clicked(self):
         print(f"skipping '{self.exam.question}'")
         if not self.exam.question_mode == "term":
-            del self.exam.curriculum_total[self.exam.part_name][self.exam.correct_answer]
+            if self.exam.curriculum_total[self.exam.part_name].get(self.exam.correct_answer):
+                del self.exam.curriculum_total[self.exam.part_name][self.exam.correct_answer]
             
             if self.exam.question in self.exam.questions:
                 self.exam.questions.remove(self.exam.question)
@@ -112,9 +150,8 @@ class Controller(qc.QObject):
 
     def on_check_clicked(self):
         if self.state == "question":
-            # switch state to 'evaluation'
-            self.state = "evaluation"
             answer = self.test_gui.txtfield.text()
+            self.state = "evaluation"
             self.exam.eval(answer)
             self.update_gui(self.exam.result)
         else:
@@ -123,7 +160,6 @@ class Controller(qc.QObject):
                 self.test_gui.close()
                 return
 
-            # switch state to 'question'
             self.state = "question"
             self.exam.update()
             self.update_gui()
@@ -137,10 +173,12 @@ class Controller(qc.QObject):
             self.test_gui.enable_textfield(True)  
             self.test_gui.reset_textfields() 
             self.test_gui.set_questiontext(self.exam.question)
+            self.test_gui.set_mode(self.state)
         else:
             self.test_gui.enable_textfield(False)
             self.test_gui.set_correctiontext(self.exam.correct_answer)
             self.test_gui.replace_result(result)
+            self.test_gui.set_mode(self.state)
 
 
 class Examinator():
@@ -158,7 +196,7 @@ class Examinator():
         self.total_question_count = 0
         self.answered_question_count = 0
         self.part_name = ""
-        self.match_threshold = 100.0
+        self.match_threshold = 90.0
         self.session = workio.Session(subject)
         self.question_mode = "definition"
         self.update_curriculum()
@@ -193,8 +231,8 @@ class Examinator():
         for part in self.curriculum_total.values():
             #print("keys:", list(part.keys()))
             for term in part.keys():
-                match, percentage = self.match(search_query, term, give_percentage=True)
-                if match and percentage > 80:
+                match, percentage = self._match(search_query, term, log=False, match_threshold=20, give_percentage=True)
+                if match:
                     result_options[percentage] = {"term": term, "definition": part[term]}
 
         try:
@@ -204,19 +242,22 @@ class Examinator():
             self.search_term = None
             result = ""
 
-        return result
+        return result.split(" && ")[0]
 
     def close(self):
         log = {self.part_name: self.log}
         self.session.write_log(log)
 
-    def update_log(self, log_key):
+    def update_log(self, log_key, remove_mistake=False):
         if log_key in self.log.keys():
             self.log[log_key].append(self.question)
         else:
             self.log[log_key] = [self.question]
 
-    def eval(self, answer):
+        if remove_mistake:
+            self.log["mistakes"].remove(self.question)
+
+    def eval(self, answer, consider_correct=False):
         print("-- Evaluating answer:", answer, "to question", 
               self.question)
 
@@ -228,7 +269,7 @@ class Examinator():
             self.result = True
             self.update_log("successes")
         else:
-            print("-- Incorrect. The correct answer is:\n",
+            print("-- Incorrect.",
                   self.correct_answer)
 
             self.result = False
@@ -254,7 +295,10 @@ class Examinator():
         return all_word_concatenations
 
     def get_match_percentage(self, word_matches, correct_words_amnt):
-        return (word_matches / correct_words_amnt)  * 100.0
+        if correct_words_amnt == 0:
+            return 0.0
+        else:
+            return (word_matches / correct_words_amnt)  * 100.0
 
     def _get_word_matches(self, correct_words, answer_words):
         matches = 0
@@ -277,16 +321,17 @@ class Examinator():
             non_dash_correction_matches = self.get_word_matches(non_dash_corrections, answer.replace("-", ""), recurse=False)
             non_dash_matches = non_dash_answer_matches + non_dash_correction_matches
 
-        return sum(conventional_matches) + sum(concatenation_matches) + sum(dash_matches) + non_dash_matches
+        return conventional_matches + concatenation_matches + dash_matches + non_dash_matches
 
-    def remove_brackets(self, correct_answer):
-        return re.sub(r"\(.+\)", "", correct_answer)
+    def remove_brackets(self, word):
+        return re.sub(r"\(.+\) ", " ", word).strip().lower()
 
-    def match(self, answer, correct_answer, give_percentage=False):
-        correct_answer = correct_answer.lower()
-        correct_answer = self.remove_brackets(correct_answer).strip()
-        answer = answer.lower().strip()
-        print("Your answer:", answer)
+    def _match(self, answer, correct_answer, log=True, match_threshold=None, give_percentage=False):
+        correct_answer = self.remove_brackets(correct_answer)
+        answer = self.remove_brackets(answer)
+        if log:
+            print("Your answer:", answer)
+        print("Correct answer:", correct_answer)
 
         correct_words = [word.strip(",") for word in correct_answer.split(" ") if word]
         word_matches = self.get_word_matches(correct_words, answer)
@@ -299,13 +344,23 @@ class Examinator():
             if _match_percentage > match_percentage:
                 match_percentage = _match_percentage
 
-        print("Word matches:", word_matches)
-        print("Match percentage:", match_percentage)
+        # print("Word matches:", word_matches)
+        # print("Match percentage:", match_percentage)
+
+        if not match_threshold:
+            match_threshold = self.match_threshold
 
         if give_percentage:
-            return (match_percentage >= self.match_threshold), match_percentage
+            return (match_percentage >= match_threshold), match_percentage
         else:
-            return (match_percentage >= self.match_threshold)
+            return (match_percentage >= match_threshold)
+
+    def match(self, answer, correct_answer):
+        for possible_answer in correct_answer.split(" && "):
+            if self._match(answer, possible_answer):
+                return True
+
+        return False
 
 
 def main():

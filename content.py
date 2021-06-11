@@ -242,6 +242,11 @@ def get_content(subject=None):
 if __name__ == "__main__":
     # content = get_informatiekunde_data()
 
+    overwrite = False
+    if not overwrite:
+        print("Change 'overwrite' to 'True' to overwrite. You sure though? This will reset the database.")
+        exit()
+
     subject="Aarde, mens en milieu 1"
     content = get_content(subject)
     print("Chapters:", list(content.keys()))
@@ -250,6 +255,8 @@ if __name__ == "__main__":
         no_of_questions += len(list(chapter_data.keys()))
 
     print("Total no. of questions:", no_of_questions)
-
+    
     session = workio.Session(subject)
     session.write_curriculum(content)
+
+    print("\n Database reset.")
