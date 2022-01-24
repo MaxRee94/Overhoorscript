@@ -18,7 +18,7 @@ class Controller(qc.QObject):
         self.test_gui = window.TestGUI(self.title)
         self.subjects = workio.get_subjects()
         self.start_menu = window.StartMenu(self.subjects, self.title)
-        self.subject = self.subjects[0]
+        self.subject = self.subjects[2]
         self.exam = Examinator(self.subject)
         self.state = "question"
         self.difficulty = 50
@@ -89,6 +89,38 @@ class Controller(qc.QObject):
             del self.exam.curriculum_total[self.exam.part_name][current_answer]
             self.exam.curriculum_total[self.exam.part_name][new_answer] = (
                 self.exam.question
+            )
+
+            if self.exam.question in self.exam.questions:
+                self.exam.questions.remove(self.exam.question)
+
+            if user_answer not in self.exam.correct_answer.split(" && "):
+                print(f"Writing new answer '{new_answer}' to database...")
+                self.exam.session.write_curriculum(self.exam.curriculum_total)
+                print("New answer written succesfully.")
+            else:
+                print("Alternative answer was already in database. Skipping write.")
+
+            if current_answer in self.exam.log.get("mistakes", []):
+                self.exam.total_question_count -= 1
+                remove_mistake = True
+            else:
+                remove_mistake = False
+
+            # update log
+            self.exam.update_log("successes", remove_mistake=remove_mistake)
+
+            # update gui to indicate acceptance of alternative answer.
+            self.test_gui.replace_result(True)
+        else:
+            print(f"Considering answer '{user_answer}' as correct...")
+            current_answer = self.exam.correct_answer
+            new_answer = current_answer.strip() + " && " + user_answer.strip()
+
+            self.exam.curriculum_session[self.exam.question] = new_answer
+            del self.exam.curriculum_total[self.exam.part_name][self.exam.question]
+            self.exam.curriculum_total[self.exam.part_name][self.exam.question] = (
+                new_answer
             )
 
             if self.exam.question in self.exam.questions:
@@ -213,7 +245,7 @@ class Examinator():
             self.curriculum_session = self.get_reversed_curriculum(self.curriculum_total[self.part_name])
 
         self.total_question_count = len(self.curriculum_session)
-        self.questions = list(self.curriculum_session.keys())
+        self.questions = [q.split("&&")[0].trim() for q in self.curriculum_session.keys()]
 
     def get_reversed_curriculum(self, curriculum):
         reversed_curriculum = {}
@@ -356,6 +388,8 @@ class Examinator():
             return (match_percentage >= match_threshold)
 
     def match(self, answer, correct_answer):
+        print("checking:", answer)
+        print("correct answers:", ", ".join(correct_answer.split(" && ")))
         for possible_answer in correct_answer.split(" && "):
             if self._match(answer, possible_answer):
                 return True

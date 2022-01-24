@@ -6,8 +6,13 @@ from datetime import datetime
 
 
 def get_rawdata_files(subject):
-    work_dir = pathlib.Path(__file__).parent.absolute()
-    rawdata_dir = os.path.join(work_dir, "content_bronnen", subject)
+    if os.path.isdir(subject):
+        assert not os.path.isfile(subject), "Given subject dir '{}' is a file, not a directory.".format(subject)
+        rawdata_dir = subject
+    else:
+        work_dir = pathlib.Path(__file__).parent.absolute()
+        rawdata_dir = os.path.join(work_dir, "content_bronnen", subject)
+
     rawdata_files = [os.path.join(rawdata_dir, file) for file in os.listdir(rawdata_dir)]
 
     return rawdata_files

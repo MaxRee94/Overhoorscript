@@ -156,7 +156,7 @@ class StartMenu(qw.QDialog):
 
     green_style = "QLabel { background-color : green; color : white; }"
     orange_style = "QLabel { background-color : orange; color : black; }"
-    arial_font = qg.QFont("Arial", 16) 
+    arial_font = qg.QFont("Arial", 16)
     sentence_width = 100
 
     def __init__(self, subjects, title="subject placeholder"):

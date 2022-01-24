@@ -221,12 +221,16 @@ def get_data_dict(filepath, subject):
     return rawdata
 
 
-def get_content(subject=None):
+def get_content(subject=None, subject_dir=r"C:\Users\Max\OneDrive\Documenten\Sound and Music Technology\content_bronnen"):
     content = {}
     work_dir = pathlib.Path(__file__).parent.absolute()
-    subject_dir = os.path.join(work_dir, "database", subject)
+    if not subject_dir:
+        subject_dir = os.path.join(work_dir, "database", subject)
+    else:
+        subject = subject_dir
+
     rawdata_files = workio.get_rawdata_files(subject)
-    curriculum_file = os.path.join(subject_dir, "curriculum.json")
+    # curriculum_file = os.path.join(subject_dir, "curriculum.json")
     if subject:
         for filepath in rawdata_files:
             data_dict = get_data_dict(filepath, subject)
@@ -242,20 +246,20 @@ def get_content(subject=None):
 if __name__ == "__main__":
     # content = get_informatiekunde_data()
 
-    overwrite = False
+    overwrite = True
     if not overwrite:
         print("Change 'overwrite' to 'True' to overwrite. You sure though? This will reset the database.")
         exit()
 
-    subject="Aarde, mens en milieu 1"
+    subject = "Sound_and_Music_Tech"
     content = get_content(subject)
     print("Chapters:", list(content.keys()))
-    no_of_questions = 0 
+    no_of_questions = 0
     for chapter_data in content.values():
         no_of_questions += len(list(chapter_data.keys()))
 
     print("Total no. of questions:", no_of_questions)
-    
+
     session = workio.Session(subject)
     session.write_curriculum(content)
 
