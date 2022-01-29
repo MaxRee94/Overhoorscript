@@ -16,7 +16,7 @@ class Controller(qc.QObject):
     finished = qc.Signal()
 
     def __init__(self):
-        self.test_gui = window.TestGUI(self.title)
+        self.test_gui = None
         self.start_menu = None
         self.state = "question"
         self.global_prefs = workio.get_global_preferences()
@@ -42,7 +42,7 @@ class Controller(qc.QObject):
 
         #self.update_gui()
         self.show_startmenu()
-        self.make_connections()
+        self.make_menu_connections()
 
     def show_startmenu(self):
         parts = self.exam.get_parts()
@@ -57,18 +57,15 @@ class Controller(qc.QObject):
         # init session-curriculum and test menu
         self.exam.update_curriculum(part_number)
         self.exam.update()
+        self.test_gui = window.TestGUI("{}  -  {}".format(self.exam.subject, self.exam.part_name))
+        self.make_test_connections()
         self.update_gui()
         self.test_gui.show()
 
     def close(self):
         self.test_gui.close()
 
-    def make_connections(self):
-        # ---------------------------------------------- #
-        # EXAMINATOR
-        # ---------------------------------------------- #
-        # self.exam.finished.connect(self.on_finished)
-
+    def make_test_connections(self):
         # ---------------------------------------------- #
         # TEST UI
         # ---------------------------------------------- #
@@ -77,6 +74,12 @@ class Controller(qc.QObject):
         self.test_gui.skip_button.clicked.connect(self.on_skip_clicked)
         self.test_gui.consider_correct_btn.clicked.connect(self.on_consider_correct_clicked)
         self.test_gui.closed.connect(self.exam.close)
+
+    def make_menu_connections(self):
+        # ---------------------------------------------- #
+        # EXAMINATOR
+        # ---------------------------------------------- #
+        # self.exam.finished.connect(self.on_finished)
 
         # ---------------------------------------------- #
         # STARTMENU UI
@@ -264,6 +267,7 @@ class Examinator():
         self.part_name = ""
         self.match_threshold = 90.0
         self.subject_index = subject_index
+        self.subject = subject
         self.session = workio.Session(subject)
         self.question_mode = "definition"
         self.part_number = None
