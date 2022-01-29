@@ -5,6 +5,14 @@ import pathlib
 from datetime import datetime
 
 
+def get_data(db_path):
+    if not os.path.exists(db_path):
+        return {}
+    else:
+        with open(db_path, "r", encoding='utf-16') as database:
+            return json.load(database)
+
+
 def get_rawdata_files(subject):
     if os.path.isdir(subject):
         assert not os.path.isfile(subject), "Given subject dir '{}' is a file, not a directory.".format(subject)
@@ -41,6 +49,47 @@ def get_subjects():
             if os.path.isdir(os.path.join(database_dir, subject))]
 
 
+def get_subject_dirs():
+    subjects = get_subjects()
+    subject_dirs = []
+    for subj in subjects:
+        subject_dirs.append(get_subject_dir(subj))
+
+    return subject_dirs
+
+
+def get_last_session_path():
+    latest_time = 0
+    for subject_dir in get_subject_dirs():
+        session_dirs = [os.path.join(subject_dir, session_dir) for session_dir in os.listdir(subject_dir)]
+        session_dir_index = -1
+        while len(os.listdir(session_dirs[session_dir_index])) == 0:
+            session_dir_index -= 1
+
+        session_dir = session_dirs[session_dir_index]
+        session_files = os.listdir(session_dir)
+        last_session_file = os.path.join(session_dir, session_files[-1])
+
+        creation_time = os.path.getmtime(last_session_file)
+        if creation_time > latest_time:
+            latest_time = creation_time
+            latest_file = last_session_file
+
+    return latest_file
+
+
+def get_global_preferences():
+    global_preferences = {}
+
+    session_file = get_last_session_path()
+    print("Getting global prefs from file:", session_file)
+    session_data = get_data(session_file)
+    global_preferences["question_mode"] = session_data.get("question_mode", None)
+    global_preferences["subject_index"] = session_data.get("subject_index", None)
+
+    return global_preferences
+
+
 class Session():
 
     def __init__(self, subject):
@@ -50,18 +99,11 @@ class Session():
             datetime.strftime(datetime.now(), "%m-%d-%Y,%H-%M-%S")))
         self.results_path = os.path.join(self.session_dir, "results.json")
 
-    def get_data(self, db_path):
-        if not os.path.exists(db_path):
-            return {}
-        else:
-            with open(db_path, "r", encoding='utf-16') as database:
-                return json.load(database)
-
     def get_results(self):
-        return self.get_data(self.results_path)
+        return get_data(self.results_path)
 
     def get_curriculum(self):
-        return self.get_data(self.curriculum_path)
+        return get_data(self.curriculum_path)
 
     def write_log(self, data):
         print("Writing log to database at '{}'".format(self.results_path))
@@ -89,7 +131,7 @@ class Session():
                 except IndexError:
                     continue
 
-                session_data = self.get_data(session_file)
+                session_data = get_data(session_file)
 
                 if part in session_data.keys():
                     #print("session amount for part", part, "is", (len(session_data[part].get("successes", {})) / part_length))

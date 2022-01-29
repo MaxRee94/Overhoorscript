@@ -3,17 +3,19 @@ from PySide2 import QtWidgets as qw
 from PySide2 import QtGui as qg
 import random
 
+from functools import partial
+
 import sys
 import gui_utils as utils
 import os.path
 #import Test_v01 as content
 
 
-def set_multiline_text(multiline_text, sentence_width, layout=None, reveal=100):
+def set_multiline_text(multiline_text, sentence_width, layout=None, reveal=100, capitalize=False):
     clear_layout(layout)
 
     sentence = ""
-    for word in multiline_text.split(" "):
+    for i, word in enumerate(multiline_text.split(" ")):
         if reveal < 100:
             if random.randint(0, 100) > reveal:
                 word = len(word) * "."
@@ -22,8 +24,12 @@ def set_multiline_text(multiline_text, sentence_width, layout=None, reveal=100):
         if len(sentence) >= sentence_width:
             sentence_label = utils.Label_custom(sentence)
             sentence_label.setFont(qg.QFont("Arial", 16))
+            if capitalize and i == 0:
+                sentence_label = sentence_label.capitalize()
             layout.addWidget(sentence_label)
             sentence = ""
+        else:
+            sentence = sentence.capitalize()
 
     sentence_label = utils.Label_custom(sentence)
     arial_font = qg.QFont("Arial", 16) 
@@ -114,11 +120,11 @@ class TestGUI(qw.QDialog):
             self.hint_button.setEnabled(False)
 
     def set_questiontext(self, questiontext, reveal=100):
-        self.question_layout = set_multiline_text(questiontext, self.sentence_width, self.question_layout, reveal)
+        self.question_layout = set_multiline_text(questiontext, self.sentence_width, self.question_layout, reveal, capitalize=True)
 
     def set_correctiontext(self, correctiontext, reveal=100):
         correctiontext = correctiontext.split(" && ")[0]
-        self.correction_layout = set_multiline_text(correctiontext, self.sentence_width, self.correction_layout, reveal)
+        self.correction_layout = set_multiline_text(correctiontext, self.sentence_width, self.correction_layout, reveal, capitalize=True)
 
     def reset_textfields(self):
         self.check_button.setText("Check")
@@ -158,8 +164,9 @@ class StartMenu(qw.QDialog):
     orange_style = "QLabel { background-color : orange; color : black; }"
     arial_font = qg.QFont("Arial", 16)
     sentence_width = 100
+    subject_changed = qc.Signal(int)
 
-    def __init__(self, subjects, title="subject placeholder"):
+    def __init__(self, subjects, subject_index, title="subject placeholder"):
         qw.QDialog.__init__(self)
 
         # window setup
@@ -187,14 +194,15 @@ class StartMenu(qw.QDialog):
         # subject choice
         self.subject_announcer_text = qw.QLabel("Subject:")
         self.mainLayout.addWidget(self.subject_announcer_text)
-        subject_buttons = []
-        for subject in subjects:
+        self.subject_buttons = []
+        for i, subject in enumerate(subjects):
             subject_button = qw.QRadioButton(subject)
-            subject_buttons.append(subject_button)
+            self.subject_buttons.append(subject_button)
+            subject_button.clicked.connect(partial(self.on_subj_button_clicked, i))
             self.mainLayout.addWidget(subject_button)
 
-        # select the last-added subject by default
-        subject_buttons[0].setChecked(True)
+        # select one subject by default
+        self.subject_buttons[subject_index].setChecked(True)
         self.mainLayout.addWidget(qw.QLabel(''))
 
         # question mode
@@ -215,6 +223,10 @@ class StartMenu(qw.QDialog):
         # parts layout
         self.parts_layout = qw.QVBoxLayout()
         self.mainLayout.addLayout(self.parts_layout)
+
+    def on_subj_button_clicked(self, subject_index):
+        print("sending index", subject_index)
+        self.subject_changed.emit(subject_index)
 
     def set_search_result(self, search_result):
         print(' search result:', search_result)

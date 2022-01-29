@@ -13,15 +13,36 @@ import content, workio, window
 class Controller(qc.QObject):
 
     title = "Overhoorscript"
+    finished = qc.Signal()
 
     def __init__(self):
         self.test_gui = window.TestGUI(self.title)
-        self.subjects = workio.get_subjects()
-        self.start_menu = window.StartMenu(self.subjects, self.title)
-        self.subject = self.subjects[2]
-        self.exam = Examinator(self.subject)
+        self.start_menu = None
         self.state = "question"
+        self.global_prefs = workio.get_global_preferences()
+        self.question_mode = self.global_prefs["question_mode"] or "term"
+        self.subjects = workio.get_subjects()
+        self.reload()
+
+    def reload(self, subj_index=None):
+        if self.start_menu:
+            self.start_menu.deleteLater()
+            self.start_menu = None
+
+        if subj_index is None:
+            self.subj_index = self.global_prefs["subject_index"] or -1
+        else:
+            self.subj_index = subj_index
+
+        self.start_menu = window.StartMenu(self.subjects, self.subj_index, title=self.title)
+        self.subject = self.subjects[self.subj_index]
+        self.exam = Examinator(self.subject, self.subj_index)
+        self.on_questionmode_clicked(force_question_mode=self.question_mode)
         self.difficulty = 50
+
+        #self.update_gui()
+        self.show_startmenu()
+        self.make_connections()
 
     def show_startmenu(self):
         parts = self.exam.get_parts()
@@ -31,7 +52,7 @@ class Controller(qc.QObject):
     def start_test(self, part_number):
         # delete start menu
         self.start_menu.deleteLater()
-        del self.start_menu
+        self.start_menu = None
 
         # init session-curriculum and test menu
         self.exam.update_curriculum(part_number)
@@ -43,6 +64,11 @@ class Controller(qc.QObject):
         self.test_gui.close()
 
     def make_connections(self):
+        # ---------------------------------------------- #
+        # EXAMINATOR
+        # ---------------------------------------------- #
+        # self.exam.finished.connect(self.on_finished)
+
         # ---------------------------------------------- #
         # TEST UI
         # ---------------------------------------------- #
@@ -61,14 +87,23 @@ class Controller(qc.QObject):
         # search option
         self.start_menu.search_button.clicked.connect(self.execute_search)
 
+        # subject selection
+        self.start_menu.subject_changed.connect(self.reload)
+
         # parts buttons
         parts_layout = self.start_menu.parts_layout
         rows_count = parts_layout.count()
+        part_index = 1
         for i in range(rows_count):
             parts_row = parts_layout.itemAt(i).layout()
             for j in range(parts_row.count()):
                 button = parts_row.itemAt(j).widget()
-                button.clicked.connect(partial(self.start_test, i*rows_count+j+1))
+                button.clicked.connect(partial(self.start_test, part_index))
+                part_index += 1
+
+    def on_finished(self):
+        self.exam.close()
+        self.test_gui.deleteLater()
 
     def execute_search(self):
         search_query = self.start_menu.search_field.text().capitalize()
@@ -101,17 +136,6 @@ class Controller(qc.QObject):
             else:
                 print("Alternative answer was already in database. Skipping write.")
 
-            if current_answer in self.exam.log.get("mistakes", []):
-                self.exam.total_question_count -= 1
-                remove_mistake = True
-            else:
-                remove_mistake = False
-
-            # update log
-            self.exam.update_log("successes", remove_mistake=remove_mistake)
-
-            # update gui to indicate acceptance of alternative answer.
-            self.test_gui.replace_result(True)
         else:
             print(f"Considering answer '{user_answer}' as correct...")
             current_answer = self.exam.correct_answer
@@ -133,21 +157,26 @@ class Controller(qc.QObject):
             else:
                 print("Alternative answer was already in database. Skipping write.")
 
-            if current_answer in self.exam.log.get("mistakes", []):
-                self.exam.total_question_count -= 1
-                remove_mistake = True
-            else:
-                remove_mistake = False
+        self.exam.total_question_count -= 1
+        remove_mistake = True
+        # if current_answer in self.exam.log.get("mistakes", []):
+        #     self.exam.total_question_count -= 1
+        #     remove_mistake = True
+        # else:
+        #     remove_mistake = False
 
-            # update log
-            self.exam.update_log("successes", remove_mistake=remove_mistake)
+        # update log
+        self.exam.update_log("successes", remove_mistake=remove_mistake)
 
-            # update gui to indicate acceptance of alternative answer.
-            self.test_gui.replace_result(True)
+        # update gui to indicate acceptance of alternative answer.
+        self.test_gui.replace_result(True)
+
+        # update gui to indicate new remaining questions number.
+        self.test_gui.set_qtracker(self.exam.total_question_count, self.exam.answered_question_count - 1)
 
     def on_skip_clicked(self):
         print(f"skipping '{self.exam.question}'")
-        if not self.exam.question_mode == "term":
+        if self.exam.question_mode == "definition":
             if self.exam.curriculum_total[self.exam.part_name].get(self.exam.correct_answer):
                 del self.exam.curriculum_total[self.exam.part_name][self.exam.correct_answer]
             
@@ -162,13 +191,15 @@ class Controller(qc.QObject):
             self.on_check_clicked()
             if self.exam.question_mode == "evaluation":
                 self.on_check_clicked()
+        else:
+            raise NotImplementedError("Skipping questions is not yet implemented for term-definition order.")
 
-    def on_questionmode_clicked(self):
-        if self.exam.question_mode == "term":
+    def on_questionmode_clicked(self, force_question_mode=None):
+        if self.exam.question_mode == "term" or force_question_mode == "definition":
             # switch questionmode to "definition"
             self.exam.question_mode = "definition"
             self.start_menu.questionmode_button.setText("Definition - Term")
-        else:
+        elif self.exam.question_mode == "definition" or force_question_mode == "term":
             # switch questionmode to "term"
             self.exam.question_mode = "term"
             self.start_menu.questionmode_button.setText("Term - Definition")
@@ -188,8 +219,9 @@ class Controller(qc.QObject):
             self.update_gui(self.exam.result)
         else:
             # Close if all questions have been answered
-            if self.exam.total_question_count == self.exam.answered_question_count:
+            if not self.exam.questions:
                 self.test_gui.close()
+                self.reload(subj_index=self.subj_index)
                 return
 
             self.state = "question"
@@ -202,8 +234,8 @@ class Controller(qc.QObject):
         if self.state == "question": 
             self.test_gui.set_qtracker(self.exam.total_question_count,
                                        self.exam.answered_question_count)
-            self.test_gui.enable_textfield(True)  
-            self.test_gui.reset_textfields() 
+            self.test_gui.enable_textfield(True)
+            self.test_gui.reset_textfields()
             self.test_gui.set_questiontext(self.exam.question)
             self.test_gui.set_mode(self.state)
         else:
@@ -211,11 +243,13 @@ class Controller(qc.QObject):
             self.test_gui.set_correctiontext(self.exam.correct_answer)
             self.test_gui.replace_result(result)
             self.test_gui.set_mode(self.state)
+            self.test_gui.set_qtracker(self.exam.total_question_count,
+                                       self.exam.answered_question_count - 1)
 
 
 class Examinator():
 
-    def __init__(self, subject):
+    def __init__(self, subject, subject_index):
         self.question = ""
         self.correct_answer = ""
         self.curriculum_total = {}
@@ -229,14 +263,18 @@ class Examinator():
         self.answered_question_count = 0
         self.part_name = ""
         self.match_threshold = 90.0
+        self.subject_index = subject_index
         self.session = workio.Session(subject)
         self.question_mode = "definition"
+        self.part_number = None
         self.update_curriculum()
 
     def update_curriculum(self, part_number=None):
         if part_number is None:
             self.curriculum_total = self.session.get_curriculum()
             return
+        else:
+            self.part_number = part_number
 
         self.part_name = list(self.curriculum_total.keys())[part_number - 1]
         if self.question_mode == "term":
@@ -245,7 +283,7 @@ class Examinator():
             self.curriculum_session = self.get_reversed_curriculum(self.curriculum_total[self.part_name])
 
         self.total_question_count = len(self.curriculum_session)
-        self.questions = [q.split("&&")[0].trim() for q in self.curriculum_session.keys()]
+        self.questions = [q.split("&&")[0].strip() for q in self.curriculum_session.keys()]
 
     def get_reversed_curriculum(self, curriculum):
         reversed_curriculum = {}
@@ -277,7 +315,7 @@ class Examinator():
         return result.split(" && ")[0]
 
     def close(self):
-        log = {self.part_name: self.log}
+        log = {self.part_name: self.log, "question_mode": self.question_mode, "subject_index": self.subject_index}
         self.session.write_log(log)
 
     def update_log(self, log_key, remove_mistake=False):
@@ -301,8 +339,7 @@ class Examinator():
             self.result = True
             self.update_log("successes")
         else:
-            print("-- Incorrect.",
-                  self.correct_answer)
+            print("-- Incorrect.", self.correct_answer)
 
             self.result = False
             self.total_question_count = self.total_question_count + 1
@@ -312,8 +349,7 @@ class Examinator():
         return {part: self.session.get_part_info(part) for part in self.curriculum_total.keys()}
 
     def update(self):
-        self.question = self.questions[random.randint(
-                            0, len(self.questions)-1)]
+        self.question = self.questions[random.randint(0, len(self.questions) - 1)]
 
         self.correct_answer = self.curriculum_session[self.question]
 
@@ -401,9 +437,6 @@ def main():
     # GUI
     app = qg.QApplication(sys.argv)
     controller = Controller()
-    controller.update_gui()
-    controller.show_startmenu()
-    controller.make_connections()
     app.exec_()
 
 if __name__ == "__main__":
