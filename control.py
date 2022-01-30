@@ -18,16 +18,21 @@ class Controller(qc.QObject):
     def __init__(self):
         self.test_gui = None
         self.start_menu = None
-        self.state = "question"
         self.global_prefs = workio.get_global_preferences()
         self.question_mode = self.global_prefs["question_mode"] or "term"
         self.subjects = workio.get_subjects()
+        self.exam = None
         self.reload()
 
     def reload(self, subj_index=None):
+        if self.exam:
+            self.exam.close()
+            self.exam = None
         if self.start_menu:
             self.start_menu.deleteLater()
             self.start_menu = None
+
+        self.state = "question"
 
         if subj_index is None:
             self.subj_index = self.global_prefs["subject_index"] or -1
@@ -73,7 +78,7 @@ class Controller(qc.QObject):
         self.test_gui.hint_button.clicked.connect(self.on_hint_clicked)
         self.test_gui.skip_button.clicked.connect(self.on_skip_clicked)
         self.test_gui.consider_correct_btn.clicked.connect(self.on_consider_correct_clicked)
-        self.test_gui.closed.connect(self.exam.close)
+        self.test_gui.closed.connect(partial(self.reload, self.subj_index))
 
     def make_menu_connections(self):
         # ---------------------------------------------- #
@@ -224,8 +229,6 @@ class Controller(qc.QObject):
             # Close if all questions have been answered
             if not self.exam.questions:
                 self.test_gui.close()
-                self.state = "question"
-                self.reload(subj_index=self.subj_index)
             else:
                 self.state = "question"
                 self.exam.update()
@@ -288,6 +291,7 @@ class Examinator():
 
         self.total_question_count = len(self.curriculum_session)
         self.questions = [q.split("&&")[0].strip() for q in self.curriculum_session.keys()]
+        random.shuffle(self.questions)
 
     def get_reversed_curriculum(self, curriculum):
         reversed_curriculum = {}
