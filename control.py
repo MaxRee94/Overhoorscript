@@ -224,12 +224,12 @@ class Controller(qc.QObject):
             # Close if all questions have been answered
             if not self.exam.questions:
                 self.test_gui.close()
+                self.state = "question"
                 self.reload(subj_index=self.subj_index)
-                return
-
-            self.state = "question"
-            self.exam.update()
-            self.update_gui()
+            else:
+                self.state = "question"
+                self.exam.update()
+                self.update_gui()
 
     def update_gui(self, result=None):
         print('-- Updating gui...\n')
@@ -339,12 +339,15 @@ class Examinator():
 
         if self.match(answer, self.correct_answer):
             print("-- The answer was correct!")
-            self.questions.remove(self.question)
+            
             self.result = True
+            self.questions.remove(self.question)
             self.update_log("successes")
         else:
             print("-- Incorrect.", self.correct_answer)
 
+            self.questions.remove(self.question)
+            self.questions.append(self.question) # move to back of list
             self.result = False
             self.total_question_count = self.total_question_count + 1
             self.update_log("mistakes")
@@ -353,7 +356,8 @@ class Examinator():
         return {part: self.session.get_part_info(part) for part in self.curriculum_total.keys()}
 
     def update(self):
-        self.question = self.questions[random.randint(0, len(self.questions) - 1)]
+        # self.question = self.questions[random.randint(0, len(self.questions) - 1)]
+        self.question = self.questions[0]
 
         self.correct_answer = self.curriculum_session[self.question]
 

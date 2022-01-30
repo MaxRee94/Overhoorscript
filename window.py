@@ -28,7 +28,7 @@ def set_multiline_text(multiline_text, sentence_width, layout=None, reveal=100, 
                 sentence_label = sentence_label.capitalize()
             layout.addWidget(sentence_label)
             sentence = ""
-        else:
+        elif capitalize:
             sentence = sentence.capitalize()
 
     sentence_label = utils.Label_custom(sentence)
