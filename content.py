@@ -221,7 +221,7 @@ def get_data_dict(filepath, subject):
     return rawdata
 
 
-def get_content(subject=None, subject_dir=r"C:\Users\Max\OneDrive\Documenten\Sound and Music Technology\content_bronnen"):
+def get_content(subject=None, subject_dir=r"C:\Users\Max\OneDrive\Documenten\Cognitive modeling\content_bronnen"):
     content = {}
     work_dir = pathlib.Path(__file__).parent.absolute()
     if not subject_dir:
@@ -251,7 +251,7 @@ if __name__ == "__main__":
         print("Change 'overwrite' to 'True' to overwrite. You sure though? This will reset the database.")
         exit()
 
-    subject = "Sound_and_Music_Tech"
+    subject = "Cognitive Modeling"
     content = get_content(subject)
     print("Chapters:", list(content.keys()))
     no_of_questions = 0

@@ -61,7 +61,14 @@ def get_subject_dirs():
 def get_last_session_path():
     latest_time = 0
     for subject_dir in get_subject_dirs():
-        session_dirs = [os.path.join(subject_dir, session_dir) for session_dir in os.listdir(subject_dir)]
+        session_dirs = [
+            os.path.join(subject_dir, session_dir) for session_dir in os.listdir(subject_dir)
+            if os.path.isdir(os.path.join(subject_dir, session_dir))
+        ]
+        if not session_dirs:
+            print("skipping subject", subject_dir)
+            continue
+
         session_dir_index = -1
         while len(os.listdir(session_dirs[session_dir_index])) == 0:
             session_dir_index -= 1

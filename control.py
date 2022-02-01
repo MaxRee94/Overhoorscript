@@ -216,7 +216,7 @@ class Controller(qc.QObject):
         if self.state == "question":
             print("hint requested")
             self.exam.update_log("hints")
-            self.test_gui.set_correctiontext(self.exam.correct_answer, 
+            self.test_gui.set_correctiontext(self.exam.correct_answer,
                                              reveal=self.difficulty*0.8)
 
     def on_check_clicked(self):
@@ -288,6 +288,7 @@ class Examinator():
             self.curriculum_session = self.curriculum_total[self.part_name]
         else:
             self.curriculum_session = self.get_reversed_curriculum(self.curriculum_total[self.part_name])
+        self.curriculum_session = {k.strip(): v for k, v in self.curriculum_session.items()}
 
         self.total_question_count = len(self.curriculum_session)
         self.questions = [q.split("&&")[0].strip() for q in self.curriculum_session.keys()]

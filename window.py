@@ -11,10 +11,11 @@ import os.path
 #import Test_v01 as content
 
 
-def set_multiline_text(multiline_text, sentence_width, layout=None, reveal=100, capitalize=False):
+def set_multiline_text(multiline_text, sentence_width, layout=None, reveal=100):
     clear_layout(layout)
 
     sentence = ""
+    first_line = True
     for i, word in enumerate(multiline_text.split(" ")):
         if reveal < 100:
             if random.randint(0, 100) > reveal:
@@ -22,14 +23,14 @@ def set_multiline_text(multiline_text, sentence_width, layout=None, reveal=100, 
 
         sentence += word + " "
         if len(sentence) >= sentence_width:
+            if first_line:
+                sentence = sentence.capitalize()
+                first_line = False
+
             sentence_label = utils.Label_custom(sentence)
             sentence_label.setFont(qg.QFont("Arial", 16))
-            if capitalize and i == 0:
-                sentence_label = sentence_label.capitalize()
             layout.addWidget(sentence_label)
             sentence = ""
-        elif capitalize:
-            sentence = sentence.capitalize()
 
     sentence_label = utils.Label_custom(sentence)
     arial_font = qg.QFont("Arial", 16) 
@@ -120,11 +121,11 @@ class TestGUI(qw.QDialog):
             self.hint_button.setEnabled(False)
 
     def set_questiontext(self, questiontext, reveal=100):
-        self.question_layout = set_multiline_text(questiontext, self.sentence_width, self.question_layout, reveal, capitalize=True)
+        self.question_layout = set_multiline_text(questiontext, self.sentence_width, self.question_layout, reveal)
 
     def set_correctiontext(self, correctiontext, reveal=100):
         correctiontext = correctiontext.split(" && ")[0]
-        self.correction_layout = set_multiline_text(correctiontext, self.sentence_width, self.correction_layout, reveal, capitalize=True)
+        self.correction_layout = set_multiline_text(correctiontext, self.sentence_width, self.correction_layout, reveal)
 
     def reset_textfields(self):
         self.check_button.setText("Check")
